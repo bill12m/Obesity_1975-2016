@@ -1,0 +1,586 @@
+Country,Sex,Obesity (%),Region,BMI
+Afghanistan,Both sexes,2.6 [1.5-4.0],South Asia,2.6
+Afghanistan,Male,1.3 [0.5-2.8],South Asia,1.3
+Afghanistan,Female,3.8 [2.0-6.4],South Asia,3.8
+Albania,Both sexes,14.0 [10.7-17.7],Balkans,14.0
+Albania,Male,12.6 [8.1-18.0],Balkans,12.6
+Albania,Female,15.4 [10.8-20.6],Balkans,15.4
+Algeria,Both sexes,18.5 [14.9-22.2],North Africa,18.5
+Algeria,Male,11.3 [7.4-16.0],North Africa,11.3
+Algeria,Female,25.5 [19.9-31.6],North Africa,25.5
+Andorra,Both sexes,22.7 [18.2-27.6],Southern Europe,22.7
+Andorra,Male,21.3 [14.7-28.5],Southern Europe,21.3
+Andorra,Female,24.0 [17.4-31.0],Southern Europe,24.0
+Angola,Both sexes,4.1 [2.3-6.4],Southern Africa,4.1
+Angola,Male,1.6 [0.6-3.4],Southern Africa,1.6
+Angola,Female,6.3 [3.2-10.4],Southern Africa,6.3
+Antigua and Barbuda,Both sexes,13.3 [9.8-17.4],Caribbean,13.3
+Antigua and Barbuda,Male,7.3 [4.0-11.7],Caribbean,7.3
+Antigua and Barbuda,Female,19.1 [13.1-26.0],Caribbean,19.1
+Argentina,Both sexes,21.6 [18.3-25.2],South America,21.6
+Argentina,Male,20.0 [15.1-25.4],South America,20.0
+Argentina,Female,22.9 [18.3-28.1],South America,22.9
+Armenia,Both sexes,14.7 [11.4-18.5],Eastern Europe,14.7
+Armenia,Male,11.5 [6.9-17.0],Eastern Europe,11.5
+Armenia,Female,17.4 [12.6-22.8],Eastern Europe,17.4
+Australia,Both sexes,21.3 [19.0-23.8],Oceania,21.3
+Australia,Male,21.1 [17.7-24.6],Oceania,21.1
+Australia,Female,21.5 [18.3-24.8],Oceania,21.5
+Austria,Both sexes,14.7 [11.8-17.8],Eastern Europe,14.7
+Austria,Male,15.2 [11.0-20.1],Eastern Europe,15.2
+Austria,Female,14.1 [10.5-18.1],Eastern Europe,14.1
+Azerbaijan,Both sexes,13.2 [9.9-16.9],Eastern Europe,13.2
+Azerbaijan,Male,9.5 [5.6-14.5],Eastern Europe,9.5
+Azerbaijan,Female,16.3 [11.5-21.9],Eastern Europe,16.3
+Bahamas,Both sexes,24.8 [19.9-29.9],Caribbean,24.8
+Bahamas,Male,16.9 [11.0-23.8],Caribbean,16.9
+Bahamas,Female,31.8 [24.4-39.5],Caribbean,31.8
+Bahrain,Both sexes,23.6 [19.9-27.6],Middle East,23.6
+Bahrain,Male,18.4 [13.3-23.9],Middle East,18.4
+Bahrain,Female,31.4 [25.7-37.2],Middle East,31.4
+Bangladesh,Both sexes,1.5 [1.0-2.1],South Asia,1.5
+Bangladesh,Male,0.8 [0.4-1.5],South Asia,0.8
+Bangladesh,Female,2.2 [1.3-3.4],South Asia,2.2
+Barbados,Both sexes,16.0 [12.9-19.5],Caribbean,16.0
+Barbados,Male,8.8 [5.6-12.7],Caribbean,8.8
+Barbados,Female,22.9 [17.8-28.8],Caribbean,22.9
+Belarus,Both sexes,19.5 [15.3-23.9],Eastern Europe,19.5
+Belarus,Male,15.2 [10.0-21.4],Eastern Europe,15.2
+Belarus,Female,22.9 [16.7-29.6],Eastern Europe,22.9
+Belgium,Both sexes,17.6 [15.3-20.0],Western Europe,17.6
+Belgium,Male,17.1 [13.9-20.5],Western Europe,17.1
+Belgium,Female,18.0 [14.9-21.3],Western Europe,18.0
+Belize,Both sexes,17.3 [13.5-21.4],Central America,17.3
+Belize,Male,10.5 [6.6-15.6],Central America,10.5
+Belize,Female,24.0 [17.8-30.7],Central America,24.0
+Benin,Both sexes,5.5 [4.0-7.2],West Africa,5.5
+Benin,Male,2.3 [1.2-4.0],West Africa,2.3
+Benin,Female,8.2 [5.7-11.2],West Africa,8.2
+Bhutan,Both sexes,2.8 [1.7-4.1],South Asia,2.8
+Bhutan,Male,1.8 [0.8-3.3],South Asia,1.8
+Bhutan,Female,4.0 [2.2-6.4],South Asia,4.0
+Bolivia (Plurinational State of),Both sexes,14.0 [10.6-17.9],South America,14.0
+Bolivia (Plurinational State of),Male,8.9 [4.9-14.2],South America,8.9
+Bolivia (Plurinational State of),Female,18.7 [13.3-24.5],South America,18.7
+Bosnia and Herzegovina,Both sexes,13.1 [10.2-16.5],Balkans,13.1
+Bosnia and Herzegovina,Male,11.5 [7.4-16.4],Balkans,11.5
+Bosnia and Herzegovina,Female,14.5 [10.3-19.3],Balkans,14.5
+Botswana,Both sexes,14.0 [10.5-17.7],Southern Africa,14.0
+Botswana,Male,4.4 [2.2-7.4],Southern Africa,4.4
+Botswana,Female,22.5 [16.2-29.2],Southern Africa,22.5
+Brazil,Both sexes,15.5 [13.5-17.5],South America,15.5
+Brazil,Male,11.9 [9.3-14.6],South America,11.9
+Brazil,Female,18.7 [15.8-21.8],South America,18.7
+Brunei Darussalam,Both sexes,7.9 [5.6-10.6],Southeast Asia,7.9
+Brunei Darussalam,Male,6.0 [3.4-9.6],Southeast Asia,6.0
+Brunei Darussalam,Female,9.8 [6.3-14.2],Southeast Asia,9.8
+Bulgaria,Both sexes,19.3 [15.2-23.7],Balkans,19.3
+Bulgaria,Male,18.1 [12.5-24.2],Balkans,18.1
+Bulgaria,Female,20.3 [14.6-26.4],Balkans,20.3
+Burkina Faso,Both sexes,2.4 [1.6-3.4],West Africa,2.4
+Burkina Faso,Male,1.0 [0.4-1.8],West Africa,1.0
+Burkina Faso,Female,3.6 [2.2-5.3],West Africa,3.6
+Burundi,Both sexes,2.6 [1.6-4.0],East Africa,2.6
+Burundi,Male,0.9 [0.4-1.9],East Africa,0.9
+Burundi,Female,4.2 [2.4-6.8],East Africa,4.2
+Cabo Verde,Both sexes,6.9 [4.8-9.4],West Africa,6.9
+Cabo Verde,Male,3.2 [1.6-5.5],West Africa,3.2
+Cabo Verde,Female,9.8 [6.3-14.0],West Africa,9.8
+Cambodia,Both sexes,1.7 [1.1-2.5],Southeast Asia,1.7
+Cambodia,Male,1.0 [0.4-2.0],Southeast Asia,1.0
+Cambodia,Female,2.2 [1.3-3.5],Southeast Asia,2.2
+Cameroon,Both sexes,6.4 [4.9-8.2],Central Africa,6.4
+Cameroon,Male,2.9 [1.7-4.6],Central Africa,2.9
+Cameroon,Female,9.7 [7.1-12.7],Central Africa,9.7
+Canada,Both sexes,21.6 [19.0-24.2],North America,21.6
+Canada,Male,21.1 [17.4-25.1],North America,21.1
+Canada,Female,22.0 [18.5-25.7],North America,22.0
+Central African Republic,Both sexes,4.2 [2.6-6.3],Central Africa,4.2
+Central African Republic,Male,1.8 [0.8-3.6],Central Africa,1.8
+Central African Republic,Female,6.4 [3.5-10.1],Central Africa,6.4
+Chad,Both sexes,3.2 [2.2-4.6],North Africa,3.2
+Chad,Male,1.5 [0.7-2.7],North Africa,1.5
+Chad,Female,4.8 [3.0-7.3],North Africa,4.8
+Chile,Both sexes,21.5 [18.3-24.9],South America,21.5
+Chile,Male,18.0 [13.8-22.9],South America,18.0
+Chile,Female,24.7 [20.1-29.5],South America,24.7
+China,Both sexes,2.7 [2.2-3.2],East Asia,2.7
+China,Male,2.1 [1.6-2.7],East Asia,2.1
+China,Female,3.3 [2.6-4.1],East Asia,3.3
+Colombia,Both sexes,16.2 [13.4-19.1],South America,16.2
+Colombia,Male,11.4 [8.0-15.4],South America,11.4
+Colombia,Female,20.4 [16.4-24.6],South America,20.4
+Comoros,Both sexes,4.5 [3.0-6.4],Southern Africa,4.5
+Comoros,Male,1.8 [0.8-3.4],Southern Africa,1.8
+Comoros,Female,7.1 [4.5-10.6],Southern Africa,7.1
+Congo,Both sexes,5.6 [3.9-7.6],Central Africa,5.6
+Congo,Male,2.6 [1.3-4.6],Central Africa,2.6
+Congo,Female,8.4 [5.6-11.9],Central Africa,8.4
+Cook Islands,Both sexes,46.6 [41.3-52.2],Oceania,46.6
+Cook Islands,Male,41.5 [33.7-49.3],Oceania,41.5
+Cook Islands,Female,51.9 [44.6-59.1],Oceania,51.9
+Costa Rica,Both sexes,16.0 [12.8-19.5],Central America,16.0
+Costa Rica,Male,11.6 [7.7-16.2],Central America,11.6
+Costa Rica,Female,20.4 [15.6-25.9],Central America,20.4
+Croatia,Both sexes,18.3 [15.0-21.9],Balkans,18.3
+Croatia,Male,16.6 [12.1-21.7],Balkans,16.6
+Croatia,Female,19.6 [15.0-24.6],Balkans,19.6
+Cuba,Both sexes,18.2 [14.8-21.6],Caribbean,18.2
+Cuba,Male,12.1 [8.1-16.5],Caribbean,12.1
+Cuba,Female,24.2 [19.0-29.9],Caribbean,24.2
+Cyprus,Both sexes,17.1 [13.3-21.3],Balkans,17.1
+Cyprus,Male,15.9 [10.6-22.2],Balkans,15.9
+Cyprus,Female,18.3 [12.9-24.1],Balkans,18.3
+Czechia,Both sexes,21.5 [18.0-25.2],Eastern Europe,21.5
+Czechia,Male,20.2 [15.4-25.3],Eastern Europe,20.2
+Czechia,Female,22.6 [17.9-27.7],Eastern Europe,22.6
+Côte d'Ivoire,Both sexes,5.5 [4.0-7.2],West Africa,5.5
+Côte d'Ivoire,Male,2.7 [1.4-4.5],West Africa,2.7
+Côte d'Ivoire,Female,8.8 [6.1-12.1],West Africa,8.8
+Democratic People's Republic of Korea,Both sexes,4.3 [2.6-6.5],East Asia,4.3
+Democratic People's Republic of Korea,Male,3.3 [1.5-6.0],East Asia,3.3
+Democratic People's Republic of Korea,Female,5.1 [2.5-8.5],East Asia,5.1
+Democratic Republic of the Congo,Both sexes,3.4 [2.2-5.1],Central Africa,3.4
+Democratic Republic of the Congo,Male,1.5 [0.6-3.1],Central Africa,1.5
+Democratic Republic of the Congo,Female,5.1 [3.0-8.0],Central Africa,5.1
+Denmark,Both sexes,14.7 [12.4-17.2],Northern Europe,14.7
+Denmark,Male,15.6 [12.3-19.2],Northern Europe,15.6
+Denmark,Female,13.7 [10.3-17.4],Northern Europe,13.7
+Djibouti,Both sexes,9.8 [6.9-13.2],East Africa,9.8
+Djibouti,Male,5.5 [2.7-9.4],East Africa,5.5
+Djibouti,Female,13.9 [9.0-19.7],East Africa,13.9
+Dominica,Both sexes,20.3 [16.3-24.8],Caribbean,20.3
+Dominica,Male,12.5 [7.9-18.1],Caribbean,12.5
+Dominica,Female,27.8 [21.3-34.8],Caribbean,27.8
+Dominican Republic,Both sexes,17.2 [14.1-20.6],Caribbean,17.2
+Dominican Republic,Male,10.9 [7.2-15.3],Caribbean,10.9
+Dominican Republic,Female,23.6 [18.5-28.9],Caribbean,23.6
+Ecuador,Both sexes,14.0 [10.6-17.9],South America,14.0
+Ecuador,Male,9.5 [5.5-14.6],South America,9.5
+Ecuador,Female,18.4 [12.9-24.3],South America,18.4
+Egypt,Both sexes,23.3 [20.2-26.4],North Africa,23.3
+Egypt,Male,14.4 [10.8-18.7],North Africa,14.4
+Egypt,Female,31.8 [27.0-36.7],North Africa,31.8
+El Salvador,Both sexes,16.7 [13.1-20.7],Central America,16.7
+El Salvador,Male,11.6 [7.2-17.0],Central America,11.6
+El Salvador,Female,20.9 [15.7-26.6],Central America,20.9
+Equatorial Guinea,Both sexes,4.6 [2.8-6.9],Central Africa,4.6
+Equatorial Guinea,Male,2.0 [0.7-4.0],Central Africa,2.0
+Equatorial Guinea,Female,7.6 [4.3-11.9],Central Africa,7.6
+Eritrea,Both sexes,2.5 [1.6-3.7],East Africa,2.5
+Eritrea,Male,0.9 [0.4-1.8],East Africa,0.9
+Eritrea,Female,3.8 [2.3-5.8],East Africa,3.8
+Estonia,Both sexes,17.8 [15.4-20.3],Eastern Europe,17.8
+Estonia,Male,15.0 [11.8-18.5],Eastern Europe,15.0
+Estonia,Female,19.8 [16.2-23.6],Eastern Europe,19.8
+Eswatini,Both sexes,11.4 [8.3-14.8],Southern Africa,11.4
+Eswatini,Male,2.8 [1.4-5.0],Southern Africa,2.8
+Eswatini,Female,18.6 [13.1-24.8],Southern Africa,18.6
+Ethiopia,Both sexes,2.2 [1.3-3.2],East Africa,2.2
+Ethiopia,Male,0.9 [0.4-1.7],East Africa,0.9
+Ethiopia,Female,3.4 [1.9-5.3],East Africa,3.4
+Fiji,Both sexes,22.1 [17.4-26.9],Oceania,22.1
+Fiji,Male,16.5 [10.7-23.0],Oceania,16.5
+Fiji,Female,27.6 [20.9-34.7],Oceania,27.6
+Finland,Both sexes,17.1 [15.1-19.2],Northern Europe,17.1
+Finland,Male,17.3 [14.3-20.5],Northern Europe,17.3
+Finland,Female,16.7 [14.0-19.6],Northern Europe,16.7
+France,Both sexes,16.5 [13.8-19.5],Western Europe,16.5
+France,Male,15.6 [11.8-19.9],Western Europe,15.6
+France,Female,17.3 [13.4-21.3],Western Europe,17.3
+Gabon,Both sexes,10.0 [7.0-13.5],Central Africa,10.0
+Gabon,Male,5.2 [2.5-9.3],Central Africa,5.2
+Gabon,Female,14.4 [9.4-20.2],Central Africa,14.4
+Gambia,Both sexes,5.3 [3.8-7.2],West Africa,5.3
+Gambia,Male,2.4 [1.3-4.2],West Africa,2.4
+Gambia,Female,8.4 [5.5-11.7],West Africa,8.4
+Georgia,Both sexes,14.5 [10.9-18.3],Eastern Europe,14.5
+Georgia,Male,11.8 [7.4-17.5],Eastern Europe,11.8
+Georgia,Female,16.6 [11.6-22.2],Eastern Europe,16.6
+Germany,Both sexes,17.0 [15.2-18.9],Northern Europe,17.0
+Germany,Male,17.4 [14.6-20.2],Northern Europe,17.4
+Germany,Female,16.3 [14.0-18.9],Northern Europe,16.3
+Ghana,Both sexes,6.1 [4.7-7.6],West Africa,6.1
+Ghana,Male,2.1 [1.2-3.3],West Africa,2.1
+Ghana,Female,9.9 [7.4-12.8],West Africa,9.9
+Greece,Both sexes,19.3 [15.8-22.9],Balkans,19.3
+Greece,Male,16.9 [12.1-22.2],Balkans,16.9
+Greece,Female,21.4 [16.4-27.0],Balkans,21.4
+Grenada,Both sexes,14.4 [10.9-18.4],Caribbean,14.4
+Grenada,Male,7.7 [4.4-11.9],Caribbean,7.7
+Grenada,Female,20.5 [14.7-27.0],Caribbean,20.5
+Guatemala,Both sexes,13.9 [10.9-17.1],Central America,13.9
+Guatemala,Male,8.9 [5.4-13.2],Central America,8.9
+Guatemala,Female,18.3 [13.9-23.3],Central America,18.3
+Guinea,Both sexes,4.1 [2.8-5.6],West Africa,4.1
+Guinea,Male,1.7 [0.8-3.1],West Africa,1.7
+Guinea,Female,6.3 [4.1-9.0],West Africa,6.3
+Guinea-Bissau,Both sexes,4.8 [3.2-6.8],West Africa,4.8
+Guinea-Bissau,Male,2.1 [1.0-3.8],West Africa,2.1
+Guinea-Bissau,Female,7.3 [4.6-10.9],West Africa,7.3
+Guyana,Both sexes,12.8 [9.5-16.6],South America,12.8
+Guyana,Male,6.9 [3.9-11.1],South America,6.9
+Guyana,Female,18.6 [13.0-25.0],South America,18.6
+Haiti,Both sexes,12.0 [9.1-15.4],Caribbean,12.0
+Haiti,Male,7.8 [4.4-12.5],Caribbean,7.8
+Haiti,Female,15.8 [11.3-20.9],Caribbean,15.8
+Honduras,Both sexes,13.5 [10.5-16.9],Central America,13.5
+Honduras,Male,8.8 [5.2-13.4],Central America,8.8
+Honduras,Female,18.1 [13.5-23.3],Central America,18.1
+Hungary,Both sexes,20.2 [16.8-24.0],Eastern Europe,20.2
+Hungary,Male,20.0 [15.1-25.3],Eastern Europe,20.0
+Hungary,Female,20.2 [15.4-25.5],Eastern Europe,20.2
+Iceland,Both sexes,16.8 [14.1-19.6],Northern Europe,16.8
+Iceland,Male,17.3 [13.4-21.5],Northern Europe,17.3
+Iceland,Female,16.2 [12.7-20.0],Northern Europe,16.2
+India,Both sexes,1.8 [1.5-2.2],South Asia,1.8
+India,Male,1.1 [0.8-1.5],South Asia,1.1
+India,Female,2.6 [2.0-3.2],South Asia,2.6
+Indonesia,Both sexes,3.0 [2.2-3.9],Southeast Asia,3.0
+Indonesia,Male,1.6 [0.9-2.5],Southeast Asia,1.6
+Indonesia,Female,4.3 [2.9-6.0],Southeast Asia,4.3
+Iran (Islamic Republic of),Both sexes,17.6 [15.7-19.4],Central Asia,17.6
+Iran (Islamic Republic of),Male,11.3 [9.2-13.6],Central Asia,11.3
+Iran (Islamic Republic of),Female,24.1 [21.1-27.3],Central Asia,24.1
+Iraq,Both sexes,23.0 [19.2-27.1],Middle East,23.0
+Iraq,Male,15.8 [10.9-21.2],Middle East,15.8
+Iraq,Female,29.9 [23.8-36.4],Middle East,29.9
+Ireland,Both sexes,17.0 [13.9-20.3],Western Europe,17.0
+Ireland,Male,16.5 [12.0-21.3],Western Europe,16.5
+Ireland,Female,17.5 [13.5-22.0],Western Europe,17.5
+Israel,Both sexes,21.7 [18.3-25.5],Middle East,21.7
+Israel,Male,19.7 [14.9-25.2],Middle East,19.7
+Israel,Female,23.5 [18.7-29.0],Middle East,23.5
+Italy,Both sexes,15.6 [13.7-17.7],Southern Europe,15.6
+Italy,Male,14.7 [12.2-17.5],Southern Europe,14.7
+Italy,Female,16.4 [13.7-19.2],Southern Europe,16.4
+Jamaica,Both sexes,16.9 [14.1-20.0],Caribbean,16.9
+Jamaica,Male,8.6 [5.9-11.9],Caribbean,8.6
+Jamaica,Female,24.9 [20.2-30.0],Caribbean,24.9
+Japan,Both sexes,2.2 [1.9-2.7],East Asia,2.2
+Japan,Male,2.1 [1.6-2.7],East Asia,2.1
+Japan,Female,2.4 [1.8-3.0],East Asia,2.4
+Jordan,Both sexes,27.5 [24.3-30.9],Middle East,27.5
+Jordan,Male,19.6 [15.3-24.4],Middle East,19.6
+Jordan,Female,36.0 [31.3-40.8],Middle East,36.0
+Kazakhstan,Both sexes,14.7 [11.3-18.4],Central Asia,14.7
+Kazakhstan,Male,12.4 [7.9-18.0],Central Asia,12.4
+Kazakhstan,Female,16.5 [12.0-21.7],Central Asia,16.5
+Kenya,Both sexes,3.6 [2.4-5.0],East Africa,3.6
+Kenya,Male,1.3 [0.6-2.4],East Africa,1.3
+Kenya,Female,5.8 [3.7-8.3],East Africa,5.8
+Kiribati,Both sexes,36.6 [31.4-41.9],Oceania,36.6
+Kiribati,Male,31.0 [23.7-38.6],Oceania,31.0
+Kiribati,Female,42.1 [34.6-49.6],Oceania,42.1
+Kuwait,Both sexes,30.5 [27.2-34.0],Middle East,30.5
+Kuwait,Male,25.1 [20.8-29.7],Middle East,25.1
+Kuwait,Female,40.2 [35.4-45.2],Middle East,40.2
+Kyrgyzstan,Both sexes,10.2 [7.5-13.5],Central Asia,10.2
+Kyrgyzstan,Male,8.2 [4.6-12.9],Central Asia,8.2
+Kyrgyzstan,Female,12.0 [8.1-16.6],Central Asia,12.0
+Lao People's Democratic Republic,Both sexes,2.0 [1.2-3.0],Southeast Asia,2.0
+Lao People's Democratic Republic,Male,1.0 [0.5-1.9],Southeast Asia,1.0
+Lao People's Democratic Republic,Female,2.8 [1.5-4.5],Southeast Asia,2.8
+Latvia,Both sexes,19.7 [15.6-24.2],Eastern Europe,19.7
+Latvia,Male,15.7 [10.5-21.9],Eastern Europe,15.7
+Latvia,Female,22.8 [16.8-29.5],Eastern Europe,22.8
+Lebanon,Both sexes,25.3 [21.3-29.4],Middle East,25.3
+Lebanon,Male,19.5 [14.3-25.2],Middle East,19.5
+Lebanon,Female,30.9 [25.1-37.1],Middle East,30.9
+Lesotho,Both sexes,10.8 [8.1-14.0],Southern Africa,10.8
+Lesotho,Male,2.0 [1.0-3.6],Southern Africa,2.0
+Lesotho,Female,17.6 [12.9-23.1],Southern Africa,17.6
+Liberia,Both sexes,5.9 [4.2-7.8],West Africa,5.9
+Liberia,Male,2.9 [1.5-5.0],West Africa,2.9
+Liberia,Female,8.7 [5.9-12.2],West Africa,8.7
+Libya,Both sexes,24.5 [20.5-28.8],North Africa,24.5
+Libya,Male,17.1 [12.2-22.7],North Africa,17.1
+Libya,Female,32.7 [26.3-39.2],North Africa,32.7
+Lithuania,Both sexes,22.1 [18.8-25.7],Eastern Europe,22.1
+Lithuania,Male,18.0 [13.6-23.0],Eastern Europe,18.0
+Lithuania,Female,25.3 [20.6-30.3],Eastern Europe,25.3
+Luxembourg,Both sexes,16.6 [13.2-20.6],Western Europe,16.6
+Luxembourg,Male,16.9 [11.7-22.9],Western Europe,16.9
+Luxembourg,Female,16.3 [11.5-21.5],Western Europe,16.3
+Madagascar,Both sexes,2.5 [1.6-3.7],Southern Africa,2.5
+Madagascar,Male,1.3 [0.6-2.4],Southern Africa,1.3
+Madagascar,Female,3.7 [2.2-5.7],Southern Africa,3.7
+Malawi,Both sexes,3.0 [2.0-4.2],Southern Africa,3.0
+Malawi,Male,1.1 [0.4-2.1],Southern Africa,1.1
+Malawi,Female,4.7 [3.0-6.9],Southern Africa,4.7
+Malaysia,Both sexes,7.9 [6.3-9.8],Southeast Asia,7.9
+Malaysia,Male,5.6 [3.7-7.7],Southeast Asia,5.6
+Malaysia,Female,10.3 [7.6-13.5],Southeast Asia,10.3
+Maldives,Both sexes,3.4 [2.3-4.8],South Asia,3.4
+Maldives,Male,1.8 [0.9-3.2],South Asia,1.8
+Maldives,Female,5.1 [3.1-7.8],South Asia,5.1
+Mali,Both sexes,4.3 [3.0-5.8],North Africa,4.3
+Mali,Male,1.9 [0.9-3.4],North Africa,1.9
+Mali,Female,6.4 [4.2-9.0],North Africa,6.4
+Malta,Both sexes,23.9 [19.5-28.5],Southern Europe,23.9
+Malta,Male,22.2 [16.2-28.8],Southern Europe,22.2
+Malta,Female,25.4 [19.2-31.9],Southern Europe,25.4
+Marshall Islands,Both sexes,45.0 [39.5-50.4],Oceania,45.0
+Marshall Islands,Male,38.7 [30.5-46.8],Oceania,38.7
+Marshall Islands,Female,51.1 [43.5-58.5],Oceania,51.1
+Mauritania,Both sexes,7.4 [5.4-9.8],North Africa,7.4
+Mauritania,Male,3.2 [1.7-5.4],North Africa,3.2
+Mauritania,Female,11.2 [7.6-15.6],North Africa,11.2
+Mauritius,Both sexes,7.2 [5.3-9.5],Southern Africa,7.2
+Mauritius,Male,3.5 [1.9-5.8],Southern Africa,3.5
+Mauritius,Female,10.7 [7.4-14.6],Southern Africa,10.7
+Mexico,Both sexes,21.8 [19.3-24.4],North America,21.8
+Mexico,Male,17.1 [13.8-20.7],North America,17.1
+Mexico,Female,25.9 [22.2-29.7],North America,25.9
+Micronesia (Federated States of),Both sexes,36.0 [31.2-41.1],Oceania,36.0
+Micronesia (Federated States of),Male,29.0 [22.4-36.3],Oceania,29.0
+Micronesia (Federated States of),Female,42.6 [35.7-49.7],Oceania,42.6
+Monaco,Both sexes,No data,Western Europe,0
+Monaco,Male,No data,Western Europe,0
+Monaco,Female,No data,Western Europe,0
+Mongolia,Both sexes,12.3 [9.6-15.4],Central Asia,12.3
+Mongolia,Male,9.3 [5.9-13.6],Central Asia,9.3
+Mongolia,Female,15.2 [10.9-19.9],Central Asia,15.2
+Montenegro,Both sexes,17.1 [13.1-21.6],Balkans,17.1
+Montenegro,Male,15.6 [10.0-22.1],Balkans,15.6
+Montenegro,Female,18.4 [12.8-24.7],Balkans,18.4
+Morocco,Both sexes,17.7 [14.2-21.5],North Africa,17.7
+Morocco,Male,11.4 [7.3-16.2],North Africa,11.4
+Morocco,Female,23.4 [18.2-29.1],North Africa,23.4
+Mozambique,Both sexes,4.0 [2.7-5.6],Southern Africa,4.0
+Mozambique,Male,1.7 [0.8-3.0],Southern Africa,1.7
+Mozambique,Female,6.0 [3.8-8.7],Southern Africa,6.0
+Myanmar,Both sexes,2.5 [1.7-3.5],Southeast Asia,2.5
+Myanmar,Male,1.4 [0.7-2.5],Southeast Asia,1.4
+Myanmar,Female,3.4 [2.0-5.2],Southeast Asia,3.4
+Namibia,Both sexes,10.2 [7.7-13.2],Southern Africa,10.2
+Namibia,Male,3.2 [1.6-5.4],Southern Africa,3.2
+Namibia,Female,16.4 [11.9-21.6],Southern Africa,16.4
+Nauru,Both sexes,55.9 [51.5-60.3],Oceania,55.9
+Nauru,Male,51.9 [45.5-58.3],Oceania,51.9
+Nauru,Female,59.8 [53.6-65.7],Oceania,59.8
+Nepal,Both sexes,1.8 [1.2-2.5],South Asia,1.8
+Nepal,Male,1.1 [0.5-1.9],South Asia,1.1
+Nepal,Female,2.5 [1.6-3.7],South Asia,2.5
+Netherlands,Both sexes,13.9 [11.8-16.2],Western Europe,13.9
+Netherlands,Male,13.0 [10.0-16.3],Western Europe,13.0
+Netherlands,Female,14.7 [11.9-17.9],Western Europe,14.7
+New Zealand,Both sexes,22.7 [20.0-25.4],Oceania,22.7
+New Zealand,Male,21.4 [17.6-25.5],Oceania,21.4
+New Zealand,Female,23.8 [20.1-27.6],Oceania,23.8
+Nicaragua,Both sexes,16.5 [13.1-20.1],Central America,16.5
+Nicaragua,Male,11.3 [7.1-16.5],Central America,11.3
+Nicaragua,Female,21.3 [16.5-26.6],Central America,21.3
+Niger,Both sexes,2.8 [1.9-4.0],West Africa,2.8
+Niger,Male,1.1 [0.5-2.1],West Africa,1.1
+Niger,Female,4.5 [2.8-6.7],West Africa,4.5
+Nigeria,Both sexes,4.4 [3.4-5.6],West Africa,4.4
+Nigeria,Male,1.9 [1.2-3.0],West Africa,1.9
+Nigeria,Female,6.8 [5.0-9.1],West Africa,6.8
+Niue,Both sexes,39.0 [33.5-44.6],Oceania,39.0
+Niue,Male,32.5 [24.4-41.1],Oceania,32.5
+Niue,Female,45.6 [37.8-53.1],Oceania,45.6
+Norway,Both sexes,16.8 [14.4-19.4],Northern Europe,16.8
+Norway,Male,16.1 [12.8-19.7],Northern Europe,16.1
+Norway,Female,17.5 [14.3-20.9],Northern Europe,17.5
+Oman,Both sexes,18.8 [15.7-22.1],Middle East,18.8
+Oman,Male,14.2 [10.3-18.4],Middle East,14.2
+Oman,Female,25.7 [20.5-31.0],Middle East,25.7
+Pakistan,Both sexes,4.3 [3.2-5.8],South Asia,4.3
+Pakistan,Male,2.7 [1.6-4.3],South Asia,2.7
+Pakistan,Female,6.1 [4.2-8.7],South Asia,6.1
+Palau,Both sexes,46.2 [40.5-51.8],Oceania,46.2
+Palau,Male,40.6 [32.6-48.8],Oceania,40.6
+Palau,Female,51.5 [43.4-59.1],Oceania,51.5
+Panama,Both sexes,15.7 [12.4-19.4],Central America,15.7
+Panama,Male,11.2 [7.4-15.9],Central America,11.2
+Panama,Female,20.2 [15.0-26.0],Central America,20.2
+Papua New Guinea,Both sexes,14.1 [10.1-18.7],Oceania,14.1
+Papua New Guinea,Male,10.1 [5.4-16.2],Oceania,10.1
+Papua New Guinea,Female,18.0 [11.7-25.1],Oceania,18.0
+Paraguay,Both sexes,13.3 [9.6-17.3],South America,13.3
+Paraguay,Male,10.5 [6.0-16.4],South America,10.5
+Paraguay,Female,16.1 [10.5-22.5],South America,16.1
+Peru,Both sexes,14.2 [11.8-16.9],South America,14.2
+Peru,Male,9.9 [6.8-13.6],South America,9.9
+Peru,Female,18.4 [14.7-22.4],South America,18.4
+Philippines,Both sexes,3.6 [2.7-4.7],Southeast Asia,3.6
+Philippines,Male,2.6 [1.5-4.0],Southeast Asia,2.6
+Philippines,Female,4.5 [3.2-6.2],Southeast Asia,4.5
+Poland,Both sexes,18.1 [16.0-20.4],Eastern Europe,18.1
+Poland,Male,16.9 [13.9-20.0],Eastern Europe,16.9
+Poland,Female,19.0 [15.9-22.2],Eastern Europe,19.0
+Portugal,Both sexes,14.6 [12.0-17.4],Southern Europe,14.6
+Portugal,Male,13.0 [9.7-16.5],Southern Europe,13.0
+Portugal,Female,16.0 [12.1-20.4],Southern Europe,16.0
+Qatar,Both sexes,27.4 [23.0-32.1],Middle East,27.4
+Qatar,Male,23.4 [17.8-29.6],Middle East,23.4
+Qatar,Female,36.8 [30.5-43.1],Middle East,36.8
+Republic of Korea,Both sexes,3.1 [2.4-3.8],East Asia,3.1
+Republic of Korea,Male,2.5 [1.7-3.5],East Asia,2.5
+Republic of Korea,Female,3.5 [2.6-4.7],East Asia,3.5
+Republic of Moldova,Both sexes,14.7 [11.2-18.5],Eastern Europe,14.7
+Republic of Moldova,Male,10.9 [6.6-16.2],Eastern Europe,10.9
+Republic of Moldova,Female,17.9 [12.8-23.6],Eastern Europe,17.9
+Republic of North Macedonia,Both sexes,17.7 [13.6-22.0],Balkans,17.7
+Republic of North Macedonia,Male,16.5 [10.7-23.1],Balkans,16.5
+Republic of North Macedonia,Female,18.7 [13.4-24.9],Balkans,18.7
+Romania,Both sexes,16.8 [13.6-20.3],Eastern Europe,16.8
+Romania,Male,15.8 [11.3-21.0],Eastern Europe,15.8
+Romania,Female,17.6 [13.1-22.3],Eastern Europe,17.6
+Russian Federation,Both sexes,19.5 [17.5-21.5],Eastern Europe,19.5
+Russian Federation,Male,12.6 [10.4-15.2],Eastern Europe,12.6
+Russian Federation,Female,24.9 [21.8-28.0],Eastern Europe,24.9
+Rwanda,Both sexes,2.6 [1.7-3.8],East Africa,2.6
+Rwanda,Male,0.7 [0.3-1.4],East Africa,0.7
+Rwanda,Female,4.3 [2.6-6.5],East Africa,4.3
+Saint Kitts and Nevis,Both sexes,15.3 [11.6-19.4],Caribbean,15.3
+Saint Kitts and Nevis,Male,8.8 [5.2-13.7],Caribbean,8.8
+Saint Kitts and Nevis,Female,21.4 [15.4-28.3],Caribbean,21.4
+Saint Lucia,Both sexes,13.7 [10.5-17.1],Caribbean,13.7
+Saint Lucia,Male,7.4 [4.4-11.2],Caribbean,7.4
+Saint Lucia,Female,19.6 [14.5-25.3],Caribbean,19.6
+Saint Vincent and the Grenadines,Both sexes,15.6 [11.8-19.6],Caribbean,15.6
+Saint Vincent and the Grenadines,Male,9.2 [5.3-14.3],Caribbean,9.2
+Saint Vincent and the Grenadines,Female,22.0 [15.6-28.9],Caribbean,22.0
+Samoa,Both sexes,38.1 [33.3-43.1],Oceania,38.1
+Samoa,Male,29.8 [23.2-37.0],Oceania,29.8
+Samoa,Female,46.8 [40.1-53.7],Oceania,46.8
+San Marino,Both sexes,No data,Southern Europe,0
+San Marino,Male,No data,Southern Europe,0
+San Marino,Female,No data,Southern Europe,0
+Sao Tome and Principe,Both sexes,6.9 [4.9-9.4],Central Africa,6.9
+Sao Tome and Principe,Male,3.3 [1.8-5.6],Central Africa,3.3
+Sao Tome and Principe,Female,10.0 [6.6-14.2],Central Africa,10.0
+Saudi Arabia,Both sexes,27.1 [24.2-30.1],Middle East,27.1
+Saudi Arabia,Male,21.3 [17.4-25.4],Middle East,21.3
+Saudi Arabia,Female,35.0 [30.7-39.4],Middle East,35.0
+Senegal,Both sexes,5.1 [3.6-6.9],West Africa,5.1
+Senegal,Male,2.0 [1.0-3.6],West Africa,2.0
+Senegal,Female,7.8 [5.3-10.8],West Africa,7.8
+Serbia,Both sexes,16.2 [13.3-19.2],Balkans,16.2
+Serbia,Male,14.5 [10.7-18.8],Balkans,14.5
+Serbia,Female,17.7 [13.7-22.2],Balkans,17.7
+Seychelles,Both sexes,9.2 [6.8-12.0],Southern Africa,9.2
+Seychelles,Male,4.3 [2.4-6.9],Southern Africa,4.3
+Seychelles,Female,13.8 [9.8-18.5],Southern Africa,13.8
+Sierra Leone,Both sexes,4.9 [3.4-6.6],West Africa,4.9
+Sierra Leone,Male,1.8 [0.9-3.3],West Africa,1.8
+Sierra Leone,Female,7.7 [5.0-11.1],West Africa,7.7
+Singapore,Both sexes,4.6 [3.4-6.0],Southeast Asia,4.6
+Singapore,Male,3.7 [2.2-5.5],Southeast Asia,3.7
+Singapore,Female,5.4 [3.6-7.7],Southeast Asia,5.4
+Slovakia,Both sexes,16.0 [12.9-19.5],Eastern Europe,16.0
+Slovakia,Male,15.1 [10.7-20.1],Eastern Europe,15.1
+Slovakia,Female,16.7 [12.5-21.3],Eastern Europe,16.7
+Slovenia,Both sexes,15.7 [12.0-19.9],Balkans,15.7
+Slovenia,Male,13.7 [8.6-19.6],Balkans,13.7
+Slovenia,Female,17.4 [12.2-23.6],Balkans,17.4
+Solomon Islands,Both sexes,14.4 [10.7-18.7],Oceania,14.4
+Solomon Islands,Male,10.2 [5.9-15.8],Oceania,10.2
+Solomon Islands,Female,18.7 [13.0-25.4],Oceania,18.7
+Somalia,Both sexes,4.5 [2.9-6.6],East Africa,4.5
+Somalia,Male,1.9 [0.8-3.6],East Africa,1.9
+Somalia,Female,6.9 [4.1-10.6],East Africa,6.9
+South Africa,Both sexes,20.8 [18.2-23.5],Southern Africa,20.8
+South Africa,Male,8.3 [6.1-11.0],Southern Africa,8.3
+South Africa,Female,31.4 [27.0-36.0],Southern Africa,31.4
+South Sudan,Both sexes,No data,East Africa,0
+South Sudan,Male,No data,East Africa,0
+South Sudan,Female,No data,East Africa,0
+Spain,Both sexes,19.0 [16.9-21.1],Southern Europe,19.0
+Spain,Male,18.2 [15.3-21.3],Southern Europe,18.2
+Spain,Female,19.6 [16.8-22.5],Southern Europe,19.6
+Sri Lanka,Both sexes,2.4 [1.6-3.4],South Asia,2.4
+Sri Lanka,Male,1.1 [0.6-1.9],South Asia,1.1
+Sri Lanka,Female,3.6 [2.2-5.5],South Asia,3.6
+Sudan,Both sexes,No data,North Africa,0
+Sudan,Male,No data,North Africa,0
+Sudan,Female,No data,North Africa,0
+Sudan (former),Both sexes,3.7 [2.4-5.3],North Africa,3.7
+Sudan (former),Male,2.2 [1.1-3.9] 2.0 [0.9-3.7],North Africa,2.2
+Sudan (former),Female,6.8 [4.3-10.0] 7.5 [4.5-11.4],North Africa,6.8
+Suriname,Both sexes,19.8 [15.8-24.2],South America,19.8
+Suriname,Male,12.5 [7.9-18.1],South America,12.5
+Suriname,Female,26.9 [20.6-33.9],South America,26.9
+Sweden,Both sexes,15.3 [13.3-17.4],Northern Europe,15.3
+Sweden,Male,16.1 [13.3-19.1],Northern Europe,16.1
+Sweden,Female,14.4 [11.5-17.4],Northern Europe,14.4
+Switzerland,Both sexes,14.5 [11.9-17.3],Western Europe,14.5
+Switzerland,Male,15.7 [12.1-19.7],Western Europe,15.7
+Switzerland,Female,13.3 [9.8-17.3],Western Europe,13.3
+Syrian Arab Republic,Both sexes,19.2 [15.3-23.4],Middle East,19.2
+Syrian Arab Republic,Male,12.6 [8.1-17.8],Middle East,12.6
+Syrian Arab Republic,Female,25.9 [19.7-32.5],Middle East,25.9
+Tajikistan,Both sexes,8.5 [5.9-11.6],Central Asia,8.5
+Tajikistan,Male,6.6 [3.4-11.1],Central Asia,6.6
+Tajikistan,Female,10.3 [6.7-15.0],Central Asia,10.3
+Thailand,Both sexes,4.2 [3.1-5.5],Southeast Asia,4.2
+Thailand,Male,2.3 [1.3-3.6],Southeast Asia,2.3
+Thailand,Female,5.9 [4.1-8.1],Southeast Asia,5.9
+Timor-Leste,Both sexes,1.6 [0.9-2.4],Southeast Asia,1.6
+Timor-Leste,Male,0.9 [0.4-1.7],Southeast Asia,0.9
+Timor-Leste,Female,2.2 [1.1-3.7],Southeast Asia,2.2
+Togo,Both sexes,4.5 [3.1-6.3],West Africa,4.5
+Togo,Male,1.8 [0.9-3.2],West Africa,1.8
+Togo,Female,6.9 [4.4-10.0],West Africa,6.9
+Tonga,Both sexes,38.4 [33.3-43.6],Oceania,38.4
+Tonga,Male,30.4 [23.2-38.2],Oceania,30.4
+Tonga,Female,46.0 [38.5-53.3],Oceania,46.0
+Trinidad and Tobago,Both sexes,11.5 [8.4-15.0],Caribbean,11.5
+Trinidad and Tobago,Male,6.0 [3.3-9.9],Caribbean,6.0
+Trinidad and Tobago,Female,16.7 [11.5-22.9],Caribbean,16.7
+Tunisia,Both sexes,19.2 [16.0-22.6],North Africa,19.2
+Tunisia,Male,11.7 [8.0-15.9],North Africa,11.7
+Tunisia,Female,26.5 [21.4-31.8],North Africa,26.5
+Turkey,Both sexes,23.3 [21.0-25.8],Middle East,23.3
+Turkey,Male,15.4 [12.5-18.6],Middle East,15.4
+Turkey,Female,30.4 [26.8-34.1],Middle East,30.4
+Turkmenistan,Both sexes,11.7 [8.5-15.4],Central Asia,11.7
+Turkmenistan,Male,9.3 [5.4-14.6],Central Asia,9.3
+Turkmenistan,Female,13.8 [9.4-19.1],Central Asia,13.8
+Tuvalu,Both sexes,40.8 [35.0-46.5],Oceania,40.8
+Tuvalu,Male,34.5 [26.5-43.1],Oceania,34.5
+Tuvalu,Female,47.2 [39.0-55.1],Oceania,47.2
+Uganda,Both sexes,2.6 [1.7-3.8],East Africa,2.6
+Uganda,Male,0.8 [0.4-1.6],East Africa,0.8
+Uganda,Female,4.4 [2.7-6.5],East Africa,4.4
+Ukraine,Both sexes,19.6 [15.2-24.4],Eastern Europe,19.6
+Ukraine,Male,15.6 [9.8-22.4],Eastern Europe,15.6
+Ukraine,Female,22.8 [16.6-29.7],Eastern Europe,22.8
+United Arab Emirates,Both sexes,22.8 [18.8-27.3],Middle East,22.8
+United Arab Emirates,Male,18.7 [13.7-24.4],Middle East,18.7
+United Arab Emirates,Female,33.7 [27.8-39.4],Middle East,33.7
+United Kingdom of Great Britain and Northern Ireland,Both sexes,19.7 [18.2-21.3],Western Europe,19.7
+United Kingdom of Great Britain and Northern Ireland,Male,18.2 [16.0-20.4],Western Europe,18.2
+United Kingdom of Great Britain and Northern Ireland,Female,21.2 [19.0-23.5],Western Europe,21.2
+United Republic of Tanzania,Both sexes,4.2 [3.1-5.6],East Africa,4.2
+United Republic of Tanzania,Male,1.7 [0.9-3.0],East Africa,1.7
+United Republic of Tanzania,Female,6.5 [4.5-8.9],East Africa,6.5
+United States of America,Both sexes,26.9 [24.6-29.4],North America,26.9
+United States of America,Male,25.5 [22.0-29.2],North America,25.5
+United States of America,Female,28.3 [25.1-31.6],North America,28.3
+Uruguay,Both sexes,21.4 [17.4-25.8],South America,21.4
+Uruguay,Male,17.9 [12.5-23.9],South America,17.9
+Uruguay,Female,24.6 [18.8-30.9],South America,24.6
+Uzbekistan,Both sexes,10.4 [7.6-13.5],Central Asia,10.4
+Uzbekistan,Male,8.2 [4.7-12.8],Central Asia,8.2
+Uzbekistan,Female,12.3 [8.3-16.9],Central Asia,12.3
+Vanuatu,Both sexes,16.7 [12.7-21.2],Oceania,16.7
+Vanuatu,Male,12.3 [7.1-18.7],Oceania,12.3
+Vanuatu,Female,21.4 [15.4-28.1],Oceania,21.4
+Venezuela (Bolivarian Republic of),Both sexes,20.3 [16.8-23.9],South America,20.3
+Venezuela (Bolivarian Republic of),Male,16.6 [12.0-21.7],South America,16.6
+Venezuela (Bolivarian Republic of),Female,23.8 [18.9-29.1],South America,23.8
+Viet Nam,Both sexes,0.7 [0.5-1.1],Southeast Asia,0.7
+Viet Nam,Male,0.4 [0.2-0.7],Southeast Asia,0.4
+Viet Nam,Female,1.0 [0.6-1.6],Southeast Asia,1.0
+Yemen,Both sexes,9.6 [7.3-12.2],Middle East,9.6
+Yemen,Male,5.7 [3.4-8.8],Middle East,5.7
+Yemen,Female,13.5 [9.6-17.8],Middle East,13.5
+Zambia,Both sexes,4.5 [3.2-6.1],Southern Africa,4.5
+Zambia,Male,1.8 [0.8-3.2],Southern Africa,1.8
+Zambia,Female,7.2 [4.9-10.0],Southern Africa,7.2
+Zimbabwe,Both sexes,11.2 [8.8-14.0],Southern Africa,11.2
+Zimbabwe,Male,2.6 [1.4-4.5],Southern Africa,2.6
+Zimbabwe,Female,19.0 [14.5-24.1],Southern Africa,19.0

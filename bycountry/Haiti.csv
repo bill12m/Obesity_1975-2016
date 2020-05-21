@@ -1,0 +1,127 @@
+Sex,Year,Obesity (%),Region,BMI
+Both sexes,1975,3.2 [1.5-5.7],Caribbean,3.2
+Male,1975,1.5 [0.4-3.7],Caribbean,1.5
+Female,1975,4.7 [1.9-9.4],Caribbean,4.7
+Both sexes,1976,3.3 [1.6-5.9],Caribbean,3.3
+Male,1976,1.6 [0.5-3.8],Caribbean,1.6
+Female,1976,4.9 [2.1-9.5],Caribbean,4.9
+Both sexes,1977,3.5 [1.8-6.0],Caribbean,3.5
+Male,1977,1.7 [0.5-3.9],Caribbean,1.7
+Female,1977,5.1 [2.3-9.6],Caribbean,5.1
+Both sexes,1978,3.6 [1.9-6.1],Caribbean,3.6
+Male,1978,1.8 [0.6-4.0],Caribbean,1.8
+Female,1978,5.3 [2.5-9.8],Caribbean,5.3
+Both sexes,1979,3.8 [2.0-6.3],Caribbean,3.8
+Male,1979,1.8 [0.6-4.2],Caribbean,1.8
+Female,1979,5.5 [2.7-9.9],Caribbean,5.5
+Both sexes,1980,3.9 [2.2-6.4],Caribbean,3.9
+Male,1980,1.9 [0.7-4.3],Caribbean,1.9
+Female,1980,5.8 [2.8-10.1],Caribbean,5.8
+Both sexes,1981,4.1 [2.3-6.6],Caribbean,4.1
+Male,1981,2.0 [0.7-4.4],Caribbean,2.0
+Female,1981,6.0 [3.0-10.3],Caribbean,6.0
+Both sexes,1982,4.3 [2.5-6.8],Caribbean,4.3
+Male,1982,2.2 [0.8-4.5],Caribbean,2.2
+Female,1982,6.3 [3.3-10.6],Caribbean,6.3
+Both sexes,1983,4.5 [2.7-7.0],Caribbean,4.5
+Male,1983,2.3 [0.9-4.7],Caribbean,2.3
+Female,1983,6.5 [3.5-10.8],Caribbean,6.5
+Both sexes,1984,4.8 [2.9-7.3],Caribbean,4.8
+Male,1984,2.4 [1.0-4.9],Caribbean,2.4
+Female,1984,6.8 [3.7-11.1],Caribbean,6.8
+Both sexes,1985,5.0 [3.0-7.5],Caribbean,5.0
+Male,1985,2.6 [1.0-5.1],Caribbean,2.6
+Female,1985,7.2 [4.0-11.4],Caribbean,7.2
+Both sexes,1986,5.3 [3.3-7.8],Caribbean,5.3
+Male,1986,2.8 [1.1-5.4],Caribbean,2.8
+Female,1986,7.5 [4.3-11.8],Caribbean,7.5
+Both sexes,1987,5.6 [3.5-8.2],Caribbean,5.6
+Male,1987,2.9 [1.2-5.6],Caribbean,2.9
+Female,1987,7.9 [4.5-12.1],Caribbean,7.9
+Both sexes,1988,5.9 [3.8-8.5],Caribbean,5.9
+Male,1988,3.2 [1.4-6.0],Caribbean,3.2
+Female,1988,8.3 [4.9-12.6],Caribbean,8.3
+Both sexes,1989,6.2 [4.1-8.9],Caribbean,6.2
+Male,1989,3.4 [1.5-6.3],Caribbean,3.4
+Female,1989,8.8 [5.3-13.1],Caribbean,8.8
+Both sexes,1990,6.6 [4.4-9.4],Caribbean,6.6
+Male,1990,3.6 [1.6-6.6],Caribbean,3.6
+Female,1990,9.3 [5.7-13.6],Caribbean,9.3
+Both sexes,1991,7.0 [4.7-9.8],Caribbean,7.0
+Male,1991,3.9 [1.8-7.0],Caribbean,3.9
+Female,1991,9.7 [6.1-14.2],Caribbean,9.7
+Both sexes,1992,7.4 [5.1-10.2],Caribbean,7.4
+Male,1992,4.2 [2.0-7.4],Caribbean,4.2
+Female,1992,10.2 [6.5-14.7],Caribbean,10.2
+Both sexes,1993,7.8 [5.4-10.7],Caribbean,7.8
+Male,1993,4.5 [2.2-7.9],Caribbean,4.5
+Female,1993,10.8 [6.9-15.3],Caribbean,10.8
+Both sexes,1994,8.2 [5.8-11.2],Caribbean,8.2
+Male,1994,4.8 [2.4-8.3],Caribbean,4.8
+Female,1994,11.3 [7.4-15.9],Caribbean,11.3
+Both sexes,1995,8.6 [6.2-11.7],Caribbean,8.6
+Male,1995,5.1 [2.6-8.8],Caribbean,5.1
+Female,1995,11.8 [7.8-16.5],Caribbean,11.8
+Both sexes,1996,9.1 [6.6-12.2],Caribbean,9.1
+Male,1996,5.4 [2.8-9.3],Caribbean,5.4
+Female,1996,12.4 [8.3-17.0],Caribbean,12.4
+Both sexes,1997,9.5 [7.0-12.7],Caribbean,9.5
+Male,1997,5.8 [3.0-9.7],Caribbean,5.8
+Female,1997,12.9 [8.8-17.6],Caribbean,12.9
+Both sexes,1998,10.0 [7.3-13.2],Caribbean,10.0
+Male,1998,6.1 [3.2-10.2],Caribbean,6.1
+Female,1998,13.5 [9.3-18.2],Caribbean,13.5
+Both sexes,1999,10.5 [7.7-13.7],Caribbean,10.5
+Male,1999,6.5 [3.5-10.7],Caribbean,6.5
+Female,1999,14.0 [9.8-18.9],Caribbean,14.0
+Both sexes,2000,10.9 [8.1-14.2],Caribbean,10.9
+Male,2000,6.9 [3.7-11.3],Caribbean,6.9
+Female,2000,14.6 [10.2-19.5],Caribbean,14.6
+Both sexes,2001,11.5 [8.6-14.8],Caribbean,11.5
+Male,2001,7.3 [4.1-11.9],Caribbean,7.3
+Female,2001,15.2 [10.8-20.2],Caribbean,15.2
+Both sexes,2002,12.0 [9.1-15.4],Caribbean,12.0
+Male,2002,7.8 [4.4-12.5],Caribbean,7.8
+Female,2002,15.8 [11.3-20.9],Caribbean,15.8
+Both sexes,2003,12.6 [9.6-16.1],Caribbean,12.6
+Male,2003,8.3 [4.7-13.1],Caribbean,8.3
+Female,2003,16.5 [11.9-21.6],Caribbean,16.5
+Both sexes,2004,13.3 [10.2-16.8],Caribbean,13.3
+Male,2004,8.8 [5.1-13.9],Caribbean,8.8
+Female,2004,17.3 [12.6-22.4],Caribbean,17.3
+Both sexes,2005,13.9 [10.8-17.5],Caribbean,13.9
+Male,2005,9.4 [5.5-14.6],Caribbean,9.4
+Female,2005,18.0 [13.2-23.3],Caribbean,18.0
+Both sexes,2006,14.7 [11.4-18.3],Caribbean,14.7
+Male,2006,10.0 [6.0-15.4],Caribbean,10.0
+Female,2006,18.8 [13.9-24.2],Caribbean,18.8
+Both sexes,2007,15.4 [12.1-19.2],Caribbean,15.4
+Male,2007,10.7 [6.5-16.2],Caribbean,10.7
+Female,2007,19.6 [14.7-25.0],Caribbean,19.6
+Both sexes,2008,16.2 [12.7-20.1],Caribbean,16.2
+Male,2008,11.4 [7.0-17.2],Caribbean,11.4
+Female,2008,20.4 [15.3-25.9],Caribbean,20.4
+Both sexes,2009,16.9 [13.4-21.0],Caribbean,16.9
+Male,2009,12.2 [7.5-18.2],Caribbean,12.2
+Female,2009,21.3 [16.0-26.9],Caribbean,21.3
+Both sexes,2010,17.7 [14.1-21.9],Caribbean,17.7
+Male,2010,12.9 [8.1-19.1],Caribbean,12.9
+Female,2010,22.1 [16.7-27.9],Caribbean,22.1
+Both sexes,2011,18.6 [14.7-22.9],Caribbean,18.6
+Male,2011,13.7 [8.6-20.1],Caribbean,13.7
+Female,2011,22.9 [17.3-28.9],Caribbean,22.9
+Both sexes,2012,19.4 [15.4-23.9],Caribbean,19.4
+Male,2012,14.5 [9.2-21.3],Caribbean,14.5
+Female,2012,23.7 [17.9-29.9],Caribbean,23.7
+Both sexes,2013,20.2 [16.0-24.9],Caribbean,20.2
+Male,2013,15.4 [9.7-22.5],Caribbean,15.4
+Female,2013,24.5 [18.5-31.0],Caribbean,24.5
+Both sexes,2014,21.0 [16.7-25.9],Caribbean,21.0
+Male,2014,16.2 [10.2-23.6],Caribbean,16.2
+Female,2014,25.3 [19.1-32.0],Caribbean,25.3
+Both sexes,2015,21.8 [17.2-26.9],Caribbean,21.8
+Male,2015,17.1 [10.7-24.8],Caribbean,17.1
+Female,2015,26.1 [19.7-33.1],Caribbean,26.1
+Both sexes,2016,22.7 [17.8-27.9],Caribbean,22.7
+Male,2016,17.9 [11.3-26.0],Caribbean,17.9
+Female,2016,26.9 [20.2-34.1],Caribbean,26.9

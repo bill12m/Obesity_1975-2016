@@ -1,0 +1,127 @@
+Sex,Year,Obesity (%),Region,BMI
+Both sexes,1975,7.2 [4.9-9.9],Eastern Europe,7.2
+Male,1975,6.3 [3.4-10.4],Eastern Europe,6.3
+Female,1975,7.8 [4.6-11.7],Eastern Europe,7.8
+Both sexes,1976,7.3 [5.1-10.0],Eastern Europe,7.3
+Male,1976,6.5 [3.6-10.4],Eastern Europe,6.5
+Female,1976,7.9 [4.8-11.8],Eastern Europe,7.9
+Both sexes,1977,7.5 [5.3-10.2],Eastern Europe,7.5
+Male,1977,6.7 [3.8-10.7],Eastern Europe,6.7
+Female,1977,8.1 [5.0-11.9],Eastern Europe,8.1
+Both sexes,1978,7.7 [5.5-10.4],Eastern Europe,7.7
+Male,1978,6.9 [4.0-10.9],Eastern Europe,6.9
+Female,1978,8.2 [5.2-12.0],Eastern Europe,8.2
+Both sexes,1979,7.9 [5.7-10.5],Eastern Europe,7.9
+Male,1979,7.2 [4.3-11.1],Eastern Europe,7.2
+Female,1979,8.4 [5.4-12.1],Eastern Europe,8.4
+Both sexes,1980,8.1 [5.9-10.7],Eastern Europe,8.1
+Male,1980,7.4 [4.5-11.3],Eastern Europe,7.4
+Female,1980,8.6 [5.6-12.2],Eastern Europe,8.6
+Both sexes,1981,8.3 [6.2-10.9],Eastern Europe,8.3
+Male,1981,7.7 [4.7-11.6],Eastern Europe,7.7
+Female,1981,8.8 [5.8-12.4],Eastern Europe,8.8
+Both sexes,1982,8.6 [6.4-11.2],Eastern Europe,8.6
+Male,1982,7.9 [4.9-11.8],Eastern Europe,7.9
+Female,1982,9.0 [6.0-12.5],Eastern Europe,9.0
+Both sexes,1983,8.8 [6.6-11.4],Eastern Europe,8.8
+Male,1983,8.2 [5.2-12.1],Eastern Europe,8.2
+Female,1983,9.2 [6.2-12.7],Eastern Europe,9.2
+Both sexes,1984,9.0 [6.8-11.6],Eastern Europe,9.0
+Male,1984,8.5 [5.4-12.4],Eastern Europe,8.5
+Female,1984,9.4 [6.4-12.9],Eastern Europe,9.4
+Both sexes,1985,9.3 [7.1-11.9],Eastern Europe,9.3
+Male,1985,8.8 [5.7-12.7],Eastern Europe,8.8
+Female,1985,9.6 [6.6-13.1],Eastern Europe,9.6
+Both sexes,1986,9.6 [7.3-12.1],Eastern Europe,9.6
+Male,1986,9.1 [5.9-13.0],Eastern Europe,9.1
+Female,1986,9.8 [6.8-13.3],Eastern Europe,9.8
+Both sexes,1987,9.8 [7.5-12.4],Eastern Europe,9.8
+Male,1987,9.4 [6.2-13.4],Eastern Europe,9.4
+Female,1987,10.0 [7.0-13.5],Eastern Europe,10.0
+Both sexes,1988,10.1 [7.8-12.7],Eastern Europe,10.1
+Male,1988,9.7 [6.5-13.8],Eastern Europe,9.7
+Female,1988,10.3 [7.2-13.8],Eastern Europe,10.3
+Both sexes,1989,10.4 [8.0-13.1],Eastern Europe,10.4
+Male,1989,10.1 [6.8-14.2],Eastern Europe,10.1
+Female,1989,10.5 [7.5-14.0],Eastern Europe,10.5
+Both sexes,1990,10.7 [8.3-13.4],Eastern Europe,10.7
+Male,1990,10.4 [7.0-14.7],Eastern Europe,10.4
+Female,1990,10.8 [7.7-14.3],Eastern Europe,10.8
+Both sexes,1991,11.0 [8.5-13.8],Eastern Europe,11.0
+Male,1991,10.8 [7.3-15.0],Eastern Europe,10.8
+Female,1991,11.0 [7.9-14.6],Eastern Europe,11.0
+Both sexes,1992,11.3 [8.8-14.1],Eastern Europe,11.3
+Male,1992,11.1 [7.6-15.5],Eastern Europe,11.1
+Female,1992,11.3 [8.2-14.9],Eastern Europe,11.3
+Both sexes,1993,11.6 [9.1-14.5],Eastern Europe,11.6
+Male,1993,11.5 [7.9-16.0],Eastern Europe,11.5
+Female,1993,11.5 [8.4-15.2],Eastern Europe,11.5
+Both sexes,1994,11.9 [9.4-14.8],Eastern Europe,11.9
+Male,1994,11.9 [8.2-16.4],Eastern Europe,11.9
+Female,1994,11.8 [8.6-15.5],Eastern Europe,11.8
+Both sexes,1995,12.3 [9.7-15.2],Eastern Europe,12.3
+Male,1995,12.3 [8.6-16.9],Eastern Europe,12.3
+Female,1995,12.1 [8.8-15.8],Eastern Europe,12.1
+Both sexes,1996,12.6 [10.0-15.6],Eastern Europe,12.6
+Male,1996,12.7 [8.9-17.3],Eastern Europe,12.7
+Female,1996,12.4 [9.1-16.1],Eastern Europe,12.4
+Both sexes,1997,12.9 [10.3-15.9],Eastern Europe,12.9
+Male,1997,13.1 [9.2-17.8],Eastern Europe,13.1
+Female,1997,12.6 [9.3-16.5],Eastern Europe,12.6
+Both sexes,1998,13.3 [10.6-16.3],Eastern Europe,13.3
+Male,1998,13.5 [9.6-18.2],Eastern Europe,13.5
+Female,1998,12.9 [9.6-16.8],Eastern Europe,12.9
+Both sexes,1999,13.6 [10.9-16.7],Eastern Europe,13.6
+Male,1999,13.9 [9.9-18.7],Eastern Europe,13.9
+Female,1999,13.2 [9.8-17.1],Eastern Europe,13.2
+Both sexes,2000,14.0 [11.2-17.1],Eastern Europe,14.0
+Male,2000,14.3 [10.3-19.2],Eastern Europe,14.3
+Female,2000,13.5 [10.0-17.5],Eastern Europe,13.5
+Both sexes,2001,14.3 [11.5-17.4],Eastern Europe,14.3
+Male,2001,14.8 [10.7-19.6],Eastern Europe,14.8
+Female,2001,13.8 [10.2-17.8],Eastern Europe,13.8
+Both sexes,2002,14.7 [11.8-17.8],Eastern Europe,14.7
+Male,2002,15.2 [11.0-20.1],Eastern Europe,15.2
+Female,2002,14.1 [10.5-18.1],Eastern Europe,14.1
+Both sexes,2003,15.0 [12.2-18.2],Eastern Europe,15.0
+Male,2003,15.6 [11.4-20.6],Eastern Europe,15.6
+Female,2003,14.4 [10.7-18.5],Eastern Europe,14.4
+Both sexes,2004,15.4 [12.5-18.6],Eastern Europe,15.4
+Male,2004,16.1 [11.8-21.1],Eastern Europe,16.1
+Female,2004,14.7 [11.0-18.8],Eastern Europe,14.7
+Both sexes,2005,15.8 [12.8-19.0],Eastern Europe,15.8
+Male,2005,16.5 [12.2-21.6],Eastern Europe,16.5
+Female,2005,15.0 [11.2-19.1],Eastern Europe,15.0
+Both sexes,2006,16.1 [13.1-19.4],Eastern Europe,16.1
+Male,2006,17.0 [12.6-22.1],Eastern Europe,17.0
+Female,2006,15.2 [11.4-19.5],Eastern Europe,15.2
+Both sexes,2007,16.5 [13.4-19.8],Eastern Europe,16.5
+Male,2007,17.4 [12.9-22.6],Eastern Europe,17.4
+Female,2007,15.5 [11.6-19.8],Eastern Europe,15.5
+Both sexes,2008,16.9 [13.7-20.3],Eastern Europe,16.9
+Male,2008,17.9 [13.3-23.2],Eastern Europe,17.9
+Female,2008,15.8 [11.8-20.2],Eastern Europe,15.8
+Both sexes,2009,17.3 [14.0-20.8],Eastern Europe,17.3
+Male,2009,18.3 [13.7-23.7],Eastern Europe,18.3
+Female,2009,16.1 [11.9-20.6],Eastern Europe,16.1
+Both sexes,2010,17.6 [14.3-21.2],Eastern Europe,17.6
+Male,2010,18.8 [14.0-24.3],Eastern Europe,18.8
+Female,2010,16.4 [12.1-21.0],Eastern Europe,16.4
+Both sexes,2011,18.0 [14.6-21.7],Eastern Europe,18.0
+Male,2011,19.3 [14.3-25.1],Eastern Europe,19.3
+Female,2011,16.7 [12.3-21.5],Eastern Europe,16.7
+Both sexes,2012,18.4 [14.9-22.3],Eastern Europe,18.4
+Male,2012,19.8 [14.6-25.7],Eastern Europe,19.8
+Female,2012,17.0 [12.5-22.0],Eastern Europe,17.0
+Both sexes,2013,18.8 [15.1-22.8],Eastern Europe,18.8
+Male,2013,20.3 [14.8-26.4],Eastern Europe,20.3
+Female,2013,17.3 [12.6-22.5],Eastern Europe,17.3
+Both sexes,2014,19.2 [15.4-23.3],Eastern Europe,19.2
+Male,2014,20.8 [15.2-27.3],Eastern Europe,20.8
+Female,2014,17.7 [12.7-23.1],Eastern Europe,17.7
+Both sexes,2015,19.7 [15.6-23.9],Eastern Europe,19.7
+Male,2015,21.3 [15.4-28.1],Eastern Europe,21.3
+Female,2015,18.0 [12.8-23.8],Eastern Europe,18.0
+Both sexes,2016,20.1 [15.9-24.6],Eastern Europe,20.1
+Male,2016,21.9 [15.6-29.0],Eastern Europe,21.9
+Female,2016,18.3 [12.9-24.4],Eastern Europe,18.3

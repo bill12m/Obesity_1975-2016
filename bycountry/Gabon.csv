@@ -1,0 +1,127 @@
+Sex,Year,Obesity (%),Region,BMI
+Both sexes,1975,1.8 [0.7-3.5],Central Africa,1.8
+Male,1975,0.5 [0.1-1.5],Central Africa,0.5
+Female,1975,2.9 [1.0-6.0],Central Africa,2.9
+Both sexes,1976,2.0 [0.8-3.7],Central Africa,2.0
+Male,1976,0.6 [0.1-1.6],Central Africa,0.6
+Female,1976,3.1 [1.2-6.4],Central Africa,3.1
+Both sexes,1977,2.2 [1.0-4.0],Central Africa,2.2
+Male,1977,0.6 [0.2-1.8],Central Africa,0.6
+Female,1977,3.5 [1.4-6.8],Central Africa,3.5
+Both sexes,1978,2.4 [1.1-4.3],Central Africa,2.4
+Male,1978,0.7 [0.2-2.0],Central Africa,0.7
+Female,1978,3.8 [1.6-7.3],Central Africa,3.8
+Both sexes,1979,2.6 [1.3-4.6],Central Africa,2.6
+Male,1979,0.8 [0.2-2.1],Central Africa,0.8
+Female,1979,4.2 [1.8-7.8],Central Africa,4.2
+Both sexes,1980,2.9 [1.5-4.9],Central Africa,2.9
+Male,1980,0.9 [0.3-2.3],Central Africa,0.9
+Female,1980,4.6 [2.1-8.2],Central Africa,4.6
+Both sexes,1981,3.2 [1.6-5.3],Central Africa,3.2
+Male,1981,1.0 [0.3-2.5],Central Africa,1.0
+Female,1981,5.0 [2.3-8.8],Central Africa,5.0
+Both sexes,1982,3.4 [1.8-5.6],Central Africa,3.4
+Male,1982,1.2 [0.4-2.7],Central Africa,1.2
+Female,1982,5.4 [2.6-9.3],Central Africa,5.4
+Both sexes,1983,3.7 [2.0-5.9],Central Africa,3.7
+Male,1983,1.3 [0.4-2.9],Central Africa,1.3
+Female,1983,5.8 [2.9-9.9],Central Africa,5.8
+Both sexes,1984,4.0 [2.2-6.3],Central Africa,4.0
+Male,1984,1.4 [0.5-3.2],Central Africa,1.4
+Female,1984,6.2 [3.2-10.4],Central Africa,6.2
+Both sexes,1985,4.3 [2.4-6.7],Central Africa,4.3
+Male,1985,1.6 [0.5-3.5],Central Africa,1.6
+Female,1985,6.7 [3.5-11.0],Central Africa,6.7
+Both sexes,1986,4.6 [2.7-7.1],Central Africa,4.6
+Male,1986,1.7 [0.6-3.7],Central Africa,1.7
+Female,1986,7.1 [3.8-11.5],Central Africa,7.1
+Both sexes,1987,4.9 [2.9-7.5],Central Africa,4.9
+Male,1987,1.9 [0.7-3.9],Central Africa,1.9
+Female,1987,7.5 [4.1-12.1],Central Africa,7.5
+Both sexes,1988,5.2 [3.1-7.8],Central Africa,5.2
+Male,1988,2.0 [0.7-4.2],Central Africa,2.0
+Female,1988,7.9 [4.4-12.6],Central Africa,7.9
+Both sexes,1989,5.5 [3.4-8.2],Central Africa,5.5
+Male,1989,2.2 [0.8-4.5],Central Africa,2.2
+Female,1989,8.4 [4.7-13.2],Central Africa,8.4
+Both sexes,1990,5.8 [3.6-8.6],Central Africa,5.8
+Male,1990,2.4 [0.9-4.8],Central Africa,2.4
+Female,1990,8.8 [5.0-13.8],Central Africa,8.8
+Both sexes,1991,6.1 [3.8-9.0],Central Africa,6.1
+Male,1991,2.6 [1.0-5.1],Central Africa,2.6
+Female,1991,9.3 [5.3-14.3],Central Africa,9.3
+Both sexes,1992,6.5 [4.1-9.4],Central Africa,6.5
+Male,1992,2.8 [1.1-5.5],Central Africa,2.8
+Female,1992,9.7 [5.7-14.9],Central Africa,9.7
+Both sexes,1993,6.8 [4.3-9.8],Central Africa,6.8
+Male,1993,3.0 [1.2-5.8],Central Africa,3.0
+Female,1993,10.2 [6.0-15.4],Central Africa,10.2
+Both sexes,1994,7.2 [4.6-10.2],Central Africa,7.2
+Male,1994,3.2 [1.3-6.2],Central Africa,3.2
+Female,1994,10.6 [6.4-16.0],Central Africa,10.6
+Both sexes,1995,7.5 [4.9-10.6],Central Africa,7.5
+Male,1995,3.4 [1.5-6.5],Central Africa,3.4
+Female,1995,11.1 [6.8-16.5],Central Africa,11.1
+Both sexes,1996,7.9 [5.2-11.0],Central Africa,7.9
+Male,1996,3.7 [1.6-6.9],Central Africa,3.7
+Female,1996,11.6 [7.1-17.1],Central Africa,11.6
+Both sexes,1997,8.2 [5.5-11.4],Central Africa,8.2
+Male,1997,3.9 [1.7-7.3],Central Africa,3.9
+Female,1997,12.1 [7.5-17.6],Central Africa,12.1
+Both sexes,1998,8.6 [5.7-11.8],Central Africa,8.6
+Male,1998,4.2 [1.9-7.7],Central Africa,4.2
+Female,1998,12.5 [7.8-18.1],Central Africa,12.5
+Both sexes,1999,8.9 [6.1-12.3],Central Africa,8.9
+Male,1999,4.4 [2.0-8.1],Central Africa,4.4
+Female,1999,13.0 [8.2-18.7],Central Africa,13.0
+Both sexes,2000,9.3 [6.4-12.7],Central Africa,9.3
+Male,2000,4.7 [2.2-8.5],Central Africa,4.7
+Female,2000,13.5 [8.6-19.1],Central Africa,13.5
+Both sexes,2001,9.6 [6.7-13.1],Central Africa,9.6
+Male,2001,5.0 [2.3-8.9],Central Africa,5.0
+Female,2001,13.9 [9.0-19.7],Central Africa,13.9
+Both sexes,2002,10.0 [7.0-13.5],Central Africa,10.0
+Male,2002,5.2 [2.5-9.3],Central Africa,5.2
+Female,2002,14.4 [9.4-20.2],Central Africa,14.4
+Both sexes,2003,10.3 [7.3-13.9],Central Africa,10.3
+Male,2003,5.5 [2.6-9.8],Central Africa,5.5
+Female,2003,14.8 [9.8-20.7],Central Africa,14.8
+Both sexes,2004,10.7 [7.6-14.4],Central Africa,10.7
+Male,2004,5.8 [2.8-10.2],Central Africa,5.8
+Female,2004,15.3 [10.2-21.2],Central Africa,15.3
+Both sexes,2005,11.1 [7.9-14.8],Central Africa,11.1
+Male,2005,6.1 [3.0-10.7],Central Africa,6.1
+Female,2005,15.7 [10.6-21.8],Central Africa,15.7
+Both sexes,2006,11.4 [8.2-15.2],Central Africa,11.4
+Male,2006,6.4 [3.1-11.1],Central Africa,6.4
+Female,2006,16.2 [10.9-22.4],Central Africa,16.2
+Both sexes,2007,11.8 [8.5-15.6],Central Africa,11.8
+Male,2007,6.7 [3.3-11.6],Central Africa,6.7
+Female,2007,16.6 [11.3-22.9],Central Africa,16.6
+Both sexes,2008,12.1 [8.8-16.0],Central Africa,12.1
+Male,2008,7.0 [3.4-12.0],Central Africa,7.0
+Female,2008,17.0 [11.7-23.5],Central Africa,17.0
+Both sexes,2009,12.5 [9.0-16.5],Central Africa,12.5
+Male,2009,7.3 [3.6-12.5],Central Africa,7.3
+Female,2009,17.4 [12.0-24.1],Central Africa,17.4
+Both sexes,2010,12.8 [9.3-16.9],Central Africa,12.8
+Male,2010,7.6 [3.8-13.0],Central Africa,7.6
+Female,2010,17.9 [12.3-24.6],Central Africa,17.9
+Both sexes,2011,13.2 [9.5-17.4],Central Africa,13.2
+Male,2011,7.9 [3.9-13.6],Central Africa,7.9
+Female,2011,18.3 [12.6-25.1],Central Africa,18.3
+Both sexes,2012,13.5 [9.8-17.9],Central Africa,13.5
+Male,2012,8.3 [4.1-14.1],Central Africa,8.3
+Female,2012,18.7 [12.9-25.8],Central Africa,18.7
+Both sexes,2013,13.9 [10.0-18.4],Central Africa,13.9
+Male,2013,8.6 [4.2-14.6],Central Africa,8.6
+Female,2013,19.1 [13.1-26.5],Central Africa,19.1
+Both sexes,2014,14.3 [10.2-18.9],Central Africa,14.3
+Male,2014,8.9 [4.3-15.2],Central Africa,8.9
+Female,2014,19.5 [13.4-27.1],Central Africa,19.5
+Both sexes,2015,14.6 [10.4-19.5],Central Africa,14.6
+Male,2015,9.3 [4.5-15.8],Central Africa,9.3
+Female,2015,19.9 [13.5-27.7],Central Africa,19.9
+Both sexes,2016,15.0 [10.6-20.1],Central Africa,15.0
+Male,2016,9.6 [4.6-16.5],Central Africa,9.6
+Female,2016,20.3 [13.6-28.4],Central Africa,20.3

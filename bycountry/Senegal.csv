@@ -1,0 +1,127 @@
+Sex,Year,Obesity (%),Region,BMI
+Both sexes,1975,1.4 [0.6-2.6],West Africa,1.4
+Male,1975,0.4 [0.1-1.2],West Africa,0.4
+Female,1975,2.3 [0.9-4.7],West Africa,2.3
+Both sexes,1976,1.5 [0.7-2.7],West Africa,1.5
+Male,1976,0.5 [0.1-1.3],West Africa,0.5
+Female,1976,2.5 [1.0-4.8],West Africa,2.5
+Both sexes,1977,1.6 [0.8-2.8],West Africa,1.6
+Male,1977,0.5 [0.1-1.3],West Africa,0.5
+Female,1977,2.6 [1.1-4.9],West Africa,2.6
+Both sexes,1978,1.7 [0.8-2.9],West Africa,1.7
+Male,1978,0.5 [0.1-1.4],West Africa,0.5
+Female,1978,2.8 [1.3-5.1],West Africa,2.8
+Both sexes,1979,1.8 [0.9-3.0],West Africa,1.8
+Male,1979,0.6 [0.2-1.4],West Africa,0.6
+Female,1979,2.9 [1.4-5.3],West Africa,2.9
+Both sexes,1980,1.8 [1.0-3.1],West Africa,1.8
+Male,1980,0.6 [0.2-1.5],West Africa,0.6
+Female,1980,3.1 [1.5-5.4],West Africa,3.1
+Both sexes,1981,2.0 [1.1-3.2],West Africa,2.0
+Male,1981,0.6 [0.2-1.5],West Africa,0.6
+Female,1981,3.2 [1.6-5.5],West Africa,3.2
+Both sexes,1982,2.1 [1.2-3.3],West Africa,2.1
+Male,1982,0.7 [0.2-1.6],West Africa,0.7
+Female,1982,3.4 [1.8-5.7],West Africa,3.4
+Both sexes,1983,2.2 [1.3-3.4],West Africa,2.2
+Male,1983,0.7 [0.3-1.7],West Africa,0.7
+Female,1983,3.5 [1.9-5.9],West Africa,3.5
+Both sexes,1984,2.3 [1.3-3.5],West Africa,2.3
+Male,1984,0.8 [0.3-1.7],West Africa,0.8
+Female,1984,3.7 [2.0-6.1],West Africa,3.7
+Both sexes,1985,2.4 [1.4-3.7],West Africa,2.4
+Male,1985,0.8 [0.3-1.8],West Africa,0.8
+Female,1985,3.9 [2.2-6.3],West Africa,3.9
+Both sexes,1986,2.5 [1.5-3.8],West Africa,2.5
+Male,1986,0.9 [0.3-1.9],West Africa,0.9
+Female,1986,4.0 [2.3-6.5],West Africa,4.0
+Both sexes,1987,2.6 [1.6-3.9],West Africa,2.6
+Male,1987,0.9 [0.4-1.9],West Africa,0.9
+Female,1987,4.2 [2.5-6.7],West Africa,4.2
+Both sexes,1988,2.8 [1.7-4.1],West Africa,2.8
+Male,1988,1.0 [0.4-2.0],West Africa,1.0
+Female,1988,4.4 [2.6-6.9],West Africa,4.4
+Both sexes,1989,2.9 [1.9-4.2],West Africa,2.9
+Male,1989,1.0 [0.4-2.1],West Africa,1.0
+Female,1989,4.6 [2.8-7.1],West Africa,4.6
+Both sexes,1990,3.0 [2.0-4.4],West Africa,3.0
+Male,1990,1.1 [0.5-2.2],West Africa,1.1
+Female,1990,4.8 [2.9-7.4],West Africa,4.8
+Both sexes,1991,3.2 [2.1-4.6],West Africa,3.2
+Male,1991,1.2 [0.5-2.3],West Africa,1.2
+Female,1991,5.0 [3.1-7.6],West Africa,5.0
+Both sexes,1992,3.3 [2.2-4.7],West Africa,3.3
+Male,1992,1.2 [0.5-2.4],West Africa,1.2
+Female,1992,5.2 [3.2-7.9],West Africa,5.2
+Both sexes,1993,3.5 [2.3-4.9],West Africa,3.5
+Male,1993,1.3 [0.6-2.5],West Africa,1.3
+Female,1993,5.5 [3.4-8.1],West Africa,5.5
+Both sexes,1994,3.6 [2.4-5.1],West Africa,3.6
+Male,1994,1.4 [0.6-2.6],West Africa,1.4
+Female,1994,5.7 [3.6-8.4],West Africa,5.7
+Both sexes,1995,3.8 [2.5-5.3],West Africa,3.8
+Male,1995,1.4 [0.6-2.7],West Africa,1.4
+Female,1995,5.9 [3.8-8.6],West Africa,5.9
+Both sexes,1996,3.9 [2.7-5.5],West Africa,3.9
+Male,1996,1.5 [0.7-2.8],West Africa,1.5
+Female,1996,6.2 [3.9-8.9],West Africa,6.2
+Both sexes,1997,4.1 [2.8-5.7],West Africa,4.1
+Male,1997,1.6 [0.7-2.9],West Africa,1.6
+Female,1997,6.4 [4.1-9.3],West Africa,6.4
+Both sexes,1998,4.3 [3.0-5.9],West Africa,4.3
+Male,1998,1.7 [0.8-3.0],West Africa,1.7
+Female,1998,6.7 [4.4-9.5],West Africa,6.7
+Both sexes,1999,4.5 [3.1-6.1],West Africa,4.5
+Male,1999,1.8 [0.8-3.2],West Africa,1.8
+Female,1999,6.9 [4.6-9.8],West Africa,6.9
+Both sexes,2000,4.7 [3.3-6.4],West Africa,4.7
+Male,2000,1.9 [0.9-3.3],West Africa,1.9
+Female,2000,7.2 [4.8-10.1],West Africa,7.2
+Both sexes,2001,4.9 [3.5-6.6],West Africa,4.9
+Male,2001,1.9 [0.9-3.4],West Africa,1.9
+Female,2001,7.5 [5.1-10.5],West Africa,7.5
+Both sexes,2002,5.1 [3.6-6.9],West Africa,5.1
+Male,2002,2.0 [1.0-3.6],West Africa,2.0
+Female,2002,7.8 [5.3-10.8],West Africa,7.8
+Both sexes,2003,5.3 [3.8-7.1],West Africa,5.3
+Male,2003,2.1 [1.1-3.8],West Africa,2.1
+Female,2003,8.1 [5.5-11.2],West Africa,8.1
+Both sexes,2004,5.6 [4.0-7.4],West Africa,5.6
+Male,2004,2.2 [1.1-3.9],West Africa,2.2
+Female,2004,8.4 [5.8-11.6],West Africa,8.4
+Both sexes,2005,5.8 [4.2-7.7],West Africa,5.8
+Male,2005,2.4 [1.2-4.0],West Africa,2.4
+Female,2005,8.7 [6.0-12.0],West Africa,8.7
+Both sexes,2006,6.0 [4.4-8.0],West Africa,6.0
+Male,2006,2.5 [1.3-4.2],West Africa,2.5
+Female,2006,9.1 [6.3-12.3],West Africa,9.1
+Both sexes,2007,6.3 [4.6-8.3],West Africa,6.3
+Male,2007,2.6 [1.3-4.4],West Africa,2.6
+Female,2007,9.4 [6.6-12.8],West Africa,9.4
+Both sexes,2008,6.5 [4.8-8.6],West Africa,6.5
+Male,2008,2.7 [1.4-4.6],West Africa,2.7
+Female,2008,9.7 [6.9-13.3],West Africa,9.7
+Both sexes,2009,6.8 [5.0-8.9],West Africa,6.8
+Male,2009,2.8 [1.5-4.8],West Africa,2.8
+Female,2009,10.1 [7.2-13.8],West Africa,10.1
+Both sexes,2010,7.1 [5.2-9.2],West Africa,7.1
+Male,2010,3.0 [1.5-5.0],West Africa,3.0
+Female,2010,10.5 [7.4-14.2],West Africa,10.5
+Both sexes,2011,7.3 [5.4-9.6],West Africa,7.3
+Male,2011,3.1 [1.6-5.2],West Africa,3.1
+Female,2011,10.8 [7.7-14.7],West Africa,10.8
+Both sexes,2012,7.6 [5.6-10.0],West Africa,7.6
+Male,2012,3.3 [1.7-5.5],West Africa,3.3
+Female,2012,11.2 [7.9-15.3],West Africa,11.2
+Both sexes,2013,7.9 [5.7-10.4],West Africa,7.9
+Male,2013,3.4 [1.8-5.8],West Africa,3.4
+Female,2013,11.6 [8.1-15.9],West Africa,11.6
+Both sexes,2014,8.2 [5.9-10.8],West Africa,8.2
+Male,2014,3.6 [1.9-6.1],West Africa,3.6
+Female,2014,12.0 [8.3-16.5],West Africa,12.0
+Both sexes,2015,8.5 [6.1-11.2],West Africa,8.5
+Male,2015,3.8 [1.9-6.4],West Africa,3.8
+Female,2015,12.5 [8.5-17.2],West Africa,12.5
+Both sexes,2016,8.8 [6.3-11.8],West Africa,8.8
+Male,2016,4.0 [2.0-6.8],West Africa,4.0
+Female,2016,12.9 [8.7-17.9],West Africa,12.9

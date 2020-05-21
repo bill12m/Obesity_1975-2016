@@ -1,0 +1,127 @@
+Sex,Year,Obesity (%),Region,BMI
+Both sexes,1975,0.2 [0.1-0.6],Southeast Asia,0.2
+Male,1975,0.1 [0.0-0.3],Southeast Asia,0.1
+Female,1975,0.4 [0.1-1.0],Southeast Asia,0.4
+Both sexes,1976,0.3 [0.1-0.6],Southeast Asia,0.3
+Male,1976,0.1 [0.0-0.3],Southeast Asia,0.1
+Female,1976,0.4 [0.1-1.0],Southeast Asia,0.4
+Both sexes,1977,0.3 [0.1-0.6],Southeast Asia,0.3
+Male,1977,0.1 [0.0-0.3],Southeast Asia,0.1
+Female,1977,0.4 [0.1-1.1],Southeast Asia,0.4
+Both sexes,1978,0.3 [0.1-0.6],Southeast Asia,0.3
+Male,1978,0.1 [0.0-0.4],Southeast Asia,0.1
+Female,1978,0.5 [0.1-1.1],Southeast Asia,0.5
+Both sexes,1979,0.3 [0.1-0.7],Southeast Asia,0.3
+Male,1979,0.1 [0.0-0.4],Southeast Asia,0.1
+Female,1979,0.5 [0.2-1.1],Southeast Asia,0.5
+Both sexes,1980,0.3 [0.1-0.7],Southeast Asia,0.3
+Male,1980,0.2 [0.0-0.4],Southeast Asia,0.2
+Female,1980,0.5 [0.2-1.2],Southeast Asia,0.5
+Both sexes,1981,0.4 [0.2-0.7],Southeast Asia,0.4
+Male,1981,0.2 [0.0-0.4],Southeast Asia,0.2
+Female,1981,0.6 [0.2-1.3],Southeast Asia,0.6
+Both sexes,1982,0.4 [0.2-0.8],Southeast Asia,0.4
+Male,1982,0.2 [0.0-0.5],Southeast Asia,0.2
+Female,1982,0.6 [0.2-1.3],Southeast Asia,0.6
+Both sexes,1983,0.4 [0.2-0.8],Southeast Asia,0.4
+Male,1983,0.2 [0.1-0.5],Southeast Asia,0.2
+Female,1983,0.7 [0.2-1.4],Southeast Asia,0.7
+Both sexes,1984,0.5 [0.2-0.8],Southeast Asia,0.5
+Male,1984,0.2 [0.1-0.5],Southeast Asia,0.2
+Female,1984,0.7 [0.3-1.5],Southeast Asia,0.7
+Both sexes,1985,0.5 [0.2-0.9],Southeast Asia,0.5
+Male,1985,0.2 [0.1-0.5],Southeast Asia,0.2
+Female,1985,0.7 [0.3-1.5],Southeast Asia,0.7
+Both sexes,1986,0.5 [0.2-0.9],Southeast Asia,0.5
+Male,1986,0.2 [0.1-0.6],Southeast Asia,0.2
+Female,1986,0.8 [0.3-1.6],Southeast Asia,0.8
+Both sexes,1987,0.6 [0.3-1.0],Southeast Asia,0.6
+Male,1987,0.3 [0.1-0.6],Southeast Asia,0.3
+Female,1987,0.9 [0.3-1.7],Southeast Asia,0.9
+Both sexes,1988,0.6 [0.3-1.1],Southeast Asia,0.6
+Male,1988,0.3 [0.1-0.7],Southeast Asia,0.3
+Female,1988,0.9 [0.4-1.8],Southeast Asia,0.9
+Both sexes,1989,0.6 [0.3-1.1],Southeast Asia,0.6
+Male,1989,0.3 [0.1-0.7],Southeast Asia,0.3
+Female,1989,1.0 [0.4-1.9],Southeast Asia,1.0
+Both sexes,1990,0.7 [0.4-1.2],Southeast Asia,0.7
+Male,1990,0.3 [0.1-0.8],Southeast Asia,0.3
+Female,1990,1.1 [0.5-2.0],Southeast Asia,1.1
+Both sexes,1991,0.7 [0.4-1.3],Southeast Asia,0.7
+Male,1991,0.4 [0.1-0.8],Southeast Asia,0.4
+Female,1991,1.1 [0.5-2.1],Southeast Asia,1.1
+Both sexes,1992,0.8 [0.4-1.3],Southeast Asia,0.8
+Male,1992,0.4 [0.1-0.9],Southeast Asia,0.4
+Female,1992,1.2 [0.5-2.2],Southeast Asia,1.2
+Both sexes,1993,0.9 [0.5-1.4],Southeast Asia,0.9
+Male,1993,0.4 [0.2-1.0],Southeast Asia,0.4
+Female,1993,1.3 [0.6-2.3],Southeast Asia,1.3
+Both sexes,1994,0.9 [0.5-1.5],Southeast Asia,0.9
+Male,1994,0.5 [0.2-1.0],Southeast Asia,0.5
+Female,1994,1.4 [0.6-2.4],Southeast Asia,1.4
+Both sexes,1995,1.0 [0.5-1.6],Southeast Asia,1.0
+Male,1995,0.5 [0.2-1.1],Southeast Asia,0.5
+Female,1995,1.4 [0.7-2.6],Southeast Asia,1.4
+Both sexes,1996,1.0 [0.6-1.7],Southeast Asia,1.0
+Male,1996,0.6 [0.2-1.2],Southeast Asia,0.6
+Female,1996,1.5 [0.7-2.7],Southeast Asia,1.5
+Both sexes,1997,1.1 [0.6-1.8],Southeast Asia,1.1
+Male,1997,0.6 [0.2-1.3],Southeast Asia,0.6
+Female,1997,1.6 [0.8-2.9],Southeast Asia,1.6
+Both sexes,1998,1.2 [0.7-1.9],Southeast Asia,1.2
+Male,1998,0.7 [0.2-1.3],Southeast Asia,0.7
+Female,1998,1.7 [0.9-3.0],Southeast Asia,1.7
+Both sexes,1999,1.3 [0.7-2.0],Southeast Asia,1.3
+Male,1999,0.7 [0.3-1.4],Southeast Asia,0.7
+Female,1999,1.8 [0.9-3.2],Southeast Asia,1.8
+Both sexes,2000,1.4 [0.8-2.1],Southeast Asia,1.4
+Male,2000,0.8 [0.3-1.5],Southeast Asia,0.8
+Female,2000,2.0 [1.0-3.3],Southeast Asia,2.0
+Both sexes,2001,1.5 [0.9-2.3],Southeast Asia,1.5
+Male,2001,0.8 [0.3-1.6],Southeast Asia,0.8
+Female,2001,2.1 [1.1-3.5],Southeast Asia,2.1
+Both sexes,2002,1.6 [0.9-2.4],Southeast Asia,1.6
+Male,2002,0.9 [0.4-1.7],Southeast Asia,0.9
+Female,2002,2.2 [1.1-3.7],Southeast Asia,2.2
+Both sexes,2003,1.7 [1.0-2.5],Southeast Asia,1.7
+Male,2003,1.0 [0.4-1.9],Southeast Asia,1.0
+Female,2003,2.3 [1.2-3.9],Southeast Asia,2.3
+Both sexes,2004,1.8 [1.1-2.7],Southeast Asia,1.8
+Male,2004,1.0 [0.4-2.0],Southeast Asia,1.0
+Female,2004,2.5 [1.3-4.0],Southeast Asia,2.5
+Both sexes,2005,1.9 [1.2-2.8],Southeast Asia,1.9
+Male,2005,1.1 [0.5-2.1],Southeast Asia,1.1
+Female,2005,2.6 [1.4-4.3],Southeast Asia,2.6
+Both sexes,2006,2.0 [1.2-3.0],Southeast Asia,2.0
+Male,2006,1.2 [0.5-2.3],Southeast Asia,1.2
+Female,2006,2.8 [1.5-4.5],Southeast Asia,2.8
+Both sexes,2007,2.1 [1.3-3.2],Southeast Asia,2.1
+Male,2007,1.3 [0.6-2.4],Southeast Asia,1.3
+Female,2007,2.9 [1.6-4.8],Southeast Asia,2.9
+Both sexes,2008,2.3 [1.4-3.4],Southeast Asia,2.3
+Male,2008,1.4 [0.6-2.6],Southeast Asia,1.4
+Female,2008,3.1 [1.7-5.0],Southeast Asia,3.1
+Both sexes,2009,2.4 [1.5-3.6],Southeast Asia,2.4
+Male,2009,1.5 [0.7-2.8],Southeast Asia,1.5
+Female,2009,3.3 [1.8-5.3],Southeast Asia,3.3
+Both sexes,2010,2.6 [1.7-3.8],Southeast Asia,2.6
+Male,2010,1.7 [0.8-3.0],Southeast Asia,1.7
+Female,2010,3.5 [2.0-5.6],Southeast Asia,3.5
+Both sexes,2011,2.8 [1.8-4.0],Southeast Asia,2.8
+Male,2011,1.8 [0.8-3.3],Southeast Asia,1.8
+Female,2011,3.7 [2.1-5.9],Southeast Asia,3.7
+Both sexes,2012,2.9 [1.9-4.3],Southeast Asia,2.9
+Male,2012,1.9 [0.9-3.5],Southeast Asia,1.9
+Female,2012,3.9 [2.2-6.2],Southeast Asia,3.9
+Both sexes,2013,3.1 [2.0-4.6],Southeast Asia,3.1
+Male,2013,2.1 [0.9-3.8],Southeast Asia,2.1
+Female,2013,4.1 [2.3-6.6],Southeast Asia,4.1
+Both sexes,2014,3.3 [2.2-4.9],Southeast Asia,3.3
+Male,2014,2.3 [1.0-4.1],Southeast Asia,2.3
+Female,2014,4.4 [2.5-7.0],Southeast Asia,4.4
+Both sexes,2015,3.6 [2.3-5.2],Southeast Asia,3.6
+Male,2015,2.4 [1.1-4.5],Southeast Asia,2.4
+Female,2015,4.6 [2.6-7.4],Southeast Asia,4.6
+Both sexes,2016,3.8 [2.4-5.6],Southeast Asia,3.8
+Male,2016,2.6 [1.2-4.8],Southeast Asia,2.6
+Female,2016,4.9 [2.8-7.9],Southeast Asia,4.9

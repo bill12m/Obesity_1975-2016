@@ -1,0 +1,2017 @@
+,Country,Sex,Year,Obesity (%),Region,BMI
+1008,Australia,Both sexes,1975,10.5 [7.9-13.4],Oceania,10.5
+1009,Australia,Male,1975,9.7 [6.2-13.9],Oceania,9.7
+1010,Australia,Female,1975,11.2 [7.6-15.2],Oceania,11.2
+1011,Australia,Both sexes,1976,10.8 [8.2-13.5],Oceania,10.8
+1012,Australia,Male,1976,10.0 [6.6-14.0],Oceania,10.0
+1013,Australia,Female,1976,11.5 [8.0-15.4],Oceania,11.5
+1014,Australia,Both sexes,1977,11.0 [8.6-13.8],Oceania,11.0
+1015,Australia,Male,1977,10.3 [7.0-14.1],Oceania,10.3
+1016,Australia,Female,1977,11.7 [8.3-15.6],Oceania,11.7
+1017,Australia,Both sexes,1978,11.3 [8.9-13.9],Oceania,11.3
+1018,Australia,Male,1978,10.6 [7.3-14.2],Oceania,10.6
+1019,Australia,Female,1978,12.0 [8.7-15.7],Oceania,12.0
+1020,Australia,Both sexes,1979,11.6 [9.3-14.1],Oceania,11.6
+1021,Australia,Male,1979,10.8 [7.7-14.4],Oceania,10.8
+1022,Australia,Female,1979,12.3 [9.0-15.8],Oceania,12.3
+1023,Australia,Both sexes,1980,11.9 [9.6-14.4],Oceania,11.9
+1024,Australia,Male,1980,11.2 [8.0-14.6],Oceania,11.2
+1025,Australia,Female,1980,12.6 [9.4-16.0],Oceania,12.6
+1026,Australia,Both sexes,1981,12.2 [10.0-14.6],Oceania,12.2
+1027,Australia,Male,1981,11.5 [8.3-14.8],Oceania,11.5
+1028,Australia,Female,1981,12.8 [9.8-16.2],Oceania,12.8
+1029,Australia,Both sexes,1982,12.5 [10.3-14.9],Oceania,12.5
+1030,Australia,Male,1982,11.8 [8.7-15.1],Oceania,11.8
+1031,Australia,Female,1982,13.1 [10.1-16.5],Oceania,13.1
+1032,Australia,Both sexes,1983,12.8 [10.7-15.2],Oceania,12.8
+1033,Australia,Male,1983,12.1 [9.0-15.3],Oceania,12.1
+1034,Australia,Female,1983,13.4 [10.4-16.7],Oceania,13.4
+1035,Australia,Both sexes,1984,13.1 [11.0-15.4],Oceania,13.1
+1036,Australia,Male,1984,12.4 [9.4-15.6],Oceania,12.4
+1037,Australia,Female,1984,13.7 [10.8-16.9],Oceania,13.7
+1038,Australia,Both sexes,1985,13.5 [11.3-15.8],Oceania,13.5
+1039,Australia,Male,1985,12.8 [9.7-16.0],Oceania,12.8
+1040,Australia,Female,1985,14.1 [11.1-17.2],Oceania,14.1
+1041,Australia,Both sexes,1986,13.8 [11.7-16.1],Oceania,13.8
+1042,Australia,Male,1986,13.2 [10.1-16.3],Oceania,13.2
+1043,Australia,Female,1986,14.4 [11.5-17.6],Oceania,14.4
+1044,Australia,Both sexes,1987,14.2 [12.0-16.5],Oceania,14.2
+1045,Australia,Male,1987,13.5 [10.4-16.7],Oceania,13.5
+1046,Australia,Female,1987,14.7 [11.8-17.9],Oceania,14.7
+1047,Australia,Both sexes,1988,14.5 [12.4-16.8],Oceania,14.5
+1048,Australia,Male,1988,13.9 [10.8-17.1],Oceania,13.9
+1049,Australia,Female,1988,15.1 [12.2-18.2],Oceania,15.1
+1050,Australia,Both sexes,1989,14.9 [12.8-17.2],Oceania,14.9
+1051,Australia,Male,1989,14.3 [11.2-17.6],Oceania,14.3
+1052,Australia,Female,1989,15.5 [12.6-18.6],Oceania,15.5
+1053,Australia,Both sexes,1990,15.3 [13.2-17.6],Oceania,15.3
+1054,Australia,Male,1990,14.7 [11.6-18.0],Oceania,14.7
+1055,Australia,Female,1990,15.8 [13.0-19.0],Oceania,15.8
+1056,Australia,Both sexes,1991,15.7 [13.6-18.0],Oceania,15.7
+1057,Australia,Male,1991,15.2 [12.0-18.5],Oceania,15.2
+1058,Australia,Female,1991,16.2 [13.3-19.4],Oceania,16.2
+1059,Australia,Both sexes,1992,16.2 [14.0-18.5],Oceania,16.2
+1060,Australia,Male,1992,15.6 [12.4-19.0],Oceania,15.6
+1061,Australia,Female,1992,16.7 [13.7-19.9],Oceania,16.7
+1062,Australia,Both sexes,1993,16.6 [14.5-19.0],Oceania,16.6
+1063,Australia,Male,1993,16.1 [12.9-19.5],Oceania,16.1
+1064,Australia,Female,1993,17.1 [14.1-20.3],Oceania,17.1
+1065,Australia,Both sexes,1994,17.1 [14.9-19.5],Oceania,17.1
+1066,Australia,Male,1994,16.6 [13.4-20.0],Oceania,16.6
+1067,Australia,Female,1994,17.5 [14.5-20.7],Oceania,17.5
+1068,Australia,Both sexes,1995,17.6 [15.4-20.0],Oceania,17.6
+1069,Australia,Male,1995,17.1 [13.9-20.6],Oceania,17.1
+1070,Australia,Female,1995,18.0 [15.0-21.2],Oceania,18.0
+1071,Australia,Both sexes,1996,18.1 [15.9-20.5],Oceania,18.1
+1072,Australia,Male,1996,17.7 [14.4-21.2],Oceania,17.7
+1073,Australia,Female,1996,18.5 [15.4-21.7],Oceania,18.5
+1074,Australia,Both sexes,1997,18.6 [16.4-21.0],Oceania,18.6
+1075,Australia,Male,1997,18.2 [14.9-21.7],Oceania,18.2
+1076,Australia,Female,1997,18.9 [15.9-22.2],Oceania,18.9
+1077,Australia,Both sexes,1998,19.1 [16.9-21.5],Oceania,19.1
+1078,Australia,Male,1998,18.8 [15.4-22.3],Oceania,18.8
+1079,Australia,Female,1998,19.4 [16.3-22.7],Oceania,19.4
+1080,Australia,Both sexes,1999,19.7 [17.4-22.1],Oceania,19.7
+1081,Australia,Male,1999,19.3 [15.9-22.8],Oceania,19.3
+1082,Australia,Female,1999,19.9 [16.8-23.3],Oceania,19.9
+1083,Australia,Both sexes,2000,20.2 [17.9-22.7],Oceania,20.2
+1084,Australia,Male,2000,19.9 [16.5-23.4],Oceania,19.9
+1085,Australia,Female,2000,20.5 [17.3-23.8],Oceania,20.5
+1086,Australia,Both sexes,2001,20.7 [18.5-23.2],Oceania,20.7
+1087,Australia,Male,2001,20.5 [17.1-24.0],Oceania,20.5
+1088,Australia,Female,2001,21.0 [17.8-24.3],Oceania,21.0
+1089,Australia,Both sexes,2002,21.3 [19.0-23.8],Oceania,21.3
+1090,Australia,Male,2002,21.1 [17.7-24.6],Oceania,21.1
+1091,Australia,Female,2002,21.5 [18.3-24.8],Oceania,21.5
+1092,Australia,Both sexes,2003,21.8 [19.6-24.3],Oceania,21.8
+1093,Australia,Male,2003,21.7 [18.2-25.2],Oceania,21.7
+1094,Australia,Female,2003,22.0 [18.8-25.4],Oceania,22.0
+1095,Australia,Both sexes,2004,22.4 [20.1-24.9],Oceania,22.4
+1096,Australia,Male,2004,22.3 [18.8-25.8],Oceania,22.3
+1097,Australia,Female,2004,22.5 [19.3-25.9],Oceania,22.5
+1098,Australia,Both sexes,2005,22.9 [20.6-25.5],Oceania,22.9
+1099,Australia,Male,2005,22.9 [19.4-26.5],Oceania,22.9
+1100,Australia,Female,2005,23.0 [19.7-26.5],Oceania,23.0
+1101,Australia,Both sexes,2006,23.5 [21.1-26.1],Oceania,23.5
+1102,Australia,Male,2006,23.5 [19.9-27.1],Oceania,23.5
+1103,Australia,Female,2006,23.5 [20.2-27.1],Oceania,23.5
+1104,Australia,Both sexes,2007,24.0 [21.6-26.6],Oceania,24.0
+1105,Australia,Male,2007,24.0 [20.4-27.8],Oceania,24.0
+1106,Australia,Female,2007,24.0 [20.6-27.6],Oceania,24.0
+1107,Australia,Both sexes,2008,24.6 [22.1-27.2],Oceania,24.6
+1108,Australia,Male,2008,24.6 [20.9-28.5],Oceania,24.6
+1109,Australia,Female,2008,24.5 [21.0-28.2],Oceania,24.5
+1110,Australia,Both sexes,2009,25.1 [22.5-27.9],Oceania,25.1
+1111,Australia,Male,2009,25.2 [21.4-29.2],Oceania,25.2
+1112,Australia,Female,2009,24.9 [21.4-28.8],Oceania,24.9
+1113,Australia,Both sexes,2010,25.6 [23.0-28.6],Oceania,25.6
+1114,Australia,Male,2010,25.8 [21.9-30.0],Oceania,25.8
+1115,Australia,Female,2010,25.4 [21.7-29.5],Oceania,25.4
+1116,Australia,Both sexes,2011,26.2 [23.4-29.2],Oceania,26.2
+1117,Australia,Male,2011,26.4 [22.4-30.7],Oceania,26.4
+1118,Australia,Female,2011,25.9 [22.0-30.1],Oceania,25.9
+1119,Australia,Both sexes,2012,26.7 [23.8-29.9],Oceania,26.7
+1120,Australia,Male,2012,27.0 [22.8-31.6],Oceania,27.0
+1121,Australia,Female,2012,26.4 [22.3-30.7],Oceania,26.4
+1122,Australia,Both sexes,2013,27.3 [24.2-30.6],Oceania,27.3
+1123,Australia,Male,2013,27.7 [23.2-32.5],Oceania,27.7
+1124,Australia,Female,2013,26.9 [22.5-31.5],Oceania,26.9
+1125,Australia,Both sexes,2014,27.9 [24.6-31.4],Oceania,27.9
+1126,Australia,Male,2014,28.3 [23.6-33.4],Oceania,28.3
+1127,Australia,Female,2014,27.4 [22.8-32.2],Oceania,27.4
+1128,Australia,Both sexes,2015,28.4 [24.9-32.1],Oceania,28.4
+1129,Australia,Male,2015,28.9 [23.9-34.3],Oceania,28.9
+1130,Australia,Female,2015,27.9 [23.0-33.1],Oceania,27.9
+1131,Australia,Both sexes,2016,29.0 [25.3-32.9],Oceania,29.0
+1132,Australia,Male,2016,29.6 [24.2-35.3],Oceania,29.6
+1133,Australia,Female,2016,28.4 [23.1-33.9],Oceania,28.4
+4914,Cook Islands,Both sexes,1975,28.0 [21.3-35.5],Oceania,28.0
+4915,Cook Islands,Male,1975,21.6 [12.7-32.0],Oceania,21.6
+4916,Cook Islands,Female,1975,34.5 [24.5-45.3],Oceania,34.5
+4917,Cook Islands,Both sexes,1976,28.6 [22.0-35.9],Oceania,28.6
+4918,Cook Islands,Male,1976,22.2 [13.4-32.2],Oceania,22.2
+4919,Cook Islands,Female,1976,35.1 [25.3-45.7],Oceania,35.1
+4920,Cook Islands,Both sexes,1977,29.2 [22.6-36.2],Oceania,29.2
+4921,Cook Islands,Male,1977,22.7 [14.1-32.4],Oceania,22.7
+4922,Cook Islands,Female,1977,35.7 [26.0-46.0],Oceania,35.7
+4923,Cook Islands,Both sexes,1978,29.7 [23.3-36.6],Oceania,29.7
+4924,Cook Islands,Male,1978,23.3 [14.7-32.8],Oceania,23.3
+4925,Cook Islands,Female,1978,36.3 [26.8-46.3],Oceania,36.3
+4926,Cook Islands,Both sexes,1979,30.3 [23.9-37.0],Oceania,30.3
+4927,Cook Islands,Male,1979,23.8 [15.4-33.3],Oceania,23.8
+4928,Cook Islands,Female,1979,36.9 [27.6-46.6],Oceania,36.9
+4929,Cook Islands,Both sexes,1980,30.8 [24.5-37.5],Oceania,30.8
+4930,Cook Islands,Male,1980,24.4 [16.1-33.8],Oceania,24.4
+4931,Cook Islands,Female,1980,37.4 [28.3-46.9],Oceania,37.4
+4932,Cook Islands,Both sexes,1981,31.4 [25.2-38.0],Oceania,31.4
+4933,Cook Islands,Male,1981,25.0 [16.7-34.1],Oceania,25.0
+4934,Cook Islands,Female,1981,38.0 [29.0-47.3],Oceania,38.0
+4935,Cook Islands,Both sexes,1982,32.0 [25.9-38.5],Oceania,32.0
+4936,Cook Islands,Male,1982,25.6 [17.4-34.6],Oceania,25.6
+4937,Cook Islands,Female,1982,38.6 [29.8-47.6],Oceania,38.6
+4938,Cook Islands,Both sexes,1983,32.6 [26.5-39.0],Oceania,32.6
+4939,Cook Islands,Male,1983,26.2 [18.1-35.2],Oceania,26.2
+4940,Cook Islands,Female,1983,39.2 [30.5-48.2],Oceania,39.2
+4941,Cook Islands,Both sexes,1984,33.3 [27.2-39.5],Oceania,33.3
+4942,Cook Islands,Male,1984,26.9 [18.8-35.7],Oceania,26.9
+4943,Cook Islands,Female,1984,39.8 [31.2-48.7],Oceania,39.8
+4944,Cook Islands,Both sexes,1985,33.9 [28.0-40.1],Oceania,33.9
+4945,Cook Islands,Male,1985,27.6 [19.5-36.3],Oceania,27.6
+4946,Cook Islands,Female,1985,40.5 [31.9-49.2],Oceania,40.5
+4947,Cook Islands,Both sexes,1986,34.6 [28.7-40.8],Oceania,34.6
+4948,Cook Islands,Male,1986,28.3 [20.2-36.9],Oceania,28.3
+4949,Cook Islands,Female,1986,41.1 [32.6-49.7],Oceania,41.1
+4950,Cook Islands,Both sexes,1987,35.3 [29.5-41.4],Oceania,35.3
+4951,Cook Islands,Male,1987,29.0 [20.9-37.6],Oceania,29.0
+4952,Cook Islands,Female,1987,41.8 [33.3-50.1],Oceania,41.8
+4953,Cook Islands,Both sexes,1988,36.1 [30.3-42.0],Oceania,36.1
+4954,Cook Islands,Male,1988,29.8 [21.7-38.3],Oceania,29.8
+4955,Cook Islands,Female,1988,42.5 [34.0-50.8],Oceania,42.5
+4956,Cook Islands,Both sexes,1989,36.8 [31.1-42.7],Oceania,36.8
+4957,Cook Islands,Male,1989,30.6 [22.5-39.1],Oceania,30.6
+4958,Cook Islands,Female,1989,43.2 [34.6-51.4],Oceania,43.2
+4959,Cook Islands,Both sexes,1990,37.5 [31.9-43.4],Oceania,37.5
+4960,Cook Islands,Male,1990,31.3 [23.3-39.9],Oceania,31.3
+4961,Cook Islands,Female,1990,43.8 [35.3-52.0],Oceania,43.8
+4962,Cook Islands,Both sexes,1991,38.3 [32.6-44.1],Oceania,38.3
+4963,Cook Islands,Male,1991,32.1 [24.1-40.6],Oceania,32.1
+4964,Cook Islands,Female,1991,44.5 [36.2-52.6],Oceania,44.5
+4965,Cook Islands,Both sexes,1992,39.0 [33.3-44.8],Oceania,39.0
+4966,Cook Islands,Male,1992,32.9 [24.9-41.4],Oceania,32.9
+4967,Cook Islands,Female,1992,45.2 [36.8-53.2],Oceania,45.2
+4968,Cook Islands,Both sexes,1993,39.7 [34.0-45.5],Oceania,39.7
+4969,Cook Islands,Male,1993,33.7 [25.7-42.1],Oceania,33.7
+4970,Cook Islands,Female,1993,45.8 [37.5-53.7],Oceania,45.8
+4971,Cook Islands,Both sexes,1994,40.4 [34.7-46.2],Oceania,40.4
+4972,Cook Islands,Male,1994,34.4 [26.4-42.8],Oceania,34.4
+4973,Cook Islands,Female,1994,46.4 [38.2-54.2],Oceania,46.4
+4974,Cook Islands,Both sexes,1995,41.0 [35.4-46.8],Oceania,41.0
+4975,Cook Islands,Male,1995,35.2 [27.1-43.6],Oceania,35.2
+4976,Cook Islands,Female,1995,47.0 [38.9-54.7],Oceania,47.0
+4977,Cook Islands,Both sexes,1996,41.8 [36.1-47.5],Oceania,41.8
+4978,Cook Islands,Male,1996,36.0 [27.9-44.3],Oceania,36.0
+4979,Cook Islands,Female,1996,47.6 [39.6-55.2],Oceania,47.6
+4980,Cook Islands,Both sexes,1997,42.5 [36.9-48.2],Oceania,42.5
+4981,Cook Islands,Male,1997,36.8 [28.8-45.1],Oceania,36.8
+4982,Cook Islands,Female,1997,48.3 [40.4-55.8],Oceania,48.3
+4983,Cook Islands,Both sexes,1998,43.3 [37.7-49.0],Oceania,43.3
+4984,Cook Islands,Male,1998,37.7 [29.7-45.9],Oceania,37.7
+4985,Cook Islands,Female,1998,49.0 [41.2-56.5],Oceania,49.0
+4986,Cook Islands,Both sexes,1999,44.1 [38.5-49.8],Oceania,44.1
+4987,Cook Islands,Male,1999,38.6 [30.7-46.8],Oceania,38.6
+4988,Cook Islands,Female,1999,49.7 [42.1-57.1],Oceania,49.7
+4989,Cook Islands,Both sexes,2000,44.9 [39.5-50.6],Oceania,44.9
+4990,Cook Islands,Male,2000,39.6 [31.7-47.6],Oceania,39.6
+4991,Cook Islands,Female,2000,50.4 [43.0-57.8],Oceania,50.4
+4992,Cook Islands,Both sexes,2001,45.8 [40.4-51.4],Oceania,45.8
+4993,Cook Islands,Male,2001,40.6 [32.7-48.5],Oceania,40.6
+4994,Cook Islands,Female,2001,51.1 [43.7-58.4],Oceania,51.1
+4995,Cook Islands,Both sexes,2002,46.6 [41.3-52.2],Oceania,46.6
+4996,Cook Islands,Male,2002,41.5 [33.7-49.3],Oceania,41.5
+4997,Cook Islands,Female,2002,51.9 [44.6-59.1],Oceania,51.9
+4998,Cook Islands,Both sexes,2003,47.5 [42.2-52.9],Oceania,47.5
+4999,Cook Islands,Male,2003,42.5 [34.8-50.2],Oceania,42.5
+5000,Cook Islands,Female,2003,52.6 [45.3-59.7],Oceania,52.6
+5001,Cook Islands,Both sexes,2004,48.3 [43.1-53.7],Oceania,48.3
+5002,Cook Islands,Male,2004,43.5 [35.8-51.1],Oceania,43.5
+5003,Cook Islands,Female,2004,53.3 [46.1-60.2],Oceania,53.3
+5004,Cook Islands,Both sexes,2005,49.1 [44.0-54.4],Oceania,49.1
+5005,Cook Islands,Male,2005,44.4 [36.9-52.0],Oceania,44.4
+5006,Cook Islands,Female,2005,53.9 [46.8-60.8],Oceania,53.9
+5007,Cook Islands,Both sexes,2006,49.9 [44.8-55.1],Oceania,49.9
+5008,Cook Islands,Male,2006,45.3 [37.8-52.8],Oceania,45.3
+5009,Cook Islands,Female,2006,54.6 [47.4-61.4],Oceania,54.6
+5010,Cook Islands,Both sexes,2007,50.6 [45.6-55.9],Oceania,50.6
+5011,Cook Islands,Male,2007,46.2 [38.8-53.5],Oceania,46.2
+5012,Cook Islands,Female,2007,55.1 [48.1-62.1],Oceania,55.1
+5013,Cook Islands,Both sexes,2008,51.3 [46.3-56.6],Oceania,51.3
+5014,Cook Islands,Male,2008,47.0 [39.6-54.3],Oceania,47.0
+5015,Cook Islands,Female,2008,55.7 [48.6-62.6],Oceania,55.7
+5016,Cook Islands,Both sexes,2009,52.0 [47.0-57.2],Oceania,52.0
+5017,Cook Islands,Male,2009,47.8 [40.4-55.2],Oceania,47.8
+5018,Cook Islands,Female,2009,56.2 [49.1-63.1],Oceania,56.2
+5019,Cook Islands,Both sexes,2010,52.6 [47.6-57.8],Oceania,52.6
+5020,Cook Islands,Male,2010,48.6 [41.2-55.9],Oceania,48.6
+5021,Cook Islands,Female,2010,56.7 [49.4-63.6],Oceania,56.7
+5022,Cook Islands,Both sexes,2011,53.2 [48.1-58.4],Oceania,53.2
+5023,Cook Islands,Male,2011,49.3 [41.8-56.6],Oceania,49.3
+5024,Cook Islands,Female,2011,57.2 [49.8-64.2],Oceania,57.2
+5025,Cook Islands,Both sexes,2012,53.8 [48.6-59.0],Oceania,53.8
+5026,Cook Islands,Male,2012,50.0 [42.4-57.4],Oceania,50.0
+5027,Cook Islands,Female,2012,57.6 [50.2-64.7],Oceania,57.6
+5028,Cook Islands,Both sexes,2013,54.3 [49.0-59.6],Oceania,54.3
+5029,Cook Islands,Male,2013,50.7 [42.9-58.2],Oceania,50.7
+5030,Cook Islands,Female,2013,58.0 [50.5-65.2],Oceania,58.0
+5031,Cook Islands,Both sexes,2014,54.9 [49.4-60.3],Oceania,54.9
+5032,Cook Islands,Male,2014,51.3 [43.4-59.0],Oceania,51.3
+5033,Cook Islands,Female,2014,58.4 [50.7-65.8],Oceania,58.4
+5034,Cook Islands,Both sexes,2015,55.4 [49.8-61.0],Oceania,55.4
+5035,Cook Islands,Male,2015,52.0 [43.8-59.8],Oceania,52.0
+5036,Cook Islands,Female,2015,58.8 [51.0-66.3],Oceania,58.8
+5037,Cook Islands,Both sexes,2016,55.9 [50.2-61.5],Oceania,55.9
+5038,Cook Islands,Male,2016,52.6 [44.2-60.6],Oceania,52.6
+5039,Cook Islands,Female,2016,59.2 [51.2-66.8],Oceania,59.2
+7560,Fiji,Both sexes,1975,9.5 [5.4-14.9],Oceania,9.5
+7561,Fiji,Male,1975,5.8 [2.1-12.0],Oceania,5.8
+7562,Fiji,Female,1975,13.3 [6.4-22.8],Oceania,13.3
+7563,Fiji,Both sexes,1976,9.8 [5.7-15.2],Oceania,9.8
+7564,Fiji,Male,1976,6.0 [2.3-12.2],Oceania,6.0
+7565,Fiji,Female,1976,13.8 [6.8-23.0],Oceania,13.8
+7566,Fiji,Both sexes,1977,10.1 [6.0-15.4],Oceania,10.1
+7567,Fiji,Male,1977,6.3 [2.5-12.3],Oceania,6.3
+7568,Fiji,Female,1977,14.2 [7.3-23.2],Oceania,14.2
+7569,Fiji,Both sexes,1978,10.5 [6.4-15.7],Oceania,10.5
+7570,Fiji,Male,1978,6.5 [2.7-12.5],Oceania,6.5
+7571,Fiji,Female,1978,14.6 [7.8-23.6],Oceania,14.6
+7572,Fiji,Both sexes,1979,10.8 [6.7-16.0],Oceania,10.8
+7573,Fiji,Male,1979,6.8 [2.8-12.7],Oceania,6.8
+7574,Fiji,Female,1979,15.0 [8.2-23.7],Oceania,15.0
+7575,Fiji,Both sexes,1980,11.2 [7.0-16.2],Oceania,11.2
+7576,Fiji,Male,1980,7.0 [3.1-13.0],Oceania,7.0
+7577,Fiji,Female,1980,15.5 [8.6-24.0],Oceania,15.5
+7578,Fiji,Both sexes,1981,11.5 [7.4-16.5],Oceania,11.5
+7579,Fiji,Male,1981,7.3 [3.3-13.2],Oceania,7.3
+7580,Fiji,Female,1981,15.9 [9.0-24.4],Oceania,15.9
+7581,Fiji,Both sexes,1982,11.9 [7.7-16.7],Oceania,11.9
+7582,Fiji,Male,1982,7.6 [3.5-13.6],Oceania,7.6
+7583,Fiji,Female,1982,16.4 [9.4-24.6],Oceania,16.4
+7584,Fiji,Both sexes,1983,12.3 [8.1-17.1],Oceania,12.3
+7585,Fiji,Male,1983,7.9 [3.7-13.8],Oceania,7.9
+7586,Fiji,Female,1983,16.8 [9.9-24.8],Oceania,16.8
+7587,Fiji,Both sexes,1984,12.6 [8.4-17.4],Oceania,12.6
+7588,Fiji,Male,1984,8.2 [3.9-14.1],Oceania,8.2
+7589,Fiji,Female,1984,17.2 [10.3-25.2],Oceania,17.2
+7590,Fiji,Both sexes,1985,13.0 [8.8-17.8],Oceania,13.0
+7591,Fiji,Male,1985,8.5 [4.2-14.4],Oceania,8.5
+7592,Fiji,Female,1985,17.7 [10.8-25.6],Oceania,17.7
+7593,Fiji,Both sexes,1986,13.4 [9.2-18.1],Oceania,13.4
+7594,Fiji,Male,1986,8.8 [4.4-14.7],Oceania,8.8
+7595,Fiji,Female,1986,18.2 [11.3-26.0],Oceania,18.2
+7596,Fiji,Both sexes,1987,13.9 [9.6-18.6],Oceania,13.9
+7597,Fiji,Male,1987,9.1 [4.7-15.1],Oceania,9.1
+7598,Fiji,Female,1987,18.7 [11.7-26.5],Oceania,18.7
+7599,Fiji,Both sexes,1988,14.3 [10.1-19.1],Oceania,14.3
+7600,Fiji,Male,1988,9.5 [4.9-15.5],Oceania,9.5
+7601,Fiji,Female,1988,19.2 [12.2-26.9],Oceania,19.2
+7602,Fiji,Both sexes,1989,14.8 [10.5-19.6],Oceania,14.8
+7603,Fiji,Male,1989,9.9 [5.2-15.9],Oceania,9.9
+7604,Fiji,Female,1989,19.7 [12.8-27.5],Oceania,19.7
+7605,Fiji,Both sexes,1990,15.3 [11.0-20.1],Oceania,15.3
+7606,Fiji,Male,1990,10.3 [5.5-16.4],Oceania,10.3
+7607,Fiji,Female,1990,20.3 [13.4-27.9],Oceania,20.3
+7608,Fiji,Both sexes,1991,15.8 [11.5-20.6],Oceania,15.8
+7609,Fiji,Male,1991,10.8 [5.9-16.9],Oceania,10.8
+7610,Fiji,Female,1991,20.9 [13.9-28.5],Oceania,20.9
+7611,Fiji,Both sexes,1992,16.4 [12.0-21.2],Oceania,16.4
+7612,Fiji,Male,1992,11.2 [6.2-17.5],Oceania,11.2
+7613,Fiji,Female,1992,21.5 [14.5-29.0],Oceania,21.5
+7614,Fiji,Both sexes,1993,16.9 [12.5-21.8],Oceania,16.9
+7615,Fiji,Male,1993,11.7 [6.6-18.1],Oceania,11.7
+7616,Fiji,Female,1993,22.1 [15.1-29.6],Oceania,22.1
+7617,Fiji,Both sexes,1994,17.5 [13.1-22.3],Oceania,17.5
+7618,Fiji,Male,1994,12.2 [7.0-18.6],Oceania,12.2
+7619,Fiji,Female,1994,22.8 [15.7-30.2],Oceania,22.8
+7620,Fiji,Both sexes,1995,18.1 [13.6-22.9],Oceania,18.1
+7621,Fiji,Male,1995,12.7 [7.4-19.2],Oceania,12.7
+7622,Fiji,Female,1995,23.4 [16.4-30.8],Oceania,23.4
+7623,Fiji,Both sexes,1996,18.7 [14.2-23.4],Oceania,18.7
+7624,Fiji,Male,1996,13.3 [7.8-19.7],Oceania,13.3
+7625,Fiji,Female,1996,24.0 [17.1-31.3],Oceania,24.0
+7626,Fiji,Both sexes,1997,19.3 [14.7-24.0],Oceania,19.3
+7627,Fiji,Male,1997,13.8 [8.3-20.2],Oceania,13.8
+7628,Fiji,Female,1997,24.7 [17.7-31.9],Oceania,24.7
+7629,Fiji,Both sexes,1998,19.9 [15.3-24.6],Oceania,19.9
+7630,Fiji,Male,1998,14.3 [8.7-20.8],Oceania,14.3
+7631,Fiji,Female,1998,25.3 [18.4-32.5],Oceania,25.3
+7632,Fiji,Both sexes,1999,20.4 [15.8-25.3],Oceania,20.4
+7633,Fiji,Male,1999,14.8 [9.2-21.4],Oceania,14.8
+7634,Fiji,Female,1999,25.9 [19.1-33.1],Oceania,25.9
+7635,Fiji,Both sexes,2000,21.0 [16.4-25.8],Oceania,21.0
+7636,Fiji,Male,2000,15.4 [9.7-21.8],Oceania,15.4
+7637,Fiji,Female,2000,26.5 [19.7-33.7],Oceania,26.5
+7638,Fiji,Both sexes,2001,21.5 [16.9-26.4],Oceania,21.5
+7639,Fiji,Male,2001,15.9 [10.2-22.5],Oceania,15.9
+7640,Fiji,Female,2001,27.1 [20.4-34.1],Oceania,27.1
+7641,Fiji,Both sexes,2002,22.1 [17.4-26.9],Oceania,22.1
+7642,Fiji,Male,2002,16.5 [10.7-23.0],Oceania,16.5
+7643,Fiji,Female,2002,27.6 [20.9-34.7],Oceania,27.6
+7644,Fiji,Both sexes,2003,22.6 [18.0-27.4],Oceania,22.6
+7645,Fiji,Male,2003,17.0 [11.2-23.5],Oceania,17.0
+7646,Fiji,Female,2003,28.2 [21.5-35.3],Oceania,28.2
+7647,Fiji,Both sexes,2004,23.2 [18.5-27.9],Oceania,23.2
+7648,Fiji,Male,2004,17.6 [11.7-24.1],Oceania,17.6
+7649,Fiji,Female,2004,28.7 [22.1-35.8],Oceania,28.7
+7650,Fiji,Both sexes,2005,23.7 [19.0-28.5],Oceania,23.7
+7651,Fiji,Male,2005,18.2 [12.2-24.8],Oceania,18.2
+7652,Fiji,Female,2005,29.3 [22.7-36.2],Oceania,29.3
+7653,Fiji,Both sexes,2006,24.3 [19.6-29.1],Oceania,24.3
+7654,Fiji,Male,2006,18.7 [12.6-25.4],Oceania,18.7
+7655,Fiji,Female,2006,29.8 [23.2-36.8],Oceania,29.8
+7656,Fiji,Both sexes,2007,24.8 [20.0-29.6],Oceania,24.8
+7657,Fiji,Male,2007,19.3 [13.2-26.0],Oceania,19.3
+7658,Fiji,Female,2007,30.4 [23.8-37.3],Oceania,30.4
+7659,Fiji,Both sexes,2008,25.4 [20.5-30.2],Oceania,25.4
+7660,Fiji,Male,2008,19.9 [13.7-26.7],Oceania,19.9
+7661,Fiji,Female,2008,30.9 [24.3-37.9],Oceania,30.9
+7662,Fiji,Both sexes,2009,26.0 [21.0-30.9],Oceania,26.0
+7663,Fiji,Male,2009,20.5 [14.1-27.4],Oceania,20.5
+7664,Fiji,Female,2009,31.5 [24.7-38.6],Oceania,31.5
+7665,Fiji,Both sexes,2010,26.5 [21.6-31.5],Oceania,26.5
+7666,Fiji,Male,2010,21.1 [14.7-28.2],Oceania,21.1
+7667,Fiji,Female,2010,32.0 [25.1-39.2],Oceania,32.0
+7668,Fiji,Both sexes,2011,27.1 [22.1-32.1],Oceania,27.1
+7669,Fiji,Male,2011,21.7 [15.2-28.9],Oceania,21.7
+7670,Fiji,Female,2011,32.6 [25.5-39.9],Oceania,32.6
+7671,Fiji,Both sexes,2012,27.7 [22.7-32.8],Oceania,27.7
+7672,Fiji,Male,2012,22.4 [15.7-29.8],Oceania,22.4
+7673,Fiji,Female,2012,33.1 [25.8-40.6],Oceania,33.1
+7674,Fiji,Both sexes,2013,28.3 [23.2-33.6],Oceania,28.3
+7675,Fiji,Male,2013,23.0 [16.1-30.7],Oceania,23.0
+7676,Fiji,Female,2013,33.6 [26.2-41.2],Oceania,33.6
+7677,Fiji,Both sexes,2014,28.9 [23.7-34.4],Oceania,28.9
+7678,Fiji,Male,2014,23.7 [16.6-31.5],Oceania,23.7
+7679,Fiji,Female,2014,34.2 [26.5-41.9],Oceania,34.2
+7680,Fiji,Both sexes,2015,29.5 [24.1-35.2],Oceania,29.5
+7681,Fiji,Male,2015,24.4 [17.0-32.4],Oceania,24.4
+7682,Fiji,Female,2015,34.7 [26.8-42.7],Oceania,34.7
+7683,Fiji,Both sexes,2016,30.2 [24.5-36.0],Oceania,30.2
+7684,Fiji,Male,2016,25.1 [17.4-33.3],Oceania,25.1
+7685,Fiji,Female,2016,35.3 [27.0-43.5],Oceania,35.3
+11340,Kiribati,Both sexes,1975,15.9 [10.6-22.1],Oceania,15.9
+11341,Kiribati,Male,1975,11.9 [5.9-20.4],Oceania,11.9
+11342,Kiribati,Female,1975,20.2 [11.8-30.3],Oceania,20.2
+11343,Kiribati,Both sexes,1976,16.7 [11.4-22.7],Oceania,16.7
+11344,Kiribati,Male,1976,12.5 [6.5-20.7],Oceania,12.5
+11345,Kiribati,Female,1976,21.1 [12.8-30.9],Oceania,21.1
+11346,Kiribati,Both sexes,1977,17.5 [12.3-23.5],Oceania,17.5
+11347,Kiribati,Male,1977,13.1 [7.1-21.2],Oceania,13.1
+11348,Kiribati,Female,1977,22.0 [13.7-31.6],Oceania,22.0
+11349,Kiribati,Both sexes,1978,18.2 [13.0-24.2],Oceania,18.2
+11350,Kiribati,Male,1978,13.7 [7.6-21.6],Oceania,13.7
+11351,Kiribati,Female,1978,22.9 [14.7-32.2],Oceania,22.9
+11352,Kiribati,Both sexes,1979,19.0 [13.8-24.8],Oceania,19.0
+11353,Kiribati,Male,1979,14.4 [8.2-22.1],Oceania,14.4
+11354,Kiribati,Female,1979,23.8 [15.7-32.9],Oceania,23.8
+11355,Kiribati,Both sexes,1980,19.8 [14.7-25.5],Oceania,19.8
+11356,Kiribati,Male,1980,15.0 [8.8-22.8],Oceania,15.0
+11357,Kiribati,Female,1980,24.7 [16.6-33.6],Oceania,24.7
+11358,Kiribati,Both sexes,1981,20.5 [15.4-26.2],Oceania,20.5
+11359,Kiribati,Male,1981,15.6 [9.4-23.3],Oceania,15.6
+11360,Kiribati,Female,1981,25.6 [17.6-34.3],Oceania,25.6
+11361,Kiribati,Both sexes,1982,21.2 [16.1-26.9],Oceania,21.2
+11362,Kiribati,Male,1982,16.2 [10.0-23.9],Oceania,16.2
+11363,Kiribati,Female,1982,26.4 [18.5-34.9],Oceania,26.4
+11364,Kiribati,Both sexes,1983,21.9 [16.8-27.5],Oceania,21.9
+11365,Kiribati,Male,1983,16.8 [10.6-24.4],Oceania,16.8
+11366,Kiribati,Female,1983,27.2 [19.3-35.7],Oceania,27.2
+11367,Kiribati,Both sexes,1984,22.6 [17.5-28.1],Oceania,22.6
+11368,Kiribati,Male,1984,17.5 [11.1-25.0],Oceania,17.5
+11369,Kiribati,Female,1984,28.0 [20.1-36.4],Oceania,28.0
+11370,Kiribati,Both sexes,1985,23.2 [18.2-28.8],Oceania,23.2
+11371,Kiribati,Male,1985,18.1 [11.7-25.6],Oceania,18.1
+11372,Kiribati,Female,1985,28.8 [20.9-37.1],Oceania,28.8
+11373,Kiribati,Both sexes,1986,23.9 [18.9-29.4],Oceania,23.9
+11374,Kiribati,Male,1986,18.7 [12.2-26.3],Oceania,18.7
+11375,Kiribati,Female,1986,29.5 [21.7-37.8],Oceania,29.5
+11376,Kiribati,Both sexes,1987,24.6 [19.6-30.1],Oceania,24.6
+11377,Kiribati,Male,1987,19.4 [12.9-27.0],Oceania,19.4
+11378,Kiribati,Female,1987,30.3 [22.5-38.5],Oceania,30.3
+11379,Kiribati,Both sexes,1988,25.3 [20.2-30.8],Oceania,25.3
+11380,Kiribati,Male,1988,20.0 [13.4-27.7],Oceania,20.0
+11381,Kiribati,Female,1988,31.1 [23.3-39.2],Oceania,31.1
+11382,Kiribati,Both sexes,1989,26.0 [20.9-31.6],Oceania,26.0
+11383,Kiribati,Male,1989,20.7 [14.0-28.4],Oceania,20.7
+11384,Kiribati,Female,1989,31.8 [24.0-40.0],Oceania,31.8
+11385,Kiribati,Both sexes,1990,26.7 [21.7-32.3],Oceania,26.7
+11386,Kiribati,Male,1990,21.3 [14.7-29.0],Oceania,21.3
+11387,Kiribati,Female,1990,32.6 [24.8-40.7],Oceania,32.6
+11388,Kiribati,Both sexes,1991,27.4 [22.4-32.9],Oceania,27.4
+11389,Kiribati,Male,1991,22.0 [15.3-29.7],Oceania,22.0
+11390,Kiribati,Female,1991,33.3 [25.6-41.3],Oceania,33.3
+11391,Kiribati,Both sexes,1992,28.2 [23.1-33.7],Oceania,28.2
+11392,Kiribati,Male,1992,22.7 [15.9-30.4],Oceania,22.7
+11393,Kiribati,Female,1992,34.1 [26.4-42.0],Oceania,34.1
+11394,Kiribati,Both sexes,1993,28.9 [23.8-34.4],Oceania,28.9
+11395,Kiribati,Male,1993,23.4 [16.5-31.0],Oceania,23.4
+11396,Kiribati,Female,1993,34.8 [27.0-42.7],Oceania,34.8
+11397,Kiribati,Both sexes,1994,29.7 [24.5-35.2],Oceania,29.7
+11398,Kiribati,Male,1994,24.1 [17.1-31.7],Oceania,24.1
+11399,Kiribati,Female,1994,35.6 [27.8-43.4],Oceania,35.6
+11400,Kiribati,Both sexes,1995,30.4 [25.2-35.9],Oceania,30.4
+11401,Kiribati,Male,1995,24.9 [17.8-32.4],Oceania,24.9
+11402,Kiribati,Female,1995,36.3 [28.5-44.0],Oceania,36.3
+11403,Kiribati,Both sexes,1996,31.2 [26.0-36.6],Oceania,31.2
+11404,Kiribati,Male,1996,25.6 [18.5-33.2],Oceania,25.6
+11405,Kiribati,Female,1996,37.1 [29.3-44.8],Oceania,37.1
+11406,Kiribati,Both sexes,1997,32.1 [26.9-37.4],Oceania,32.1
+11407,Kiribati,Male,1997,26.5 [19.3-34.0],Oceania,26.5
+11408,Kiribati,Female,1997,37.9 [30.2-45.5],Oceania,37.9
+11409,Kiribati,Both sexes,1998,33.0 [27.8-38.3],Oceania,33.0
+11410,Kiribati,Male,1998,27.3 [20.1-35.0],Oceania,27.3
+11411,Kiribati,Female,1998,38.7 [31.1-46.3],Oceania,38.7
+11412,Kiribati,Both sexes,1999,33.9 [28.7-39.3],Oceania,33.9
+11413,Kiribati,Male,1999,28.3 [21.1-35.9],Oceania,28.3
+11414,Kiribati,Female,1999,39.6 [32.0-47.1],Oceania,39.6
+11415,Kiribati,Both sexes,2000,34.9 [29.7-40.2],Oceania,34.9
+11416,Kiribati,Male,2000,29.2 [22.0-36.8],Oceania,29.2
+11417,Kiribati,Female,2000,40.5 [32.9-47.9],Oceania,40.5
+11418,Kiribati,Both sexes,2001,35.8 [30.6-41.0],Oceania,35.8
+11419,Kiribati,Male,2001,30.1 [22.9-37.8],Oceania,30.1
+11420,Kiribati,Female,2001,41.3 [33.8-48.8],Oceania,41.3
+11421,Kiribati,Both sexes,2002,36.6 [31.4-41.9],Oceania,36.6
+11422,Kiribati,Male,2002,31.0 [23.7-38.6],Oceania,31.0
+11423,Kiribati,Female,2002,42.1 [34.6-49.6],Oceania,42.1
+11424,Kiribati,Both sexes,2003,37.4 [32.3-42.7],Oceania,37.4
+11425,Kiribati,Male,2003,31.9 [24.6-39.5],Oceania,31.9
+11426,Kiribati,Female,2003,42.9 [35.4-50.3],Oceania,42.9
+11427,Kiribati,Both sexes,2004,38.2 [33.0-43.4],Oceania,38.2
+11428,Kiribati,Male,2004,32.7 [25.5-40.2],Oceania,32.7
+11429,Kiribati,Female,2004,43.6 [36.2-51.0],Oceania,43.6
+11430,Kiribati,Both sexes,2005,38.9 [33.8-44.1],Oceania,38.9
+11431,Kiribati,Male,2005,33.5 [26.2-41.0],Oceania,33.5
+11432,Kiribati,Female,2005,44.2 [36.9-51.7],Oceania,44.2
+11433,Kiribati,Both sexes,2006,39.6 [34.4-44.9],Oceania,39.6
+11434,Kiribati,Male,2006,34.3 [27.0-41.8],Oceania,34.3
+11435,Kiribati,Female,2006,44.9 [37.6-52.3],Oceania,44.9
+11436,Kiribati,Both sexes,2007,40.3 [35.1-45.6],Oceania,40.3
+11437,Kiribati,Male,2007,35.1 [27.7-42.7],Oceania,35.1
+11438,Kiribati,Female,2007,45.5 [38.2-52.9],Oceania,45.5
+11439,Kiribati,Both sexes,2008,40.9 [35.7-46.3],Oceania,40.9
+11440,Kiribati,Male,2008,35.8 [28.4-43.5],Oceania,35.8
+11441,Kiribati,Female,2008,46.0 [38.7-53.5],Oceania,46.0
+11442,Kiribati,Both sexes,2009,41.6 [36.2-46.9],Oceania,41.6
+11443,Kiribati,Male,2009,36.5 [29.0-44.3],Oceania,36.5
+11444,Kiribati,Female,2009,46.6 [39.2-54.2],Oceania,46.6
+11445,Kiribati,Both sexes,2010,42.2 [36.7-47.7],Oceania,42.2
+11446,Kiribati,Male,2010,37.2 [29.5-45.1],Oceania,37.2
+11447,Kiribati,Female,2010,47.2 [39.7-54.8],Oceania,47.2
+11448,Kiribati,Both sexes,2011,42.8 [37.3-48.3],Oceania,42.8
+11449,Kiribati,Male,2011,37.9 [30.0-46.0],Oceania,37.9
+11450,Kiribati,Female,2011,47.7 [40.1-55.4],Oceania,47.7
+11451,Kiribati,Both sexes,2012,43.5 [37.8-49.0],Oceania,43.5
+11452,Kiribati,Male,2012,38.7 [30.6-46.9],Oceania,38.7
+11453,Kiribati,Female,2012,48.2 [40.4-56.0],Oceania,48.2
+11454,Kiribati,Both sexes,2013,44.1 [38.3-49.8],Oceania,44.1
+11455,Kiribati,Male,2013,39.4 [31.1-47.8],Oceania,39.4
+11456,Kiribati,Female,2013,48.8 [40.8-56.7],Oceania,48.8
+11457,Kiribati,Both sexes,2014,44.7 [38.7-50.5],Oceania,44.7
+11458,Kiribati,Male,2014,40.1 [31.7-48.7],Oceania,40.1
+11459,Kiribati,Female,2014,49.3 [41.3-57.4],Oceania,49.3
+11460,Kiribati,Both sexes,2015,45.3 [39.2-51.3],Oceania,45.3
+11461,Kiribati,Male,2015,40.8 [32.1-49.7],Oceania,40.8
+11462,Kiribati,Female,2015,49.8 [41.6-58.2],Oceania,49.8
+11463,Kiribati,Both sexes,2016,46.0 [39.7-52.1],Oceania,46.0
+11464,Kiribati,Male,2016,41.6 [32.6-50.9],Oceania,41.6
+11465,Kiribati,Female,2016,50.4 [41.9-59.0],Oceania,50.4
+13482,Marshall Islands,Both sexes,1975,27.0 [20.2-34.4],Oceania,27.0
+13483,Marshall Islands,Male,1975,20.1 [11.6-30.6],Oceania,20.1
+13484,Marshall Islands,Female,1975,34.5 [24.1-45.3],Oceania,34.5
+13485,Marshall Islands,Both sexes,1976,27.9 [21.2-35.1],Oceania,27.9
+13486,Marshall Islands,Male,1976,20.9 [12.4-31.0],Oceania,20.9
+13487,Marshall Islands,Female,1976,35.4 [25.3-46.0],Oceania,35.4
+13488,Marshall Islands,Both sexes,1977,28.7 [22.2-35.7],Oceania,28.7
+13489,Marshall Islands,Male,1977,21.6 [13.2-31.4],Oceania,21.6
+13490,Marshall Islands,Female,1977,36.2 [26.4-46.5],Oceania,36.2
+13491,Marshall Islands,Both sexes,1978,29.4 [23.0-36.2],Oceania,29.4
+13492,Marshall Islands,Male,1978,22.3 [13.9-31.9],Oceania,22.3
+13493,Marshall Islands,Female,1978,36.9 [27.3-47.0],Oceania,36.9
+13494,Marshall Islands,Both sexes,1979,30.0 [23.7-36.7],Oceania,30.0
+13495,Marshall Islands,Male,1979,22.8 [14.5-32.3],Oceania,22.8
+13496,Marshall Islands,Female,1979,37.5 [28.2-47.2],Oceania,37.5
+13497,Marshall Islands,Both sexes,1980,30.6 [24.3-37.1],Oceania,30.6
+13498,Marshall Islands,Male,1980,23.3 [15.1-32.7],Oceania,23.3
+13499,Marshall Islands,Female,1980,38.0 [28.9-47.6],Oceania,38.0
+13500,Marshall Islands,Both sexes,1981,31.1 [24.9-37.5],Oceania,31.1
+13501,Marshall Islands,Male,1981,23.9 [15.6-33.0],Oceania,23.9
+13502,Marshall Islands,Female,1981,38.6 [29.6-47.9],Oceania,38.6
+13503,Marshall Islands,Both sexes,1982,31.7 [25.5-38.0],Oceania,31.7
+13504,Marshall Islands,Male,1982,24.4 [16.2-33.3],Oceania,24.4
+13505,Marshall Islands,Female,1982,39.1 [30.3-48.3],Oceania,39.1
+13506,Marshall Islands,Both sexes,1983,32.2 [26.2-38.5],Oceania,32.2
+13507,Marshall Islands,Male,1983,25.0 [16.8-33.9],Oceania,25.0
+13508,Marshall Islands,Female,1983,39.7 [30.9-48.7],Oceania,39.7
+13509,Marshall Islands,Both sexes,1984,32.8 [26.8-39.0],Oceania,32.8
+13510,Marshall Islands,Male,1984,25.7 [17.5-34.5],Oceania,25.7
+13511,Marshall Islands,Female,1984,40.3 [31.7-49.2],Oceania,40.3
+13512,Marshall Islands,Both sexes,1985,33.4 [27.6-39.7],Oceania,33.4
+13513,Marshall Islands,Male,1985,26.3 [18.2-35.0],Oceania,26.3
+13514,Marshall Islands,Female,1985,41.0 [32.3-49.6],Oceania,41.0
+13515,Marshall Islands,Both sexes,1986,34.1 [28.2-40.3],Oceania,34.1
+13516,Marshall Islands,Male,1986,27.0 [19.0-35.6],Oceania,27.0
+13517,Marshall Islands,Female,1986,41.6 [33.1-50.1],Oceania,41.6
+13518,Marshall Islands,Both sexes,1987,34.8 [28.9-40.9],Oceania,34.8
+13519,Marshall Islands,Male,1987,27.8 [19.8-36.4],Oceania,27.8
+13520,Marshall Islands,Female,1987,42.3 [33.8-50.8],Oceania,42.3
+13521,Marshall Islands,Both sexes,1988,35.5 [29.6-41.6],Oceania,35.5
+13522,Marshall Islands,Male,1988,28.5 [20.6-37.1],Oceania,28.5
+13523,Marshall Islands,Female,1988,43.0 [34.6-51.4],Oceania,43.0
+13524,Marshall Islands,Both sexes,1989,36.2 [30.4-42.2],Oceania,36.2
+13525,Marshall Islands,Male,1989,29.3 [21.2-37.8],Oceania,29.3
+13526,Marshall Islands,Female,1989,43.7 [35.5-52.0],Oceania,43.7
+13527,Marshall Islands,Both sexes,1990,36.9 [31.1-42.9],Oceania,36.9
+13528,Marshall Islands,Male,1990,30.1 [22.0-38.6],Oceania,30.1
+13529,Marshall Islands,Female,1990,44.4 [36.2-52.7],Oceania,44.4
+13530,Marshall Islands,Both sexes,1991,37.7 [31.9-43.6],Oceania,37.7
+13531,Marshall Islands,Male,1991,30.9 [22.7-39.3],Oceania,30.9
+13532,Marshall Islands,Female,1991,45.0 [37.0-53.2],Oceania,45.0
+13533,Marshall Islands,Both sexes,1992,38.4 [32.6-44.3],Oceania,38.4
+13534,Marshall Islands,Male,1992,31.6 [23.4-40.0],Oceania,31.6
+13535,Marshall Islands,Female,1992,45.7 [37.7-53.7],Oceania,45.7
+13536,Marshall Islands,Both sexes,1993,39.1 [33.3-45.0],Oceania,39.1
+13537,Marshall Islands,Male,1993,32.3 [24.2-40.8],Oceania,32.3
+13538,Marshall Islands,Female,1993,46.3 [38.3-54.3],Oceania,46.3
+13539,Marshall Islands,Both sexes,1994,39.8 [34.0-45.6],Oceania,39.8
+13540,Marshall Islands,Male,1994,33.1 [24.9-41.5],Oceania,33.1
+13541,Marshall Islands,Female,1994,46.9 [38.9-54.9],Oceania,46.9
+13542,Marshall Islands,Both sexes,1995,40.5 [34.7-46.2],Oceania,40.5
+13543,Marshall Islands,Male,1995,33.8 [25.6-42.2],Oceania,33.8
+13544,Marshall Islands,Female,1995,47.4 [39.5-55.3],Oceania,47.4
+13545,Marshall Islands,Both sexes,1996,41.1 [35.5-46.8],Oceania,41.1
+13546,Marshall Islands,Male,1996,34.5 [26.3-42.9],Oceania,34.5
+13547,Marshall Islands,Female,1996,48.0 [40.1-55.9],Oceania,48.0
+13548,Marshall Islands,Both sexes,1997,41.8 [36.2-47.5],Oceania,41.8
+13549,Marshall Islands,Male,1997,35.2 [26.9-43.5],Oceania,35.2
+13550,Marshall Islands,Female,1997,48.5 [40.8-56.3],Oceania,48.5
+13551,Marshall Islands,Both sexes,1998,42.5 [36.9-48.1],Oceania,42.5
+13552,Marshall Islands,Male,1998,35.9 [27.7-44.2],Oceania,35.9
+13553,Marshall Islands,Female,1998,49.0 [41.3-56.8],Oceania,49.0
+13554,Marshall Islands,Both sexes,1999,43.1 [37.5-48.7],Oceania,43.1
+13555,Marshall Islands,Male,1999,36.6 [28.4-44.8],Oceania,36.6
+13556,Marshall Islands,Female,1999,49.6 [41.9-57.3],Oceania,49.6
+13557,Marshall Islands,Both sexes,2000,43.7 [38.2-49.4],Oceania,43.7
+13558,Marshall Islands,Male,2000,37.3 [29.0-45.5],Oceania,37.3
+13559,Marshall Islands,Female,2000,50.1 [42.4-57.7],Oceania,50.1
+13560,Marshall Islands,Both sexes,2001,44.4 [38.9-49.9],Oceania,44.4
+13561,Marshall Islands,Male,2001,38.0 [29.7-46.1],Oceania,38.0
+13562,Marshall Islands,Female,2001,50.6 [43.0-58.1],Oceania,50.6
+13563,Marshall Islands,Both sexes,2002,45.0 [39.5-50.4],Oceania,45.0
+13564,Marshall Islands,Male,2002,38.7 [30.5-46.8],Oceania,38.7
+13565,Marshall Islands,Female,2002,51.1 [43.5-58.5],Oceania,51.1
+13566,Marshall Islands,Both sexes,2003,45.5 [40.1-51.0],Oceania,45.5
+13567,Marshall Islands,Male,2003,39.4 [31.3-47.4],Oceania,39.4
+13568,Marshall Islands,Female,2003,51.5 [44.0-58.9],Oceania,51.5
+13569,Marshall Islands,Both sexes,2004,46.1 [40.7-51.5],Oceania,46.1
+13570,Marshall Islands,Male,2004,40.1 [32.1-48.1],Oceania,40.1
+13571,Marshall Islands,Female,2004,52.0 [44.6-59.4],Oceania,52.0
+13572,Marshall Islands,Both sexes,2005,46.7 [41.3-52.0],Oceania,46.7
+13573,Marshall Islands,Male,2005,40.8 [32.9-48.8],Oceania,40.8
+13574,Marshall Islands,Female,2005,52.5 [45.1-59.9],Oceania,52.5
+13575,Marshall Islands,Both sexes,2006,47.3 [41.9-52.7],Oceania,47.3
+13576,Marshall Islands,Male,2006,41.5 [33.6-49.5],Oceania,41.5
+13577,Marshall Islands,Female,2006,53.0 [45.6-60.4],Oceania,53.0
+13578,Marshall Islands,Both sexes,2007,47.9 [42.5-53.3],Oceania,47.9
+13579,Marshall Islands,Male,2007,42.2 [34.3-50.1],Oceania,42.2
+13580,Marshall Islands,Female,2007,53.4 [46.0-60.9],Oceania,53.4
+13581,Marshall Islands,Both sexes,2008,48.4 [43.0-53.9],Oceania,48.4
+13582,Marshall Islands,Male,2008,42.9 [35.0-50.9],Oceania,42.9
+13583,Marshall Islands,Female,2008,53.9 [46.5-61.5],Oceania,53.9
+13584,Marshall Islands,Both sexes,2009,49.0 [43.6-54.4],Oceania,49.0
+13585,Marshall Islands,Male,2009,43.6 [35.7-51.6],Oceania,43.6
+13586,Marshall Islands,Female,2009,54.3 [46.9-62.0],Oceania,54.3
+13587,Marshall Islands,Both sexes,2010,49.6 [44.1-55.1],Oceania,49.6
+13588,Marshall Islands,Male,2010,44.3 [36.2-52.4],Oceania,44.3
+13589,Marshall Islands,Female,2010,54.8 [47.2-62.4],Oceania,54.8
+13590,Marshall Islands,Both sexes,2011,50.1 [44.5-55.7],Oceania,50.1
+13591,Marshall Islands,Male,2011,45.0 [36.7-53.2],Oceania,45.0
+13592,Marshall Islands,Female,2011,55.2 [47.6-62.9],Oceania,55.2
+13593,Marshall Islands,Both sexes,2012,50.7 [45.1-56.3],Oceania,50.7
+13594,Marshall Islands,Male,2012,45.7 [37.4-54.0],Oceania,45.7
+13595,Marshall Islands,Female,2012,55.7 [48.0-63.4],Oceania,55.7
+13596,Marshall Islands,Both sexes,2013,51.3 [45.5-57.0],Oceania,51.3
+13597,Marshall Islands,Male,2013,46.4 [38.0-54.9],Oceania,46.4
+13598,Marshall Islands,Female,2013,56.1 [48.3-63.9],Oceania,56.1
+13599,Marshall Islands,Both sexes,2014,51.8 [45.9-57.7],Oceania,51.8
+13600,Marshall Islands,Male,2014,47.1 [38.5-55.6],Oceania,47.1
+13601,Marshall Islands,Female,2014,56.5 [48.6-64.5],Oceania,56.5
+13602,Marshall Islands,Both sexes,2015,52.4 [46.4-58.4],Oceania,52.4
+13603,Marshall Islands,Male,2015,47.7 [38.9-56.5],Oceania,47.7
+13604,Marshall Islands,Female,2015,56.9 [48.8-65.1],Oceania,56.9
+13605,Marshall Islands,Both sexes,2016,52.9 [46.7-59.1],Oceania,52.9
+13606,Marshall Islands,Male,2016,48.4 [39.2-57.4],Oceania,48.4
+13607,Marshall Islands,Female,2016,57.3 [49.1-65.7],Oceania,57.3
+13986,Micronesia (Federated States of),Both sexes,1975,18.9 [12.8-25.7],Oceania,18.9
+13987,Micronesia (Federated States of),Male,1975,13.3 [6.6-22.6],Oceania,13.3
+13988,Micronesia (Federated States of),Female,1975,24.6 [15.3-35.7],Oceania,24.6
+13989,Micronesia (Federated States of),Both sexes,1976,19.5 [13.5-26.1],Oceania,19.5
+13990,Micronesia (Federated States of),Male,1976,13.8 [7.1-23.0],Oceania,13.8
+13991,Micronesia (Federated States of),Female,1976,25.4 [16.1-36.1],Oceania,25.4
+13992,Micronesia (Federated States of),Both sexes,1977,20.1 [14.2-26.6],Oceania,20.1
+13993,Micronesia (Federated States of),Male,1977,14.3 [7.7-23.2],Oceania,14.3
+13994,Micronesia (Federated States of),Female,1977,26.1 [17.0-36.4],Oceania,26.1
+13995,Micronesia (Federated States of),Both sexes,1978,20.7 [15.0-27.2],Oceania,20.7
+13996,Micronesia (Federated States of),Male,1978,14.7 [8.2-23.5],Oceania,14.7
+13997,Micronesia (Federated States of),Female,1978,26.8 [17.8-36.9],Oceania,26.8
+13998,Micronesia (Federated States of),Both sexes,1979,21.4 [15.7-27.7],Oceania,21.4
+13999,Micronesia (Federated States of),Male,1979,15.3 [8.8-23.8],Oceania,15.3
+14000,Micronesia (Federated States of),Female,1979,27.5 [18.6-37.5],Oceania,27.5
+14001,Micronesia (Federated States of),Both sexes,1980,22.0 [16.4-28.2],Oceania,22.0
+14002,Micronesia (Federated States of),Male,1980,15.8 [9.3-24.3],Oceania,15.8
+14003,Micronesia (Federated States of),Female,1980,28.2 [19.5-38.0],Oceania,28.2
+14004,Micronesia (Federated States of),Both sexes,1981,22.6 [17.0-28.6],Oceania,22.6
+14005,Micronesia (Federated States of),Male,1981,16.3 [9.9-24.7],Oceania,16.3
+14006,Micronesia (Federated States of),Female,1981,28.9 [20.3-38.5],Oceania,28.9
+14007,Micronesia (Federated States of),Both sexes,1982,23.3 [17.7-29.2],Oceania,23.3
+14008,Micronesia (Federated States of),Male,1982,16.8 [10.5-25.1],Oceania,16.8
+14009,Micronesia (Federated States of),Female,1982,29.6 [21.1-39.0],Oceania,29.6
+14010,Micronesia (Federated States of),Both sexes,1983,23.9 [18.4-29.7],Oceania,23.9
+14011,Micronesia (Federated States of),Male,1983,17.4 [11.0-25.5],Oceania,17.4
+14012,Micronesia (Federated States of),Female,1983,30.3 [21.9-39.4],Oceania,30.3
+14013,Micronesia (Federated States of),Both sexes,1984,24.5 [19.1-30.3],Oceania,24.5
+14014,Micronesia (Federated States of),Male,1984,17.9 [11.5-26.1],Oceania,17.9
+14015,Micronesia (Federated States of),Female,1984,31.0 [22.8-39.8],Oceania,31.0
+14016,Micronesia (Federated States of),Both sexes,1985,25.1 [19.7-30.9],Oceania,25.1
+14017,Micronesia (Federated States of),Male,1985,18.5 [12.1-26.5],Oceania,18.5
+14018,Micronesia (Federated States of),Female,1985,31.7 [23.6-40.4],Oceania,31.7
+14019,Micronesia (Federated States of),Both sexes,1986,25.8 [20.4-31.5],Oceania,25.8
+14020,Micronesia (Federated States of),Male,1986,19.1 [12.6-27.0],Oceania,19.1
+14021,Micronesia (Federated States of),Female,1986,32.4 [24.3-41.0],Oceania,32.4
+14022,Micronesia (Federated States of),Both sexes,1987,26.4 [21.1-32.0],Oceania,26.4
+14023,Micronesia (Federated States of),Male,1987,19.7 [13.2-27.6],Oceania,19.7
+14024,Micronesia (Federated States of),Female,1987,33.1 [25.1-41.6],Oceania,33.1
+14025,Micronesia (Federated States of),Both sexes,1988,27.0 [21.7-32.7],Oceania,27.0
+14026,Micronesia (Federated States of),Male,1988,20.3 [13.7-28.2],Oceania,20.3
+14027,Micronesia (Federated States of),Female,1988,33.8 [25.8-42.1],Oceania,33.8
+14028,Micronesia (Federated States of),Both sexes,1989,27.7 [22.3-33.3],Oceania,27.7
+14029,Micronesia (Federated States of),Male,1989,20.9 [14.3-28.8],Oceania,20.9
+14030,Micronesia (Federated States of),Female,1989,34.5 [26.6-42.7],Oceania,34.5
+14031,Micronesia (Federated States of),Both sexes,1990,28.3 [23.0-33.9],Oceania,28.3
+14032,Micronesia (Federated States of),Male,1990,21.5 [14.8-29.4],Oceania,21.5
+14033,Micronesia (Federated States of),Female,1990,35.2 [27.3-43.2],Oceania,35.2
+14034,Micronesia (Federated States of),Both sexes,1991,29.0 [23.7-34.6],Oceania,29.0
+14035,Micronesia (Federated States of),Male,1991,22.1 [15.4-30.0],Oceania,22.1
+14036,Micronesia (Federated States of),Female,1991,35.8 [28.0-43.8],Oceania,35.8
+14037,Micronesia (Federated States of),Both sexes,1992,29.6 [24.4-35.2],Oceania,29.6
+14038,Micronesia (Federated States of),Male,1992,22.8 [16.0-30.6],Oceania,22.8
+14039,Micronesia (Federated States of),Female,1992,36.5 [28.8-44.4],Oceania,36.5
+14040,Micronesia (Federated States of),Both sexes,1993,30.3 [25.1-35.8],Oceania,30.3
+14041,Micronesia (Federated States of),Male,1993,23.4 [16.7-31.2],Oceania,23.4
+14042,Micronesia (Federated States of),Female,1993,37.2 [29.5-45.0],Oceania,37.2
+14043,Micronesia (Federated States of),Both sexes,1994,30.9 [25.8-36.4],Oceania,30.9
+14044,Micronesia (Federated States of),Male,1994,24.1 [17.3-31.8],Oceania,24.1
+14045,Micronesia (Federated States of),Female,1994,37.9 [30.2-45.6],Oceania,37.9
+14046,Micronesia (Federated States of),Both sexes,1995,31.6 [26.5-37.0],Oceania,31.6
+14047,Micronesia (Federated States of),Male,1995,24.7 [17.9-32.4],Oceania,24.7
+14048,Micronesia (Federated States of),Female,1995,38.5 [31.0-46.1],Oceania,38.5
+14049,Micronesia (Federated States of),Both sexes,1996,32.3 [27.2-37.6],Oceania,32.3
+14050,Micronesia (Federated States of),Male,1996,25.3 [18.6-32.9],Oceania,25.3
+14051,Micronesia (Federated States of),Female,1996,39.2 [31.7-46.7],Oceania,39.2
+14052,Micronesia (Federated States of),Both sexes,1997,32.9 [27.8-38.2],Oceania,32.9
+14053,Micronesia (Federated States of),Male,1997,26.0 [19.2-33.5],Oceania,26.0
+14054,Micronesia (Federated States of),Female,1997,39.8 [32.4-47.2],Oceania,39.8
+14055,Micronesia (Federated States of),Both sexes,1998,33.5 [28.5-38.8],Oceania,33.5
+14056,Micronesia (Federated States of),Male,1998,26.6 [19.8-34.0],Oceania,26.6
+14057,Micronesia (Federated States of),Female,1998,40.3 [33.1-47.7],Oceania,40.3
+14058,Micronesia (Federated States of),Both sexes,1999,34.2 [29.2-39.4],Oceania,34.2
+14059,Micronesia (Federated States of),Male,1999,27.2 [20.5-34.6],Oceania,27.2
+14060,Micronesia (Federated States of),Female,1999,40.9 [33.8-48.1],Oceania,40.9
+14061,Micronesia (Federated States of),Both sexes,2000,34.7 [29.9-39.9],Oceania,34.7
+14062,Micronesia (Federated States of),Male,2000,27.8 [21.1-35.1],Oceania,27.8
+14063,Micronesia (Federated States of),Female,2000,41.5 [34.4-48.6],Oceania,41.5
+14064,Micronesia (Federated States of),Both sexes,2001,35.4 [30.6-40.5],Oceania,35.4
+14065,Micronesia (Federated States of),Male,2001,28.4 [21.8-35.8],Oceania,28.4
+14066,Micronesia (Federated States of),Female,2001,42.0 [35.0-49.2],Oceania,42.0
+14067,Micronesia (Federated States of),Both sexes,2002,36.0 [31.2-41.1],Oceania,36.0
+14068,Micronesia (Federated States of),Male,2002,29.0 [22.4-36.3],Oceania,29.0
+14069,Micronesia (Federated States of),Female,2002,42.6 [35.7-49.7],Oceania,42.6
+14070,Micronesia (Federated States of),Both sexes,2003,36.6 [31.9-41.7],Oceania,36.6
+14071,Micronesia (Federated States of),Male,2003,29.7 [23.1-37.0],Oceania,29.7
+14072,Micronesia (Federated States of),Female,2003,43.2 [36.4-50.2],Oceania,43.2
+14073,Micronesia (Federated States of),Both sexes,2004,37.3 [32.5-42.3],Oceania,37.3
+14074,Micronesia (Federated States of),Male,2004,30.4 [23.8-37.6],Oceania,30.4
+14075,Micronesia (Federated States of),Female,2004,43.8 [37.0-50.8],Oceania,43.8
+14076,Micronesia (Federated States of),Both sexes,2005,37.9 [33.2-42.9],Oceania,37.9
+14077,Micronesia (Federated States of),Male,2005,31.2 [24.5-38.4],Oceania,31.2
+14078,Micronesia (Federated States of),Female,2005,44.5 [37.7-51.4],Oceania,44.5
+14079,Micronesia (Federated States of),Both sexes,2006,38.6 [33.8-43.6],Oceania,38.6
+14080,Micronesia (Federated States of),Male,2006,31.9 [25.3-39.2],Oceania,31.9
+14081,Micronesia (Federated States of),Female,2006,45.1 [38.2-52.0],Oceania,45.1
+14082,Micronesia (Federated States of),Both sexes,2007,39.3 [34.6-44.2],Oceania,39.3
+14083,Micronesia (Federated States of),Male,2007,32.7 [26.0-40.0],Oceania,32.7
+14084,Micronesia (Federated States of),Female,2007,45.7 [38.9-52.6],Oceania,45.7
+14085,Micronesia (Federated States of),Both sexes,2008,40.1 [35.2-45.0],Oceania,40.1
+14086,Micronesia (Federated States of),Male,2008,33.5 [26.6-40.8],Oceania,33.5
+14087,Micronesia (Federated States of),Female,2008,46.4 [39.5-53.2],Oceania,46.4
+14088,Micronesia (Federated States of),Both sexes,2009,40.8 [35.9-45.7],Oceania,40.8
+14089,Micronesia (Federated States of),Male,2009,34.3 [27.3-41.8],Oceania,34.3
+14090,Micronesia (Federated States of),Female,2009,47.1 [40.2-53.8],Oceania,47.1
+14091,Micronesia (Federated States of),Both sexes,2010,41.5 [36.5-46.5],Oceania,41.5
+14092,Micronesia (Federated States of),Male,2010,35.1 [28.0-42.7],Oceania,35.1
+14093,Micronesia (Federated States of),Female,2010,47.7 [40.7-54.5],Oceania,47.7
+14094,Micronesia (Federated States of),Both sexes,2011,42.2 [37.1-47.3],Oceania,42.2
+14095,Micronesia (Federated States of),Male,2011,35.9 [28.6-43.7],Oceania,35.9
+14096,Micronesia (Federated States of),Female,2011,48.3 [41.3-55.3],Oceania,48.3
+14097,Micronesia (Federated States of),Both sexes,2012,42.9 [37.8-48.1],Oceania,42.9
+14098,Micronesia (Federated States of),Male,2012,36.8 [29.2-44.7],Oceania,36.8
+14099,Micronesia (Federated States of),Female,2012,49.0 [41.8-56.0],Oceania,49.0
+14100,Micronesia (Federated States of),Both sexes,2013,43.7 [38.3-49.0],Oceania,43.7
+14101,Micronesia (Federated States of),Male,2013,37.6 [29.7-45.8],Oceania,37.6
+14102,Micronesia (Federated States of),Female,2013,49.6 [42.2-56.8],Oceania,49.6
+14103,Micronesia (Federated States of),Both sexes,2014,44.4 [38.8-49.9],Oceania,44.4
+14104,Micronesia (Federated States of),Male,2014,38.4 [30.2-47.0],Oceania,38.4
+14105,Micronesia (Federated States of),Female,2014,50.2 [42.7-57.6],Oceania,50.2
+14106,Micronesia (Federated States of),Both sexes,2015,45.1 [39.3-50.8],Oceania,45.1
+14107,Micronesia (Federated States of),Male,2015,39.3 [30.7-48.1],Oceania,39.3
+14108,Micronesia (Federated States of),Female,2015,50.9 [43.2-58.5],Oceania,50.9
+14109,Micronesia (Federated States of),Both sexes,2016,45.8 [39.7-51.8],Oceania,45.8
+14110,Micronesia (Federated States of),Male,2016,40.1 [31.1-49.2],Oceania,40.1
+14111,Micronesia (Federated States of),Female,2016,51.5 [43.5-59.4],Oceania,51.5
+14994,Nauru,Both sexes,1975,44.5 [38.0-51.1],Oceania,44.5
+14995,Nauru,Male,1975,38.2 [28.6-47.7],Oceania,38.2
+14996,Nauru,Female,1975,51.4 [41.9-60.7],Oceania,51.4
+14997,Nauru,Both sexes,1976,45.0 [38.6-51.3],Oceania,45.0
+14998,Nauru,Male,1976,38.6 [29.6-47.8],Oceania,38.6
+14999,Nauru,Female,1976,51.7 [42.5-60.7],Oceania,51.7
+15000,Nauru,Both sexes,1977,45.4 [39.3-51.5],Oceania,45.4
+15001,Nauru,Male,1977,39.1 [30.4-47.9],Oceania,39.1
+15002,Nauru,Female,1977,52.1 [43.2-60.7],Oceania,52.1
+15003,Nauru,Both sexes,1978,45.8 [39.9-51.8],Oceania,45.8
+15004,Nauru,Male,1978,39.6 [31.1-48.0],Oceania,39.6
+15005,Nauru,Female,1978,52.4 [43.9-60.8],Oceania,52.4
+15006,Nauru,Both sexes,1979,46.3 [40.5-52.0],Oceania,46.3
+15007,Nauru,Male,1979,40.0 [31.8-48.4],Oceania,40.0
+15008,Nauru,Female,1979,52.7 [44.5-60.8],Oceania,52.7
+15009,Nauru,Both sexes,1980,46.7 [41.1-52.3],Oceania,46.7
+15010,Nauru,Male,1980,40.5 [32.5-48.8],Oceania,40.5
+15011,Nauru,Female,1980,53.1 [45.1-60.8],Oceania,53.1
+15012,Nauru,Both sexes,1981,47.1 [41.7-52.6],Oceania,47.1
+15013,Nauru,Male,1981,41.0 [33.2-49.1],Oceania,41.0
+15014,Nauru,Female,1981,53.4 [45.6-61.0],Oceania,53.4
+15015,Nauru,Both sexes,1982,47.5 [42.3-52.9],Oceania,47.5
+15016,Nauru,Male,1982,41.5 [33.9-49.3],Oceania,41.5
+15017,Nauru,Female,1982,53.7 [46.1-61.1],Oceania,53.7
+15018,Nauru,Both sexes,1983,47.9 [42.7-53.2],Oceania,47.9
+15019,Nauru,Male,1983,42.0 [34.5-49.7],Oceania,42.0
+15020,Nauru,Female,1983,54.1 [46.6-61.3],Oceania,54.1
+15021,Nauru,Both sexes,1984,48.3 [43.2-53.5],Oceania,48.3
+15022,Nauru,Male,1984,42.5 [35.1-50.1],Oceania,42.5
+15023,Nauru,Female,1984,54.4 [47.2-61.4],Oceania,54.4
+15024,Nauru,Both sexes,1985,48.7 [43.7-53.7],Oceania,48.7
+15025,Nauru,Male,1985,43.0 [35.8-50.5],Oceania,43.0
+15026,Nauru,Female,1985,54.7 [47.7-61.6],Oceania,54.7
+15027,Nauru,Both sexes,1986,49.1 [44.2-54.1],Oceania,49.1
+15028,Nauru,Male,1986,43.6 [36.5-51.0],Oceania,43.6
+15029,Nauru,Female,1986,55.1 [48.2-61.9],Oceania,55.1
+15030,Nauru,Both sexes,1987,49.5 [44.6-54.4],Oceania,49.5
+15031,Nauru,Male,1987,44.1 [37.1-51.4],Oceania,44.1
+15032,Nauru,Female,1987,55.4 [48.6-62.0],Oceania,55.4
+15033,Nauru,Both sexes,1988,49.9 [45.1-54.8],Oceania,49.9
+15034,Nauru,Male,1988,44.6 [37.7-51.8],Oceania,44.6
+15035,Nauru,Female,1988,55.7 [49.0-62.3],Oceania,55.7
+15036,Nauru,Both sexes,1989,50.4 [45.6-55.1],Oceania,50.4
+15037,Nauru,Male,1989,45.1 [38.3-52.3],Oceania,45.1
+15038,Nauru,Female,1989,56.0 [49.4-62.5],Oceania,56.0
+15039,Nauru,Both sexes,1990,50.8 [46.1-55.5],Oceania,50.8
+15040,Nauru,Male,1990,45.7 [38.9-52.7],Oceania,45.7
+15041,Nauru,Female,1990,56.4 [49.8-62.8],Oceania,56.4
+15042,Nauru,Both sexes,1991,51.2 [46.6-55.9],Oceania,51.2
+15043,Nauru,Male,1991,46.2 [39.4-53.2],Oceania,46.2
+15044,Nauru,Female,1991,56.7 [50.1-63.0],Oceania,56.7
+15045,Nauru,Both sexes,1992,51.7 [47.1-56.3],Oceania,51.7
+15046,Nauru,Male,1992,46.7 [40.0-53.6],Oceania,46.7
+15047,Nauru,Female,1992,57.0 [50.5-63.2],Oceania,57.0
+15048,Nauru,Both sexes,1993,52.1 [47.5-56.7],Oceania,52.1
+15049,Nauru,Male,1993,47.2 [40.6-54.1],Oceania,47.2
+15050,Nauru,Female,1993,57.3 [50.9-63.5],Oceania,57.3
+15051,Nauru,Both sexes,1994,52.5 [48.0-57.2],Oceania,52.5
+15052,Nauru,Male,1994,47.7 [41.2-54.5],Oceania,47.7
+15053,Nauru,Female,1994,57.6 [51.2-63.8],Oceania,57.6
+15054,Nauru,Both sexes,1995,53.0 [48.4-57.5],Oceania,53.0
+15055,Nauru,Male,1995,48.3 [41.7-55.0],Oceania,48.3
+15056,Nauru,Female,1995,57.9 [51.5-64.1],Oceania,57.9
+15057,Nauru,Both sexes,1996,53.4 [48.9-57.9],Oceania,53.4
+15058,Nauru,Male,1996,48.8 [42.3-55.4],Oceania,48.8
+15059,Nauru,Female,1996,58.2 [51.8-64.3],Oceania,58.2
+15060,Nauru,Both sexes,1997,53.8 [49.3-58.3],Oceania,53.8
+15061,Nauru,Male,1997,49.3 [42.9-55.9],Oceania,49.3
+15062,Nauru,Female,1997,58.4 [52.2-64.5],Oceania,58.4
+15063,Nauru,Both sexes,1998,54.3 [49.8-58.7],Oceania,54.3
+15064,Nauru,Male,1998,49.8 [43.4-56.4],Oceania,49.8
+15065,Nauru,Female,1998,58.7 [52.5-64.7],Oceania,58.7
+15066,Nauru,Both sexes,1999,54.7 [50.2-59.1],Oceania,54.7
+15067,Nauru,Male,1999,50.3 [43.9-56.8],Oceania,50.3
+15068,Nauru,Female,1999,59.0 [52.8-65.0],Oceania,59.0
+15069,Nauru,Both sexes,2000,55.1 [50.6-59.5],Oceania,55.1
+15070,Nauru,Male,2000,50.8 [44.5-57.3],Oceania,50.8
+15071,Nauru,Female,2000,59.3 [53.1-65.3],Oceania,59.3
+15072,Nauru,Both sexes,2001,55.5 [51.1-59.9],Oceania,55.5
+15073,Nauru,Male,2001,51.3 [45.0-57.8],Oceania,51.3
+15074,Nauru,Female,2001,59.6 [53.3-65.5],Oceania,59.6
+15075,Nauru,Both sexes,2002,55.9 [51.5-60.3],Oceania,55.9
+15076,Nauru,Male,2002,51.9 [45.5-58.3],Oceania,51.9
+15077,Nauru,Female,2002,59.8 [53.6-65.7],Oceania,59.8
+15078,Nauru,Both sexes,2003,56.3 [51.9-60.7],Oceania,56.3
+15079,Nauru,Male,2003,52.4 [46.0-58.7],Oceania,52.4
+15080,Nauru,Female,2003,60.1 [53.8-66.0],Oceania,60.1
+15081,Nauru,Both sexes,2004,56.7 [52.3-61.0],Oceania,56.7
+15082,Nauru,Male,2004,52.9 [46.5-59.2],Oceania,52.9
+15083,Nauru,Female,2004,60.4 [54.1-66.2],Oceania,60.4
+15084,Nauru,Both sexes,2005,57.0 [52.6-61.4],Oceania,57.0
+15085,Nauru,Male,2005,53.4 [47.0-59.7],Oceania,53.4
+15086,Nauru,Female,2005,60.6 [54.4-66.5],Oceania,60.6
+15087,Nauru,Both sexes,2006,57.4 [53.0-61.8],Oceania,57.4
+15088,Nauru,Male,2006,53.9 [47.5-60.2],Oceania,53.9
+15089,Nauru,Female,2006,60.9 [54.6-66.8],Oceania,60.9
+15090,Nauru,Both sexes,2007,57.8 [53.3-62.2],Oceania,57.8
+15091,Nauru,Male,2007,54.4 [47.9-60.8],Oceania,54.4
+15092,Nauru,Female,2007,61.1 [54.8-67.2],Oceania,61.1
+15093,Nauru,Both sexes,2008,58.2 [53.6-62.7],Oceania,58.2
+15094,Nauru,Male,2008,54.9 [48.3-61.4],Oceania,54.9
+15095,Nauru,Female,2008,61.4 [55.0-67.5],Oceania,61.4
+15096,Nauru,Both sexes,2009,58.5 [53.9-63.2],Oceania,58.5
+15097,Nauru,Male,2009,55.4 [48.7-61.9],Oceania,55.4
+15098,Nauru,Female,2009,61.6 [55.2-67.9],Oceania,61.6
+15099,Nauru,Both sexes,2010,58.9 [54.2-63.6],Oceania,58.9
+15100,Nauru,Male,2010,55.9 [49.1-62.5],Oceania,55.9
+15101,Nauru,Female,2010,61.9 [55.3-68.2],Oceania,61.9
+15102,Nauru,Both sexes,2011,59.3 [54.4-64.1],Oceania,59.3
+15103,Nauru,Male,2011,56.4 [49.4-63.1],Oceania,56.4
+15104,Nauru,Female,2011,62.1 [55.4-68.5],Oceania,62.1
+15105,Nauru,Both sexes,2012,59.6 [54.6-64.6],Oceania,59.6
+15106,Nauru,Male,2012,56.8 [49.7-63.8],Oceania,56.8
+15107,Nauru,Female,2012,62.4 [55.6-68.9],Oceania,62.4
+15108,Nauru,Both sexes,2013,60.0 [54.9-65.1],Oceania,60.0
+15109,Nauru,Male,2013,57.3 [50.0-64.4],Oceania,57.3
+15110,Nauru,Female,2013,62.6 [55.5-69.3],Oceania,62.6
+15111,Nauru,Both sexes,2014,60.3 [55.0-65.6],Oceania,60.3
+15112,Nauru,Male,2014,57.8 [50.3-65.1],Oceania,57.8
+15113,Nauru,Female,2014,62.9 [55.5-69.8],Oceania,62.9
+15114,Nauru,Both sexes,2015,60.7 [55.2-66.1],Oceania,60.7
+15115,Nauru,Male,2015,58.2 [50.5-65.8],Oceania,58.2
+15116,Nauru,Female,2015,63.1 [55.5-70.3],Oceania,63.1
+15117,Nauru,Both sexes,2016,61.0 [55.3-66.6],Oceania,61.0
+15118,Nauru,Male,2016,58.7 [50.6-66.5],Oceania,58.7
+15119,Nauru,Female,2016,63.3 [55.5-70.8],Oceania,63.3
+15372,New Zealand,Both sexes,1975,10.9 [7.9-14.2],Oceania,10.9
+15373,New Zealand,Male,1975,9.4 [5.7-14.1],Oceania,9.4
+15374,New Zealand,Female,1975,12.3 [8.1-17.5],Oceania,12.3
+15375,New Zealand,Both sexes,1976,11.2 [8.3-14.4],Oceania,11.2
+15376,New Zealand,Male,1976,9.7 [6.1-14.3],Oceania,9.7
+15377,New Zealand,Female,1976,12.6 [8.5-17.6],Oceania,12.6
+15378,New Zealand,Both sexes,1977,11.5 [8.7-14.7],Oceania,11.5
+15379,New Zealand,Male,1977,10.0 [6.5-14.4],Oceania,10.0
+15380,New Zealand,Female,1977,13.0 [8.9-17.8],Oceania,13.0
+15381,New Zealand,Both sexes,1978,11.9 [9.1-14.9],Oceania,11.9
+15382,New Zealand,Male,1978,10.3 [6.8-14.6],Oceania,10.3
+15383,New Zealand,Female,1978,13.3 [9.3-17.9],Oceania,13.3
+15384,New Zealand,Both sexes,1979,12.2 [9.4-15.2],Oceania,12.2
+15385,New Zealand,Male,1979,10.7 [7.1-14.8],Oceania,10.7
+15386,New Zealand,Female,1979,13.6 [9.7-18.1],Oceania,13.6
+15387,New Zealand,Both sexes,1980,12.5 [9.8-15.4],Oceania,12.5
+15388,New Zealand,Male,1980,11.0 [7.6-15.1],Oceania,11.0
+15389,New Zealand,Female,1980,14.0 [10.1-18.3],Oceania,14.0
+15390,New Zealand,Both sexes,1981,12.9 [10.2-15.7],Oceania,12.9
+15391,New Zealand,Male,1981,11.3 [7.9-15.4],Oceania,11.3
+15392,New Zealand,Female,1981,14.3 [10.5-18.5],Oceania,14.3
+15393,New Zealand,Both sexes,1982,13.2 [10.6-16.0],Oceania,13.2
+15394,New Zealand,Male,1982,11.7 [8.3-15.7],Oceania,11.7
+15395,New Zealand,Female,1982,14.6 [10.9-18.8],Oceania,14.6
+15396,New Zealand,Both sexes,1983,13.6 [10.9-16.3],Oceania,13.6
+15397,New Zealand,Male,1983,12.0 [8.6-16.0],Oceania,12.0
+15398,New Zealand,Female,1983,15.0 [11.3-19.1],Oceania,15.0
+15399,New Zealand,Both sexes,1984,13.9 [11.3-16.7],Oceania,13.9
+15400,New Zealand,Male,1984,12.4 [9.0-16.3],Oceania,12.4
+15401,New Zealand,Female,1984,15.3 [11.6-19.4],Oceania,15.3
+15402,New Zealand,Both sexes,1985,14.3 [11.7-17.0],Oceania,14.3
+15403,New Zealand,Male,1985,12.8 [9.4-16.6],Oceania,12.8
+15404,New Zealand,Female,1985,15.7 [12.1-19.7],Oceania,15.7
+15405,New Zealand,Both sexes,1986,14.7 [12.1-17.4],Oceania,14.7
+15406,New Zealand,Male,1986,13.2 [9.7-17.0],Oceania,13.2
+15407,New Zealand,Female,1986,16.1 [12.5-20.0],Oceania,16.1
+15408,New Zealand,Both sexes,1987,15.1 [12.5-17.8],Oceania,15.1
+15409,New Zealand,Male,1987,13.6 [10.1-17.5],Oceania,13.6
+15410,New Zealand,Female,1987,16.5 [12.9-20.4],Oceania,16.5
+15411,New Zealand,Both sexes,1988,15.5 [12.9-18.2],Oceania,15.5
+15412,New Zealand,Male,1988,14.0 [10.5-17.9],Oceania,14.0
+15413,New Zealand,Female,1988,16.9 [13.3-20.8],Oceania,16.9
+15414,New Zealand,Both sexes,1989,15.9 [13.3-18.7],Oceania,15.9
+15415,New Zealand,Male,1989,14.5 [10.9-18.4],Oceania,14.5
+15416,New Zealand,Female,1989,17.3 [13.7-21.2],Oceania,17.3
+15417,New Zealand,Both sexes,1990,16.4 [13.8-19.1],Oceania,16.4
+15418,New Zealand,Male,1990,14.9 [11.3-18.8],Oceania,14.9
+15419,New Zealand,Female,1990,17.8 [14.2-21.7],Oceania,17.8
+15420,New Zealand,Both sexes,1991,16.9 [14.2-19.6],Oceania,16.9
+15421,New Zealand,Male,1991,15.4 [11.8-19.4],Oceania,15.4
+15422,New Zealand,Female,1991,18.2 [14.6-22.1],Oceania,18.2
+15423,New Zealand,Both sexes,1992,17.3 [14.7-20.1],Oceania,17.3
+15424,New Zealand,Male,1992,15.9 [12.2-19.9],Oceania,15.9
+15425,New Zealand,Female,1992,18.7 [15.1-22.6],Oceania,18.7
+15426,New Zealand,Both sexes,1993,17.8 [15.2-20.6],Oceania,17.8
+15427,New Zealand,Male,1993,16.4 [12.7-20.4],Oceania,16.4
+15428,New Zealand,Female,1993,19.2 [15.6-23.1],Oceania,19.2
+15429,New Zealand,Both sexes,1994,18.3 [15.7-21.1],Oceania,18.3
+15430,New Zealand,Male,1994,16.9 [13.2-21.0],Oceania,16.9
+15431,New Zealand,Female,1994,19.7 [16.1-23.5],Oceania,19.7
+15432,New Zealand,Both sexes,1995,18.8 [16.2-21.6],Oceania,18.8
+15433,New Zealand,Male,1995,17.5 [13.7-21.5],Oceania,17.5
+15434,New Zealand,Female,1995,20.2 [16.5-24.1],Oceania,20.2
+15435,New Zealand,Both sexes,1996,19.4 [16.7-22.1],Oceania,19.4
+15436,New Zealand,Male,1996,18.0 [14.2-22.1],Oceania,18.0
+15437,New Zealand,Female,1996,20.7 [17.0-24.6],Oceania,20.7
+15438,New Zealand,Both sexes,1997,19.9 [17.2-22.7],Oceania,19.9
+15439,New Zealand,Male,1997,18.5 [14.7-22.7],Oceania,18.5
+15440,New Zealand,Female,1997,21.2 [17.5-25.1],Oceania,21.2
+15441,New Zealand,Both sexes,1998,20.4 [17.7-23.2],Oceania,20.4
+15442,New Zealand,Male,1998,19.1 [15.2-23.3],Oceania,19.1
+15443,New Zealand,Female,1998,21.7 [18.0-25.6],Oceania,21.7
+15444,New Zealand,Both sexes,1999,21.0 [18.3-23.7],Oceania,21.0
+15445,New Zealand,Male,1999,19.7 [15.7-23.9],Oceania,19.7
+15446,New Zealand,Female,1999,22.2 [18.5-26.1],Oceania,22.2
+15447,New Zealand,Both sexes,2000,21.5 [18.9-24.3],Oceania,21.5
+15448,New Zealand,Male,2000,20.2 [16.4-24.4],Oceania,20.2
+15449,New Zealand,Female,2000,22.8 [19.0-26.6],Oceania,22.8
+15450,New Zealand,Both sexes,2001,22.1 [19.4-24.8],Oceania,22.1
+15451,New Zealand,Male,2001,20.8 [16.9-25.0],Oceania,20.8
+15452,New Zealand,Female,2001,23.3 [19.6-27.1],Oceania,23.3
+15453,New Zealand,Both sexes,2002,22.7 [20.0-25.4],Oceania,22.7
+15454,New Zealand,Male,2002,21.4 [17.6-25.5],Oceania,21.4
+15455,New Zealand,Female,2002,23.8 [20.1-27.6],Oceania,23.8
+15456,New Zealand,Both sexes,2003,23.2 [20.6-25.9],Oceania,23.2
+15457,New Zealand,Male,2003,22.0 [18.2-26.1],Oceania,22.0
+15458,New Zealand,Female,2003,24.4 [20.7-28.2],Oceania,24.4
+15459,New Zealand,Both sexes,2004,23.8 [21.2-26.5],Oceania,23.8
+15460,New Zealand,Male,2004,22.6 [18.9-26.6],Oceania,22.6
+15461,New Zealand,Female,2004,24.9 [21.2-28.7],Oceania,24.9
+15462,New Zealand,Both sexes,2005,24.4 [21.7-27.0],Oceania,24.4
+15463,New Zealand,Male,2005,23.2 [19.5-27.2],Oceania,23.2
+15464,New Zealand,Female,2005,25.4 [21.8-29.2],Oceania,25.4
+15465,New Zealand,Both sexes,2006,24.9 [22.3-27.6],Oceania,24.9
+15466,New Zealand,Male,2006,23.8 [20.0-27.9],Oceania,23.8
+15467,New Zealand,Female,2006,26.0 [22.3-29.8],Oceania,26.0
+15468,New Zealand,Both sexes,2007,25.5 [22.9-28.2],Oceania,25.5
+15469,New Zealand,Male,2007,24.4 [20.7-28.5],Oceania,24.4
+15470,New Zealand,Female,2007,26.5 [22.8-30.4],Oceania,26.5
+15471,New Zealand,Both sexes,2008,26.1 [23.4-28.8],Oceania,26.1
+15472,New Zealand,Male,2008,25.0 [21.2-29.1],Oceania,25.0
+15473,New Zealand,Female,2008,27.1 [23.3-30.9],Oceania,27.1
+15474,New Zealand,Both sexes,2009,26.6 [24.0-29.4],Oceania,26.6
+15475,New Zealand,Male,2009,25.6 [21.9-29.7],Oceania,25.6
+15476,New Zealand,Female,2009,27.6 [23.8-31.5],Oceania,27.6
+15477,New Zealand,Both sexes,2010,27.2 [24.5-30.0],Oceania,27.2
+15478,New Zealand,Male,2010,26.2 [22.4-30.3],Oceania,26.2
+15479,New Zealand,Female,2010,28.1 [24.3-32.2],Oceania,28.1
+15480,New Zealand,Both sexes,2011,27.8 [25.0-30.7],Oceania,27.8
+15481,New Zealand,Male,2011,26.9 [23.0-31.1],Oceania,26.9
+15482,New Zealand,Female,2011,28.7 [24.7-32.8],Oceania,28.7
+15483,New Zealand,Both sexes,2012,28.4 [25.5-31.3],Oceania,28.4
+15484,New Zealand,Male,2012,27.5 [23.6-31.9],Oceania,27.5
+15485,New Zealand,Female,2012,29.2 [25.2-33.5],Oceania,29.2
+15486,New Zealand,Both sexes,2013,29.0 [26.0-32.0],Oceania,29.0
+15487,New Zealand,Male,2013,28.1 [24.0-32.6],Oceania,28.1
+15488,New Zealand,Female,2013,29.8 [25.5-34.3],Oceania,29.8
+15489,New Zealand,Both sexes,2014,29.6 [26.5-32.7],Oceania,29.6
+15490,New Zealand,Male,2014,28.8 [24.4-33.5],Oceania,28.8
+15491,New Zealand,Female,2014,30.3 [25.9-35.0],Oceania,30.3
+15492,New Zealand,Both sexes,2015,30.2 [26.9-33.5],Oceania,30.2
+15493,New Zealand,Male,2015,29.4 [24.8-34.4],Oceania,29.4
+15494,New Zealand,Female,2015,30.9 [26.3-35.8],Oceania,30.9
+15495,New Zealand,Both sexes,2016,30.8 [27.3-34.3],Oceania,30.8
+15496,New Zealand,Male,2016,30.1 [25.2-35.3],Oceania,30.1
+15497,New Zealand,Female,2016,31.4 [26.5-36.5],Oceania,31.4
+15876,Niue,Both sexes,1975,18.9 [12.4-26.3],Oceania,18.9
+15877,Niue,Male,1975,13.6 [6.2-23.8],Oceania,13.6
+15878,Niue,Female,1975,24.4 [14.3-36.0],Oceania,24.4
+15879,Niue,Both sexes,1976,19.6 [13.1-26.8],Oceania,19.6
+15880,Niue,Male,1976,14.1 [6.7-24.1],Oceania,14.1
+15881,Niue,Female,1976,25.2 [15.2-36.5],Oceania,25.2
+15882,Niue,Both sexes,1977,20.2 [13.9-27.4],Oceania,20.2
+15883,Niue,Male,1977,14.7 [7.2-24.6],Oceania,14.7
+15884,Niue,Female,1977,26.0 [16.1-37.0],Oceania,26.0
+15885,Niue,Both sexes,1978,21.0 [14.7-28.0],Oceania,21.0
+15886,Niue,Male,1978,15.2 [7.7-25.1],Oceania,15.2
+15887,Niue,Female,1978,26.8 [17.1-37.6],Oceania,26.8
+15888,Niue,Both sexes,1979,21.7 [15.5-28.7],Oceania,21.7
+15889,Niue,Male,1979,15.9 [8.3-25.5],Oceania,15.9
+15890,Niue,Female,1979,27.7 [18.0-38.1],Oceania,27.7
+15891,Niue,Both sexes,1980,22.5 [16.3-29.4],Oceania,22.5
+15892,Niue,Male,1980,16.5 [8.9-26.1],Oceania,16.5
+15893,Niue,Female,1980,28.6 [19.0-38.8],Oceania,28.6
+15894,Niue,Both sexes,1981,23.3 [17.2-30.1],Oceania,23.3
+15895,Niue,Male,1981,17.2 [9.5-26.6],Oceania,17.2
+15896,Niue,Female,1981,29.5 [20.1-39.5],Oceania,29.5
+15897,Niue,Both sexes,1982,24.1 [18.0-30.9],Oceania,24.1
+15898,Niue,Male,1982,17.9 [10.1-27.3],Oceania,17.9
+15899,Niue,Female,1982,30.4 [21.1-40.2],Oceania,30.4
+15900,Niue,Both sexes,1983,24.9 [18.9-31.6],Oceania,24.9
+15901,Niue,Male,1983,18.6 [10.8-28.1],Oceania,18.6
+15902,Niue,Female,1983,31.3 [22.1-40.9],Oceania,31.3
+15903,Niue,Both sexes,1984,25.8 [19.7-32.4],Oceania,25.8
+15904,Niue,Male,1984,19.4 [11.5-28.8],Oceania,19.4
+15905,Niue,Female,1984,32.3 [23.2-41.6],Oceania,32.3
+15906,Niue,Both sexes,1985,26.6 [20.6-33.1],Oceania,26.6
+15907,Niue,Male,1985,20.2 [12.2-29.5],Oceania,20.2
+15908,Niue,Female,1985,33.2 [24.3-42.4],Oceania,33.2
+15909,Niue,Both sexes,1986,27.4 [21.5-33.9],Oceania,27.4
+15910,Niue,Male,1986,20.9 [12.9-30.2],Oceania,20.9
+15911,Niue,Female,1986,34.1 [25.3-43.2],Oceania,34.1
+15912,Niue,Both sexes,1987,28.2 [22.4-34.6],Oceania,28.2
+15913,Niue,Male,1987,21.7 [13.7-30.8],Oceania,21.7
+15914,Niue,Female,1987,35.0 [26.3-43.9],Oceania,35.0
+15915,Niue,Both sexes,1988,29.0 [23.1-35.3],Oceania,29.0
+15916,Niue,Male,1988,22.4 [14.4-31.5],Oceania,22.4
+15917,Niue,Female,1988,35.8 [27.2-44.6],Oceania,35.8
+15918,Niue,Both sexes,1989,29.7 [23.8-36.0],Oceania,29.7
+15919,Niue,Male,1989,23.1 [15.0-32.2],Oceania,23.1
+15920,Niue,Female,1989,36.5 [28.1-45.3],Oceania,36.5
+15921,Niue,Both sexes,1990,30.5 [24.5-36.6],Oceania,30.5
+15922,Niue,Male,1990,23.8 [15.6-32.9],Oceania,23.8
+15923,Niue,Female,1990,37.3 [29.0-46.0],Oceania,37.3
+15924,Niue,Both sexes,1991,31.2 [25.3-37.3],Oceania,31.2
+15925,Niue,Male,1991,24.4 [16.3-33.4],Oceania,24.4
+15926,Niue,Female,1991,38.0 [29.7-46.6],Oceania,38.0
+15927,Niue,Both sexes,1992,31.8 [26.0-37.9],Oceania,31.8
+15928,Niue,Male,1992,25.1 [17.0-34.1],Oceania,25.1
+15929,Niue,Female,1992,38.7 [30.5-47.2],Oceania,38.7
+15930,Niue,Both sexes,1993,32.5 [26.7-38.6],Oceania,32.5
+15931,Niue,Male,1993,25.8 [17.7-34.8],Oceania,25.8
+15932,Niue,Female,1993,39.4 [31.2-47.7],Oceania,39.4
+15933,Niue,Both sexes,1994,33.2 [27.4-39.2],Oceania,33.2
+15934,Niue,Male,1994,26.5 [18.3-35.3],Oceania,26.5
+15935,Niue,Female,1994,40.0 [31.9-48.3],Oceania,40.0
+15936,Niue,Both sexes,1995,33.9 [28.1-39.8],Oceania,33.9
+15937,Niue,Male,1995,27.2 [19.0-35.9],Oceania,27.2
+15938,Niue,Female,1995,40.7 [32.6-48.9],Oceania,40.7
+15939,Niue,Both sexes,1996,34.6 [28.8-40.5],Oceania,34.6
+15940,Niue,Male,1996,27.9 [19.7-36.6],Oceania,27.9
+15941,Niue,Female,1996,41.4 [33.4-49.5],Oceania,41.4
+15942,Niue,Both sexes,1997,35.3 [29.6-41.1],Oceania,35.3
+15943,Niue,Male,1997,28.6 [20.5-37.3],Oceania,28.6
+15944,Niue,Female,1997,42.1 [34.1-50.1],Oceania,42.1
+15945,Niue,Both sexes,1998,36.0 [30.3-41.7],Oceania,36.0
+15946,Niue,Male,1998,29.4 [21.2-38.1],Oceania,29.4
+15947,Niue,Female,1998,42.8 [34.8-50.7],Oceania,42.8
+15948,Niue,Both sexes,1999,36.7 [31.1-42.4],Oceania,36.7
+15949,Niue,Male,1999,30.1 [21.9-38.8],Oceania,30.1
+15950,Niue,Female,1999,43.5 [35.6-51.3],Oceania,43.5
+15951,Niue,Both sexes,2000,37.5 [31.9-43.1],Oceania,37.5
+15952,Niue,Male,2000,30.9 [22.7-39.5],Oceania,30.9
+15953,Niue,Female,2000,44.2 [36.4-51.9],Oceania,44.2
+15954,Niue,Both sexes,2001,38.2 [32.7-43.8],Oceania,38.2
+15955,Niue,Male,2001,31.7 [23.5-40.2],Oceania,31.7
+15956,Niue,Female,2001,44.9 [37.1-52.5],Oceania,44.9
+15957,Niue,Both sexes,2002,39.0 [33.5-44.6],Oceania,39.0
+15958,Niue,Male,2002,32.5 [24.4-41.1],Oceania,32.5
+15959,Niue,Female,2002,45.6 [37.8-53.1],Oceania,45.6
+15960,Niue,Both sexes,2003,39.7 [34.2-45.3],Oceania,39.7
+15961,Niue,Male,2003,33.3 [25.2-41.8],Oceania,33.3
+15962,Niue,Female,2003,46.3 [38.5-53.7],Oceania,46.3
+15963,Niue,Both sexes,2004,40.5 [35.0-46.0],Oceania,40.5
+15964,Niue,Male,2004,34.2 [26.0-42.5],Oceania,34.2
+15965,Niue,Female,2004,47.0 [39.3-54.4],Oceania,47.0
+15966,Niue,Both sexes,2005,41.3 [35.7-46.7],Oceania,41.3
+15967,Niue,Male,2005,35.0 [26.8-43.4],Oceania,35.0
+15968,Niue,Female,2005,47.7 [40.1-55.0],Oceania,47.7
+15969,Niue,Both sexes,2006,42.1 [36.5-47.5],Oceania,42.1
+15970,Niue,Male,2006,35.8 [27.8-44.2],Oceania,35.8
+15971,Niue,Female,2006,48.4 [40.9-55.7],Oceania,48.4
+15972,Niue,Both sexes,2007,42.8 [37.2-48.3],Oceania,42.8
+15973,Niue,Male,2007,36.7 [28.6-45.1],Oceania,36.7
+15974,Niue,Female,2007,49.1 [41.5-56.4],Oceania,49.1
+15975,Niue,Both sexes,2008,43.6 [38.1-49.0],Oceania,43.6
+15976,Niue,Male,2008,37.6 [29.5-46.0],Oceania,37.6
+15977,Niue,Female,2008,49.8 [42.2-57.1],Oceania,49.8
+15978,Niue,Both sexes,2009,44.4 [38.8-49.8],Oceania,44.4
+15979,Niue,Male,2009,38.5 [30.3-46.9],Oceania,38.5
+15980,Niue,Female,2009,50.4 [42.9-57.9],Oceania,50.4
+15981,Niue,Both sexes,2010,45.2 [39.6-50.6],Oceania,45.2
+15982,Niue,Male,2010,39.4 [31.1-47.8],Oceania,39.4
+15983,Niue,Female,2010,51.1 [43.6-58.5],Oceania,51.1
+15984,Niue,Both sexes,2011,46.0 [40.4-51.4],Oceania,46.0
+15985,Niue,Male,2011,40.3 [31.9-48.8],Oceania,40.3
+15986,Niue,Female,2011,51.8 [44.3-59.2],Oceania,51.8
+15987,Niue,Both sexes,2012,46.8 [41.0-52.2],Oceania,46.8
+15988,Niue,Male,2012,41.2 [32.7-49.6],Oceania,41.2
+15989,Niue,Female,2012,52.5 [44.8-59.9],Oceania,52.5
+15990,Niue,Both sexes,2013,47.6 [41.7-53.2],Oceania,47.6
+15991,Niue,Male,2013,42.1 [33.5-50.7],Oceania,42.1
+15992,Niue,Female,2013,53.2 [45.3-60.7],Oceania,53.2
+15993,Niue,Both sexes,2014,48.4 [42.4-54.0],Oceania,48.4
+15994,Niue,Male,2014,43.0 [34.2-51.8],Oceania,43.0
+15995,Niue,Female,2014,53.8 [45.9-61.5],Oceania,53.8
+15996,Niue,Both sexes,2015,49.2 [43.1-54.9],Oceania,49.2
+15997,Niue,Male,2015,43.9 [34.9-52.9],Oceania,43.9
+15998,Niue,Female,2015,54.5 [46.3-62.4],Oceania,54.5
+15999,Niue,Both sexes,2016,50.0 [43.7-55.8],Oceania,50.0
+16000,Niue,Male,2016,44.8 [35.6-54.0],Oceania,44.8
+16001,Niue,Female,2016,55.1 [46.9-63.2],Oceania,55.1
+16380,Palau,Both sexes,1975,28.3 [21.3-35.7],Oceania,28.3
+16381,Palau,Male,1975,21.7 [12.9-32.5],Oceania,21.7
+16382,Palau,Female,1975,35.4 [24.9-46.5],Oceania,35.4
+16383,Palau,Both sexes,1976,28.9 [22.1-36.1],Oceania,28.9
+16384,Palau,Male,1976,22.3 [13.6-32.7],Oceania,22.3
+16385,Palau,Female,1976,36.0 [25.7-46.8],Oceania,36.0
+16386,Palau,Both sexes,1977,29.6 [22.8-36.4],Oceania,29.6
+16387,Palau,Male,1977,22.9 [14.3-33.1],Oceania,22.9
+16388,Palau,Female,1977,36.6 [26.6-47.0],Oceania,36.6
+16389,Palau,Both sexes,1978,30.2 [23.6-36.9],Oceania,30.2
+16390,Palau,Male,1978,23.5 [15.0-33.4],Oceania,23.5
+16391,Palau,Female,1978,37.2 [27.4-47.4],Oceania,37.2
+16392,Palau,Both sexes,1979,30.8 [24.3-37.4],Oceania,30.8
+16393,Palau,Male,1979,24.1 [15.7-33.8],Oceania,24.1
+16394,Palau,Female,1979,37.9 [28.2-47.8],Oceania,37.9
+16395,Palau,Both sexes,1980,31.5 [25.1-37.9],Oceania,31.5
+16396,Palau,Male,1980,24.7 [16.4-34.3],Oceania,24.7
+16397,Palau,Female,1980,38.5 [29.0-48.2],Oceania,38.5
+16398,Palau,Both sexes,1981,32.1 [25.9-38.4],Oceania,32.1
+16399,Palau,Male,1981,25.3 [17.0-34.7],Oceania,25.3
+16400,Palau,Female,1981,39.1 [29.8-48.6],Oceania,39.1
+16401,Palau,Both sexes,1982,32.8 [26.6-39.1],Oceania,32.8
+16402,Palau,Male,1982,26.1 [17.7-35.2],Oceania,26.1
+16403,Palau,Female,1982,39.8 [30.6-49.0],Oceania,39.8
+16404,Palau,Both sexes,1983,33.5 [27.4-39.7],Oceania,33.5
+16405,Palau,Male,1983,26.8 [18.5-35.8],Oceania,26.8
+16406,Palau,Female,1983,40.5 [31.4-49.6],Oceania,40.5
+16407,Palau,Both sexes,1984,34.3 [28.2-40.3],Oceania,34.3
+16408,Palau,Male,1984,27.6 [19.4-36.5],Oceania,27.6
+16409,Palau,Female,1984,41.3 [32.2-50.2],Oceania,41.3
+16410,Palau,Both sexes,1985,35.1 [29.0-41.1],Oceania,35.1
+16411,Palau,Male,1985,28.4 [20.2-37.4],Oceania,28.4
+16412,Palau,Female,1985,42.1 [33.1-50.9],Oceania,42.1
+16413,Palau,Both sexes,1986,35.8 [29.8-41.9],Oceania,35.8
+16414,Palau,Male,1986,29.3 [21.1-38.1],Oceania,29.3
+16415,Palau,Female,1986,42.8 [34.0-51.6],Oceania,42.8
+16416,Palau,Both sexes,1987,36.6 [30.5-42.7],Oceania,36.6
+16417,Palau,Male,1987,30.1 [21.8-38.9],Oceania,30.1
+16418,Palau,Female,1987,43.5 [34.7-52.4],Oceania,43.5
+16419,Palau,Both sexes,1988,37.3 [31.2-43.3],Oceania,37.3
+16420,Palau,Male,1988,30.9 [22.6-39.7],Oceania,30.9
+16421,Palau,Female,1988,44.2 [35.5-53.0],Oceania,44.2
+16422,Palau,Both sexes,1989,38.0 [32.0-44.0],Oceania,38.0
+16423,Palau,Male,1989,31.7 [23.3-40.5],Oceania,31.7
+16424,Palau,Female,1989,44.9 [36.1-53.5],Oceania,44.9
+16425,Palau,Both sexes,1990,38.8 [32.8-44.7],Oceania,38.8
+16426,Palau,Male,1990,32.5 [24.2-41.2],Oceania,32.5
+16427,Palau,Female,1990,45.6 [36.9-54.0],Oceania,45.6
+16428,Palau,Both sexes,1991,39.5 [33.5-45.6],Oceania,39.5
+16429,Palau,Male,1991,33.3 [24.9-42.0],Oceania,33.3
+16430,Palau,Female,1991,46.2 [37.5-54.6],Oceania,46.2
+16431,Palau,Both sexes,1992,40.2 [34.2-46.2],Oceania,40.2
+16432,Palau,Male,1992,34.0 [25.7-42.8],Oceania,34.0
+16433,Palau,Female,1992,46.8 [38.2-55.2],Oceania,46.8
+16434,Palau,Both sexes,1993,40.9 [34.9-47.0],Oceania,40.9
+16435,Palau,Male,1993,34.8 [26.5-43.5],Oceania,34.8
+16436,Palau,Female,1993,47.4 [38.9-55.7],Oceania,47.4
+16437,Palau,Both sexes,1994,41.6 [35.6-47.6],Oceania,41.6
+16438,Palau,Male,1994,35.5 [27.2-44.2],Oceania,35.5
+16439,Palau,Female,1994,47.9 [39.5-56.2],Oceania,47.9
+16440,Palau,Both sexes,1995,42.2 [36.3-48.2],Oceania,42.2
+16441,Palau,Male,1995,36.2 [27.8-45.0],Oceania,36.2
+16442,Palau,Female,1995,48.5 [40.1-56.7],Oceania,48.5
+16443,Palau,Both sexes,1996,42.8 [37.0-48.7],Oceania,42.8
+16444,Palau,Male,1996,36.9 [28.6-45.5],Oceania,36.9
+16445,Palau,Female,1996,49.0 [40.6-57.1],Oceania,49.0
+16446,Palau,Both sexes,1997,43.4 [37.6-49.3],Oceania,43.4
+16447,Palau,Male,1997,37.5 [29.2-46.1],Oceania,37.5
+16448,Palau,Female,1997,49.4 [41.1-57.4],Oceania,49.4
+16449,Palau,Both sexes,1998,44.0 [38.2-49.8],Oceania,44.0
+16450,Palau,Male,1998,38.1 [29.9-46.6],Oceania,38.1
+16451,Palau,Female,1998,49.8 [41.6-57.8],Oceania,49.8
+16452,Palau,Both sexes,1999,44.5 [38.7-50.3],Oceania,44.5
+16453,Palau,Male,1999,38.7 [30.5-47.1],Oceania,38.7
+16454,Palau,Female,1999,50.2 [42.1-58.1],Oceania,50.2
+16455,Palau,Both sexes,2000,45.0 [39.2-50.7],Oceania,45.0
+16456,Palau,Male,2000,39.3 [31.1-47.6],Oceania,39.3
+16457,Palau,Female,2000,50.6 [42.4-58.4],Oceania,50.6
+16458,Palau,Both sexes,2001,45.6 [39.9-51.3],Oceania,45.6
+16459,Palau,Male,2001,39.9 [31.8-48.2],Oceania,39.9
+16460,Palau,Female,2001,51.0 [42.9-58.7],Oceania,51.0
+16461,Palau,Both sexes,2002,46.2 [40.5-51.8],Oceania,46.2
+16462,Palau,Male,2002,40.6 [32.6-48.8],Oceania,40.6
+16463,Palau,Female,2002,51.5 [43.4-59.1],Oceania,51.5
+16464,Palau,Both sexes,2003,46.8 [41.2-52.5],Oceania,46.8
+16465,Palau,Male,2003,41.4 [33.4-49.5],Oceania,41.4
+16466,Palau,Female,2003,52.1 [44.0-59.6],Oceania,52.1
+16467,Palau,Both sexes,2004,47.5 [41.9-53.1],Oceania,47.5
+16468,Palau,Male,2004,42.2 [34.3-50.3],Oceania,42.2
+16469,Palau,Female,2004,52.6 [44.7-60.1],Oceania,52.6
+16470,Palau,Both sexes,2005,48.2 [42.6-53.7],Oceania,48.2
+16471,Palau,Male,2005,43.1 [35.2-50.9],Oceania,43.1
+16472,Palau,Female,2005,53.2 [45.3-60.5],Oceania,53.2
+16473,Palau,Both sexes,2006,48.9 [43.4-54.4],Oceania,48.9
+16474,Palau,Male,2006,44.0 [36.0-51.8],Oceania,44.0
+16475,Palau,Female,2006,53.8 [45.9-61.2],Oceania,53.8
+16476,Palau,Both sexes,2007,49.7 [44.1-55.1],Oceania,49.7
+16477,Palau,Male,2007,44.8 [36.8-52.6],Oceania,44.8
+16478,Palau,Female,2007,54.4 [46.5-61.8],Oceania,54.4
+16479,Palau,Both sexes,2008,50.4 [44.8-55.8],Oceania,50.4
+16480,Palau,Male,2008,45.7 [37.7-53.5],Oceania,45.7
+16481,Palau,Female,2008,55.0 [47.0-62.4],Oceania,55.0
+16482,Palau,Both sexes,2009,51.1 [45.5-56.5],Oceania,51.1
+16483,Palau,Male,2009,46.6 [38.4-54.3],Oceania,46.6
+16484,Palau,Female,2009,55.6 [47.6-62.9],Oceania,55.6
+16485,Palau,Both sexes,2010,51.8 [46.2-57.2],Oceania,51.8
+16486,Palau,Male,2010,47.4 [39.2-55.2],Oceania,47.4
+16487,Palau,Female,2010,56.1 [48.2-63.4],Oceania,56.1
+16488,Palau,Both sexes,2011,52.4 [46.8-58.0],Oceania,52.4
+16489,Palau,Male,2011,48.2 [40.0-56.1],Oceania,48.2
+16490,Palau,Female,2011,56.6 [48.6-64.1],Oceania,56.6
+16491,Palau,Both sexes,2012,53.1 [47.3-58.6],Oceania,53.1
+16492,Palau,Male,2012,49.0 [40.7-56.9],Oceania,49.0
+16493,Palau,Female,2012,57.1 [49.0-64.6],Oceania,57.1
+16494,Palau,Both sexes,2013,53.7 [47.8-59.3],Oceania,53.7
+16495,Palau,Male,2013,49.7 [41.3-57.8],Oceania,49.7
+16496,Palau,Female,2013,57.6 [49.4-65.2],Oceania,57.6
+16497,Palau,Both sexes,2014,54.2 [48.3-59.9],Oceania,54.2
+16498,Palau,Male,2014,50.4 [41.8-58.6],Oceania,50.4
+16499,Palau,Female,2014,58.0 [49.7-65.8],Oceania,58.0
+16500,Palau,Both sexes,2015,54.8 [48.8-60.5],Oceania,54.8
+16501,Palau,Male,2015,51.1 [42.3-59.4],Oceania,51.1
+16502,Palau,Female,2015,58.4 [49.9-66.4],Oceania,58.4
+16503,Palau,Both sexes,2016,55.3 [49.3-61.2],Oceania,55.3
+16504,Palau,Male,2016,51.8 [42.6-60.3],Oceania,51.8
+16505,Palau,Female,2016,58.8 [50.1-66.9],Oceania,58.8
+16632,Papua New Guinea,Both sexes,1975,5.0 [2.3-9.2],Oceania,5.0
+16633,Papua New Guinea,Male,1975,3.2 [0.8-8.2],Oceania,3.2
+16634,Papua New Guinea,Female,1975,6.9 [2.5-13.7],Oceania,6.9
+16635,Papua New Guinea,Both sexes,1976,5.3 [2.5-9.4],Oceania,5.3
+16636,Papua New Guinea,Male,1976,3.4 [0.9-8.4],Oceania,3.4
+16637,Papua New Guinea,Female,1976,7.2 [2.7-14.0],Oceania,7.2
+16638,Papua New Guinea,Both sexes,1977,5.5 [2.7-9.6],Oceania,5.5
+16639,Papua New Guinea,Male,1977,3.6 [1.0-8.5],Oceania,3.6
+16640,Papua New Guinea,Female,1977,7.5 [3.0-14.3],Oceania,7.5
+16641,Papua New Guinea,Both sexes,1978,5.8 [3.0-9.8],Oceania,5.8
+16642,Papua New Guinea,Male,1978,3.7 [1.1-8.7],Oceania,3.7
+16643,Papua New Guinea,Female,1978,7.9 [3.3-14.6],Oceania,7.9
+16644,Papua New Guinea,Both sexes,1979,6.0 [3.2-10.1],Oceania,6.0
+16645,Papua New Guinea,Male,1979,3.9 [1.2-8.9],Oceania,3.9
+16646,Papua New Guinea,Female,1979,8.2 [3.5-14.9],Oceania,8.2
+16647,Papua New Guinea,Both sexes,1980,6.3 [3.4-10.4],Oceania,6.3
+16648,Papua New Guinea,Male,1980,4.1 [1.3-9.0],Oceania,4.1
+16649,Papua New Guinea,Female,1980,8.5 [3.8-15.3],Oceania,8.5
+16650,Papua New Guinea,Both sexes,1981,6.6 [3.7-10.6],Oceania,6.6
+16651,Papua New Guinea,Male,1981,4.3 [1.4-9.2],Oceania,4.3
+16652,Papua New Guinea,Female,1981,8.9 [4.1-15.7],Oceania,8.9
+16653,Papua New Guinea,Both sexes,1982,6.9 [3.9-10.9],Oceania,6.9
+16654,Papua New Guinea,Male,1982,4.5 [1.6-9.4],Oceania,4.5
+16655,Papua New Guinea,Female,1982,9.3 [4.4-16.0],Oceania,9.3
+16656,Papua New Guinea,Both sexes,1983,7.2 [4.1-11.2],Oceania,7.2
+16657,Papua New Guinea,Male,1983,4.7 [1.7-9.7],Oceania,4.7
+16658,Papua New Guinea,Female,1983,9.6 [4.7-16.4],Oceania,9.6
+16659,Papua New Guinea,Both sexes,1984,7.5 [4.4-11.5],Oceania,7.5
+16660,Papua New Guinea,Male,1984,4.9 [1.8-9.9],Oceania,4.9
+16661,Papua New Guinea,Female,1984,10.0 [5.0-16.8],Oceania,10.0
+16662,Papua New Guinea,Both sexes,1985,7.8 [4.6-11.9],Oceania,7.8
+16663,Papua New Guinea,Male,1985,5.2 [2.0-10.2],Oceania,5.2
+16664,Papua New Guinea,Female,1985,10.4 [5.3-17.3],Oceania,10.4
+16665,Papua New Guinea,Both sexes,1986,8.1 [4.9-12.2],Oceania,8.1
+16666,Papua New Guinea,Male,1986,5.4 [2.1-10.6],Oceania,5.4
+16667,Papua New Guinea,Female,1986,10.8 [5.6-17.6],Oceania,10.8
+16668,Papua New Guinea,Both sexes,1987,8.5 [5.2-12.5],Oceania,8.5
+16669,Papua New Guinea,Male,1987,5.6 [2.3-10.8],Oceania,5.6
+16670,Papua New Guinea,Female,1987,11.3 [5.9-18.1],Oceania,11.3
+16671,Papua New Guinea,Both sexes,1988,8.8 [5.5-12.9],Oceania,8.8
+16672,Papua New Guinea,Male,1988,5.9 [2.5-11.2],Oceania,5.9
+16673,Papua New Guinea,Female,1988,11.7 [6.2-18.5],Oceania,11.7
+16674,Papua New Guinea,Both sexes,1989,9.2 [5.8-13.3],Oceania,9.2
+16675,Papua New Guinea,Male,1989,6.2 [2.7-11.5],Oceania,6.2
+16676,Papua New Guinea,Female,1989,12.1 [6.7-19.0],Oceania,12.1
+16677,Papua New Guinea,Both sexes,1990,9.6 [6.1-13.7],Oceania,9.6
+16678,Papua New Guinea,Male,1990,6.5 [2.8-11.9],Oceania,6.5
+16679,Papua New Guinea,Female,1990,12.6 [7.0-19.5],Oceania,12.6
+16680,Papua New Guinea,Both sexes,1991,9.9 [6.4-14.1],Oceania,9.9
+16681,Papua New Guinea,Male,1991,6.7 [3.0-12.2],Oceania,6.7
+16682,Papua New Guinea,Female,1991,13.0 [7.4-19.9],Oceania,13.0
+16683,Papua New Guinea,Both sexes,1992,10.3 [6.7-14.5],Oceania,10.3
+16684,Papua New Guinea,Male,1992,7.0 [3.2-12.5],Oceania,7.0
+16685,Papua New Guinea,Female,1992,13.5 [7.8-20.4],Oceania,13.5
+16686,Papua New Guinea,Both sexes,1993,10.7 [7.1-14.9],Oceania,10.7
+16687,Papua New Guinea,Male,1993,7.3 [3.4-12.9],Oceania,7.3
+16688,Papua New Guinea,Female,1993,13.9 [8.2-20.9],Oceania,13.9
+16689,Papua New Guinea,Both sexes,1994,11.0 [7.4-15.4],Oceania,11.0
+16690,Papua New Guinea,Male,1994,7.6 [3.6-13.2],Oceania,7.6
+16691,Papua New Guinea,Female,1994,14.4 [8.6-21.3],Oceania,14.4
+16692,Papua New Guinea,Both sexes,1995,11.4 [7.7-15.8],Oceania,11.4
+16693,Papua New Guinea,Male,1995,7.9 [3.9-13.6],Oceania,7.9
+16694,Papua New Guinea,Female,1995,14.8 [9.0-21.8],Oceania,14.8
+16695,Papua New Guinea,Both sexes,1996,11.8 [8.0-16.2],Oceania,11.8
+16696,Papua New Guinea,Male,1996,8.2 [4.0-13.9],Oceania,8.2
+16697,Papua New Guinea,Female,1996,15.2 [9.3-22.3],Oceania,15.2
+16698,Papua New Guinea,Both sexes,1997,12.2 [8.3-16.6],Oceania,12.2
+16699,Papua New Guinea,Male,1997,8.5 [4.2-14.3],Oceania,8.5
+16700,Papua New Guinea,Female,1997,15.7 [9.7-22.7],Oceania,15.7
+16701,Papua New Guinea,Both sexes,1998,12.5 [8.7-17.0],Oceania,12.5
+16702,Papua New Guinea,Male,1998,8.8 [4.5-14.6],Oceania,8.8
+16703,Papua New Guinea,Female,1998,16.1 [10.1-23.2],Oceania,16.1
+16704,Papua New Guinea,Both sexes,1999,12.9 [9.0-17.4],Oceania,12.9
+16705,Papua New Guinea,Male,1999,9.1 [4.7-15.0],Oceania,9.1
+16706,Papua New Guinea,Female,1999,16.6 [10.5-23.6],Oceania,16.6
+16707,Papua New Guinea,Both sexes,2000,13.3 [9.4-17.9],Oceania,13.3
+16708,Papua New Guinea,Male,2000,9.4 [4.9-15.4],Oceania,9.4
+16709,Papua New Guinea,Female,2000,17.0 [10.9-24.0],Oceania,17.0
+16710,Papua New Guinea,Both sexes,2001,13.7 [9.7-18.3],Oceania,13.7
+16711,Papua New Guinea,Male,2001,9.8 [5.2-15.8],Oceania,9.8
+16712,Papua New Guinea,Female,2001,17.5 [11.3-24.5],Oceania,17.5
+16713,Papua New Guinea,Both sexes,2002,14.1 [10.1-18.7],Oceania,14.1
+16714,Papua New Guinea,Male,2002,10.1 [5.4-16.2],Oceania,10.1
+16715,Papua New Guinea,Female,2002,18.0 [11.7-25.1],Oceania,18.0
+16716,Papua New Guinea,Both sexes,2003,14.6 [10.5-19.2],Oceania,14.6
+16717,Papua New Guinea,Male,2003,10.5 [5.7-16.6],Oceania,10.5
+16718,Papua New Guinea,Female,2003,18.5 [12.2-25.6],Oceania,18.5
+16719,Papua New Guinea,Both sexes,2004,15.0 [10.9-19.7],Oceania,15.0
+16720,Papua New Guinea,Male,2004,10.9 [5.9-17.1],Oceania,10.9
+16721,Papua New Guinea,Female,2004,19.0 [12.6-26.0],Oceania,19.0
+16722,Papua New Guinea,Both sexes,2005,15.5 [11.3-20.2],Oceania,15.5
+16723,Papua New Guinea,Male,2005,11.3 [6.2-17.7],Oceania,11.3
+16724,Papua New Guinea,Female,2005,19.5 [13.1-26.6],Oceania,19.5
+16725,Papua New Guinea,Both sexes,2006,15.9 [11.7-20.7],Oceania,15.9
+16726,Papua New Guinea,Male,2006,11.7 [6.6-18.2],Oceania,11.7
+16727,Papua New Guinea,Female,2006,20.0 [13.5-27.2],Oceania,20.0
+16728,Papua New Guinea,Both sexes,2007,16.4 [12.1-21.2],Oceania,16.4
+16729,Papua New Guinea,Male,2007,12.1 [6.8-18.6],Oceania,12.1
+16730,Papua New Guinea,Female,2007,20.5 [14.0-27.8],Oceania,20.5
+16731,Papua New Guinea,Both sexes,2008,16.9 [12.5-21.9],Oceania,16.9
+16732,Papua New Guinea,Male,2008,12.5 [7.2-19.2],Oceania,12.5
+16733,Papua New Guinea,Female,2008,21.1 [14.3-28.4],Oceania,21.1
+16734,Papua New Guinea,Both sexes,2009,17.4 [12.8-22.5],Oceania,17.4
+16735,Papua New Guinea,Male,2009,13.0 [7.5-19.7],Oceania,13.0
+16736,Papua New Guinea,Female,2009,21.6 [14.8-29.0],Oceania,21.6
+16737,Papua New Guinea,Both sexes,2010,17.9 [13.2-23.1],Oceania,17.9
+16738,Papua New Guinea,Male,2010,13.4 [7.7-20.4],Oceania,13.4
+16739,Papua New Guinea,Female,2010,22.2 [15.2-29.7],Oceania,22.2
+16740,Papua New Guinea,Both sexes,2011,18.5 [13.6-23.8],Oceania,18.5
+16741,Papua New Guinea,Male,2011,13.9 [8.1-21.1],Oceania,13.9
+16742,Papua New Guinea,Female,2011,22.8 [15.7-30.4],Oceania,22.8
+16743,Papua New Guinea,Both sexes,2012,19.0 [14.1-24.5],Oceania,19.0
+16744,Papua New Guinea,Male,2012,14.4 [8.4-21.7],Oceania,14.4
+16745,Papua New Guinea,Female,2012,23.4 [16.1-31.2],Oceania,23.4
+16746,Papua New Guinea,Both sexes,2013,19.6 [14.4-25.1],Oceania,19.6
+16747,Papua New Guinea,Male,2013,15.0 [8.6-22.4],Oceania,15.0
+16748,Papua New Guinea,Female,2013,23.9 [16.5-31.9],Oceania,23.9
+16749,Papua New Guinea,Both sexes,2014,20.1 [14.8-25.8],Oceania,20.1
+16750,Papua New Guinea,Male,2014,15.5 [8.9-23.3],Oceania,15.5
+16751,Papua New Guinea,Female,2014,24.5 [16.8-32.8],Oceania,24.5
+16752,Papua New Guinea,Both sexes,2015,20.7 [15.2-26.7],Oceania,20.7
+16753,Papua New Guinea,Male,2015,16.0 [9.2-24.3],Oceania,16.0
+16754,Papua New Guinea,Female,2015,25.1 [17.2-33.7],Oceania,25.1
+16755,Papua New Guinea,Both sexes,2016,21.3 [15.6-27.5],Oceania,21.3
+16756,Papua New Guinea,Male,2016,16.6 [9.5-25.2],Oceania,16.6
+16757,Papua New Guinea,Female,2016,25.8 [17.5-34.6],Oceania,25.8
+18648,Samoa,Both sexes,1975,20.2 [14.2-27.0],Oceania,20.2
+18649,Samoa,Male,1975,13.1 [6.5-22.1],Oceania,13.1
+18650,Samoa,Female,1975,27.1 [17.4-38.1],Oceania,27.1
+18651,Samoa,Both sexes,1976,20.8 [14.9-27.4],Oceania,20.8
+18652,Samoa,Male,1976,13.5 [7.0-22.3],Oceania,13.5
+18653,Samoa,Female,1976,27.9 [18.4-38.4],Oceania,27.9
+18654,Samoa,Both sexes,1977,21.5 [15.6-27.9],Oceania,21.5
+18655,Samoa,Male,1977,14.0 [7.4-22.6],Oceania,14.0
+18656,Samoa,Female,1977,28.6 [19.3-38.8],Oceania,28.6
+18657,Samoa,Both sexes,1978,22.1 [16.3-28.4],Oceania,22.1
+18658,Samoa,Male,1978,14.4 [8.0-22.9],Oceania,14.4
+18659,Samoa,Female,1978,29.3 [20.2-39.2],Oceania,29.3
+18660,Samoa,Both sexes,1979,22.7 [17.0-28.9],Oceania,22.7
+18661,Samoa,Male,1979,14.9 [8.6-23.1],Oceania,14.9
+18662,Samoa,Female,1979,30.0 [21.1-39.8],Oceania,30.0
+18663,Samoa,Both sexes,1980,23.3 [17.7-29.4],Oceania,23.3
+18664,Samoa,Male,1980,15.4 [9.1-23.4],Oceania,15.4
+18665,Samoa,Female,1980,30.8 [22.0-40.2],Oceania,30.8
+18666,Samoa,Both sexes,1981,23.9 [18.4-29.9],Oceania,23.9
+18667,Samoa,Male,1981,15.9 [9.6-23.8],Oceania,15.9
+18668,Samoa,Female,1981,31.5 [23.0-40.7],Oceania,31.5
+18669,Samoa,Both sexes,1982,24.5 [19.1-30.4],Oceania,24.5
+18670,Samoa,Male,1982,16.5 [10.1-24.3],Oceania,16.5
+18671,Samoa,Female,1982,32.2 [23.9-41.3],Oceania,32.2
+18672,Samoa,Both sexes,1983,25.1 [19.8-31.0],Oceania,25.1
+18673,Samoa,Male,1983,17.0 [10.7-24.8],Oceania,17.0
+18674,Samoa,Female,1983,33.0 [24.8-41.9],Oceania,33.0
+18675,Samoa,Both sexes,1984,25.8 [20.5-31.5],Oceania,25.8
+18676,Samoa,Male,1984,17.6 [11.2-25.2],Oceania,17.6
+18677,Samoa,Female,1984,33.7 [25.6-42.6],Oceania,33.7
+18678,Samoa,Both sexes,1985,26.4 [21.1-32.1],Oceania,26.4
+18679,Samoa,Male,1985,18.1 [11.8-25.7],Oceania,18.1
+18680,Samoa,Female,1985,34.5 [26.5-43.2],Oceania,34.5
+18681,Samoa,Both sexes,1986,27.1 [21.8-32.7],Oceania,27.1
+18682,Samoa,Male,1986,18.7 [12.4-26.2],Oceania,18.7
+18683,Samoa,Female,1986,35.2 [27.3-43.8],Oceania,35.2
+18684,Samoa,Both sexes,1987,27.8 [22.5-33.4],Oceania,27.8
+18685,Samoa,Male,1987,19.3 [13.0-26.8],Oceania,19.3
+18686,Samoa,Female,1987,36.0 [28.1-44.4],Oceania,36.0
+18687,Samoa,Both sexes,1988,28.5 [23.2-34.0],Oceania,28.5
+18688,Samoa,Male,1988,20.0 [13.5-27.4],Oceania,20.0
+18689,Samoa,Female,1988,36.7 [29.0-45.2],Oceania,36.7
+18690,Samoa,Both sexes,1989,29.1 [23.9-34.7],Oceania,29.1
+18691,Samoa,Male,1989,20.6 [14.1-28.1],Oceania,20.6
+18692,Samoa,Female,1989,37.5 [29.8-45.7],Oceania,37.5
+18693,Samoa,Both sexes,1990,29.8 [24.7-35.4],Oceania,29.8
+18694,Samoa,Male,1990,21.2 [14.7-28.7],Oceania,21.2
+18695,Samoa,Female,1990,38.2 [30.6-46.3],Oceania,38.2
+18696,Samoa,Both sexes,1991,30.5 [25.4-36.1],Oceania,30.5
+18697,Samoa,Male,1991,21.9 [15.4-29.3],Oceania,21.9
+18698,Samoa,Female,1991,38.9 [31.5-47.0],Oceania,38.9
+18699,Samoa,Both sexes,1992,31.2 [26.1-36.7],Oceania,31.2
+18700,Samoa,Male,1992,22.6 [16.0-29.9],Oceania,22.6
+18701,Samoa,Female,1992,39.7 [32.4-47.5],Oceania,39.7
+18702,Samoa,Both sexes,1993,31.9 [26.9-37.4],Oceania,31.9
+18703,Samoa,Male,1993,23.2 [16.7-30.6],Oceania,23.2
+18704,Samoa,Female,1993,40.4 [33.1-48.2],Oceania,40.4
+18705,Samoa,Both sexes,1994,32.6 [27.6-38.1],Oceania,32.6
+18706,Samoa,Male,1994,23.9 [17.4-31.3],Oceania,23.9
+18707,Samoa,Female,1994,41.1 [33.9-48.8],Oceania,41.1
+18708,Samoa,Both sexes,1995,33.3 [28.3-38.7],Oceania,33.3
+18709,Samoa,Male,1995,24.6 [18.1-31.9],Oceania,24.6
+18710,Samoa,Female,1995,41.9 [34.6-49.5],Oceania,41.9
+18711,Samoa,Both sexes,1996,34.0 [29.0-39.3],Oceania,34.0
+18712,Samoa,Male,1996,25.4 [18.8-32.7],Oceania,25.4
+18713,Samoa,Female,1996,42.6 [35.5-50.1],Oceania,42.6
+18714,Samoa,Both sexes,1997,34.7 [29.6-39.9],Oceania,34.7
+18715,Samoa,Male,1997,26.1 [19.4-33.3],Oceania,26.1
+18716,Samoa,Female,1997,43.3 [36.3-50.7],Oceania,43.3
+18717,Samoa,Both sexes,1998,35.3 [30.3-40.5],Oceania,35.3
+18718,Samoa,Male,1998,26.8 [20.1-34.1],Oceania,26.8
+18719,Samoa,Female,1998,44.0 [37.0-51.2],Oceania,44.0
+18720,Samoa,Both sexes,1999,36.0 [31.1-41.2],Oceania,36.0
+18721,Samoa,Male,1999,27.6 [20.9-34.7],Oceania,27.6
+18722,Samoa,Female,1999,44.8 [37.8-51.9],Oceania,44.8
+18723,Samoa,Both sexes,2000,36.7 [31.8-41.8],Oceania,36.7
+18724,Samoa,Male,2000,28.3 [21.6-35.5],Oceania,28.3
+18725,Samoa,Female,2000,45.5 [38.6-52.5],Oceania,45.5
+18726,Samoa,Both sexes,2001,37.4 [32.6-42.4],Oceania,37.4
+18727,Samoa,Male,2001,29.1 [22.4-36.1],Oceania,29.1
+18728,Samoa,Female,2001,46.1 [39.4-53.1],Oceania,46.1
+18729,Samoa,Both sexes,2002,38.1 [33.3-43.1],Oceania,38.1
+18730,Samoa,Male,2002,29.8 [23.2-37.0],Oceania,29.8
+18731,Samoa,Female,2002,46.8 [40.1-53.7],Oceania,46.8
+18732,Samoa,Both sexes,2003,38.8 [34.0-43.8],Oceania,38.8
+18733,Samoa,Male,2003,30.5 [23.9-37.7],Oceania,30.5
+18734,Samoa,Female,2003,47.5 [40.8-54.3],Oceania,47.5
+18735,Samoa,Both sexes,2004,39.5 [34.7-44.5],Oceania,39.5
+18736,Samoa,Male,2004,31.3 [24.5-38.5],Oceania,31.3
+18737,Samoa,Female,2004,48.1 [41.6-54.8],Oceania,48.1
+18738,Samoa,Both sexes,2005,40.2 [35.4-45.2],Oceania,40.2
+18739,Samoa,Male,2005,32.0 [25.3-39.2],Oceania,32.0
+18740,Samoa,Female,2005,48.7 [42.2-55.3],Oceania,48.7
+18741,Samoa,Both sexes,2006,40.8 [36.0-45.8],Oceania,40.8
+18742,Samoa,Male,2006,32.7 [25.9-40.0],Oceania,32.7
+18743,Samoa,Female,2006,49.3 [42.8-56.0],Oceania,49.3
+18744,Samoa,Both sexes,2007,41.5 [36.7-46.5],Oceania,41.5
+18745,Samoa,Male,2007,33.4 [26.7-40.7],Oceania,33.4
+18746,Samoa,Female,2007,49.9 [43.4-56.6],Oceania,49.9
+18747,Samoa,Both sexes,2008,42.2 [37.3-47.2],Oceania,42.2
+18748,Samoa,Male,2008,34.1 [27.2-41.5],Oceania,34.1
+18749,Samoa,Female,2008,50.5 [43.8-57.2],Oceania,50.5
+18750,Samoa,Both sexes,2009,42.8 [37.9-47.8],Oceania,42.8
+18751,Samoa,Male,2009,34.8 [27.9-42.4],Oceania,34.8
+18752,Samoa,Female,2009,51.1 [44.3-57.8],Oceania,51.1
+18753,Samoa,Both sexes,2010,43.4 [38.5-48.5],Oceania,43.4
+18754,Samoa,Male,2010,35.5 [28.5-43.2],Oceania,35.5
+18755,Samoa,Female,2010,51.7 [44.8-58.5],Oceania,51.7
+18756,Samoa,Both sexes,2011,44.1 [39.0-49.3],Oceania,44.1
+18757,Samoa,Male,2011,36.3 [28.9-44.1],Oceania,36.3
+18758,Samoa,Female,2011,52.2 [45.3-59.0],Oceania,52.2
+18759,Samoa,Both sexes,2012,44.7 [39.6-50.1],Oceania,44.7
+18760,Samoa,Male,2012,37.0 [29.5-44.9],Oceania,37.0
+18761,Samoa,Female,2012,52.8 [45.7-59.7],Oceania,52.8
+18762,Samoa,Both sexes,2013,45.4 [40.1-50.9],Oceania,45.4
+18763,Samoa,Male,2013,37.7 [30.0-45.9],Oceania,37.7
+18764,Samoa,Female,2013,53.4 [46.1-60.5],Oceania,53.4
+18765,Samoa,Both sexes,2014,46.0 [40.6-51.7],Oceania,46.0
+18766,Samoa,Male,2014,38.5 [30.4-46.8],Oceania,38.5
+18767,Samoa,Female,2014,53.9 [46.4-61.1],Oceania,53.9
+18768,Samoa,Both sexes,2015,46.7 [41.1-52.5],Oceania,46.7
+18769,Samoa,Male,2015,39.2 [30.9-47.9],Oceania,39.2
+18770,Samoa,Female,2015,54.5 [46.9-61.9],Oceania,54.5
+18771,Samoa,Both sexes,2016,47.3 [41.5-53.4],Oceania,47.3
+18772,Samoa,Male,2016,39.9 [31.3-49.0],Oceania,39.9
+18773,Samoa,Female,2016,55.0 [47.1-62.6],Oceania,55.0
+20034,Solomon Islands,Both sexes,1975,4.8 [2.2-8.7],Oceania,4.8
+20035,Solomon Islands,Male,1975,3.0 [0.8-7.5],Oceania,3.0
+20036,Solomon Islands,Female,1975,7.0 [2.5-14.0],Oceania,7.0
+20037,Solomon Islands,Both sexes,1976,5.0 [2.4-8.8],Oceania,5.0
+20038,Solomon Islands,Male,1976,3.1 [0.9-7.7],Oceania,3.1
+20039,Solomon Islands,Female,1976,7.2 [2.7-14.2],Oceania,7.2
+20040,Solomon Islands,Both sexes,1977,5.2 [2.5-9.0],Oceania,5.2
+20041,Solomon Islands,Male,1977,3.3 [0.9-7.8],Oceania,3.3
+20042,Solomon Islands,Female,1977,7.5 [2.9-14.4],Oceania,7.5
+20043,Solomon Islands,Both sexes,1978,5.4 [2.7-9.2],Oceania,5.4
+20044,Solomon Islands,Male,1978,3.4 [1.0-7.9],Oceania,3.4
+20045,Solomon Islands,Female,1978,7.8 [3.2-14.7],Oceania,7.8
+20046,Solomon Islands,Both sexes,1979,5.7 [2.9-9.4],Oceania,5.7
+20047,Solomon Islands,Male,1979,3.6 [1.1-8.0],Oceania,3.6
+20048,Solomon Islands,Female,1979,8.2 [3.4-15.1],Oceania,8.2
+20049,Solomon Islands,Both sexes,1980,5.9 [3.2-9.7],Oceania,5.9
+20050,Solomon Islands,Male,1980,3.7 [1.2-8.2],Oceania,3.7
+20051,Solomon Islands,Female,1980,8.5 [3.7-15.3],Oceania,8.5
+20052,Solomon Islands,Both sexes,1981,6.2 [3.4-10.0],Oceania,6.2
+20053,Solomon Islands,Male,1981,3.9 [1.4-8.4],Oceania,3.9
+20054,Solomon Islands,Female,1981,8.9 [4.0-15.7],Oceania,8.9
+20055,Solomon Islands,Both sexes,1982,6.5 [3.6-10.3],Oceania,6.5
+20056,Solomon Islands,Male,1982,4.1 [1.5-8.7],Oceania,4.1
+20057,Solomon Islands,Female,1982,9.2 [4.3-16.0],Oceania,9.2
+20058,Solomon Islands,Both sexes,1983,6.8 [3.9-10.7],Oceania,6.8
+20059,Solomon Islands,Male,1983,4.3 [1.6-8.9],Oceania,4.3
+20060,Solomon Islands,Female,1983,9.6 [4.6-16.4],Oceania,9.6
+20061,Solomon Islands,Both sexes,1984,7.1 [4.2-11.0],Oceania,7.1
+20062,Solomon Islands,Male,1984,4.5 [1.8-9.2],Oceania,4.5
+20063,Solomon Islands,Female,1984,10.0 [5.0-16.8],Oceania,10.0
+20064,Solomon Islands,Both sexes,1985,7.5 [4.4-11.4],Oceania,7.5
+20065,Solomon Islands,Male,1985,4.8 [1.9-9.5],Oceania,4.8
+20066,Solomon Islands,Female,1985,10.5 [5.4-17.2],Oceania,10.5
+20067,Solomon Islands,Both sexes,1986,7.8 [4.8-11.8],Oceania,7.8
+20068,Solomon Islands,Male,1986,5.0 [2.1-9.8],Oceania,5.0
+20069,Solomon Islands,Female,1986,10.9 [5.7-17.6],Oceania,10.9
+20070,Solomon Islands,Both sexes,1987,8.2 [5.1-12.1],Oceania,8.2
+20071,Solomon Islands,Male,1987,5.3 [2.2-10.1],Oceania,5.3
+20072,Solomon Islands,Female,1987,11.3 [6.1-18.2],Oceania,11.3
+20073,Solomon Islands,Both sexes,1988,8.5 [5.3-12.5],Oceania,8.5
+20074,Solomon Islands,Male,1988,5.5 [2.4-10.4],Oceania,5.5
+20075,Solomon Islands,Female,1988,11.8 [6.5-18.6],Oceania,11.8
+20076,Solomon Islands,Both sexes,1989,8.9 [5.7-12.9],Oceania,8.9
+20077,Solomon Islands,Male,1989,5.8 [2.5-10.8],Oceania,5.8
+20078,Solomon Islands,Female,1989,12.3 [6.9-19.1],Oceania,12.3
+20079,Solomon Islands,Both sexes,1990,9.3 [6.0-13.3],Oceania,9.3
+20080,Solomon Islands,Male,1990,6.1 [2.7-11.1],Oceania,6.1
+20081,Solomon Islands,Female,1990,12.7 [7.3-19.6],Oceania,12.7
+20082,Solomon Islands,Both sexes,1991,9.7 [6.3-13.7],Oceania,9.7
+20083,Solomon Islands,Male,1991,6.4 [2.9-11.4],Oceania,6.4
+20084,Solomon Islands,Female,1991,13.2 [7.7-20.1],Oceania,13.2
+20085,Solomon Islands,Both sexes,1992,10.1 [6.7-14.1],Oceania,10.1
+20086,Solomon Islands,Male,1992,6.7 [3.1-11.8],Oceania,6.7
+20087,Solomon Islands,Female,1992,13.7 [8.1-20.5],Oceania,13.7
+20088,Solomon Islands,Both sexes,1993,10.5 [7.1-14.5],Oceania,10.5
+20089,Solomon Islands,Male,1993,7.0 [3.3-12.2],Oceania,7.0
+20090,Solomon Islands,Female,1993,14.1 [8.5-20.9],Oceania,14.1
+20091,Solomon Islands,Both sexes,1994,10.9 [7.4-15.0],Oceania,10.9
+20092,Solomon Islands,Male,1994,7.3 [3.6-12.6],Oceania,7.3
+20093,Solomon Islands,Female,1994,14.6 [9.0-21.4],Oceania,14.6
+20094,Solomon Islands,Both sexes,1995,11.3 [7.8-15.4],Oceania,11.3
+20095,Solomon Islands,Male,1995,7.6 [3.8-12.9],Oceania,7.6
+20096,Solomon Islands,Female,1995,15.1 [9.4-21.9],Oceania,15.1
+20097,Solomon Islands,Both sexes,1996,11.7 [8.2-15.8],Oceania,11.7
+20098,Solomon Islands,Male,1996,8.0 [4.0-13.3],Oceania,8.0
+20099,Solomon Islands,Female,1996,15.6 [9.9-22.4],Oceania,15.6
+20100,Solomon Islands,Both sexes,1997,12.2 [8.6-16.3],Oceania,12.2
+20101,Solomon Islands,Male,1997,8.3 [4.3-13.7],Oceania,8.3
+20102,Solomon Islands,Female,1997,16.1 [10.4-22.9],Oceania,16.1
+20103,Solomon Islands,Both sexes,1998,12.6 [9.0-16.8],Oceania,12.6
+20104,Solomon Islands,Male,1998,8.7 [4.6-14.1],Oceania,8.7
+20105,Solomon Islands,Female,1998,16.6 [10.9-23.3],Oceania,16.6
+20106,Solomon Islands,Both sexes,1999,13.1 [9.4-17.2],Oceania,13.1
+20107,Solomon Islands,Male,1999,9.0 [4.9-14.5],Oceania,9.0
+20108,Solomon Islands,Female,1999,17.1 [11.4-23.8],Oceania,17.1
+20109,Solomon Islands,Both sexes,2000,13.5 [9.8-17.6],Oceania,13.5
+20110,Solomon Islands,Male,2000,9.4 [5.2-14.9],Oceania,9.4
+20111,Solomon Islands,Female,2000,17.7 [12.0-24.3],Oceania,17.7
+20112,Solomon Islands,Both sexes,2001,14.0 [10.2-18.1],Oceania,14.0
+20113,Solomon Islands,Male,2001,9.8 [5.5-15.3],Oceania,9.8
+20114,Solomon Islands,Female,2001,18.2 [12.5-24.8],Oceania,18.2
+20115,Solomon Islands,Both sexes,2002,14.4 [10.7-18.7],Oceania,14.4
+20116,Solomon Islands,Male,2002,10.2 [5.9-15.8],Oceania,10.2
+20117,Solomon Islands,Female,2002,18.7 [13.0-25.4],Oceania,18.7
+20118,Solomon Islands,Both sexes,2003,14.9 [11.2-19.2],Oceania,14.9
+20119,Solomon Islands,Male,2003,10.7 [6.3-16.3],Oceania,10.7
+20120,Solomon Islands,Female,2003,19.3 [13.5-25.9],Oceania,19.3
+20121,Solomon Islands,Both sexes,2004,15.4 [11.6-19.8],Oceania,15.4
+20122,Solomon Islands,Male,2004,11.1 [6.7-16.8],Oceania,11.1
+20123,Solomon Islands,Female,2004,19.8 [14.1-26.4],Oceania,19.8
+20124,Solomon Islands,Both sexes,2005,15.9 [12.1-20.3],Oceania,15.9
+20125,Solomon Islands,Male,2005,11.6 [7.0-17.3],Oceania,11.6
+20126,Solomon Islands,Female,2005,20.4 [14.6-26.9],Oceania,20.4
+20127,Solomon Islands,Both sexes,2006,16.5 [12.6-20.9],Oceania,16.5
+20128,Solomon Islands,Male,2006,12.1 [7.4-17.8],Oceania,12.1
+20129,Solomon Islands,Female,2006,21.0 [15.1-27.5],Oceania,21.0
+20130,Solomon Islands,Both sexes,2007,17.0 [13.1-21.5],Oceania,17.0
+20131,Solomon Islands,Male,2007,12.6 [7.8-18.4],Oceania,12.6
+20132,Solomon Islands,Female,2007,21.6 [15.6-28.1],Oceania,21.6
+20133,Solomon Islands,Both sexes,2008,17.6 [13.6-22.1],Oceania,17.6
+20134,Solomon Islands,Male,2008,13.1 [8.2-19.1],Oceania,13.1
+20135,Solomon Islands,Female,2008,22.2 [16.1-28.8],Oceania,22.2
+20136,Solomon Islands,Both sexes,2009,18.1 [14.1-22.8],Oceania,18.1
+20137,Solomon Islands,Male,2009,13.6 [8.6-19.7],Oceania,13.6
+20138,Solomon Islands,Female,2009,22.8 [16.6-29.3],Oceania,22.8
+20139,Solomon Islands,Both sexes,2010,18.7 [14.5-23.4],Oceania,18.7
+20140,Solomon Islands,Male,2010,14.2 [9.1-20.4],Oceania,14.2
+20141,Solomon Islands,Female,2010,23.4 [17.1-30.0],Oceania,23.4
+20142,Solomon Islands,Both sexes,2011,19.3 [15.0-24.1],Oceania,19.3
+20143,Solomon Islands,Male,2011,14.8 [9.5-21.2],Oceania,14.8
+20144,Solomon Islands,Female,2011,24.0 [17.6-30.8],Oceania,24.0
+20145,Solomon Islands,Both sexes,2012,19.9 [15.6-24.7],Oceania,19.9
+20146,Solomon Islands,Male,2012,15.4 [9.9-22.0],Oceania,15.4
+20147,Solomon Islands,Female,2012,24.6 [18.1-31.5],Oceania,24.6
+20148,Solomon Islands,Both sexes,2013,20.6 [16.1-25.5],Oceania,20.6
+20149,Solomon Islands,Male,2013,16.0 [10.2-22.8],Oceania,16.0
+20150,Solomon Islands,Female,2013,25.2 [18.5-32.3],Oceania,25.2
+20151,Solomon Islands,Both sexes,2014,21.2 [16.6-26.3],Oceania,21.2
+20152,Solomon Islands,Male,2014,16.6 [10.6-23.6],Oceania,16.6
+20153,Solomon Islands,Female,2014,25.8 [19.0-33.2],Oceania,25.8
+20154,Solomon Islands,Both sexes,2015,21.9 [17.0-27.1],Oceania,21.9
+20155,Solomon Islands,Male,2015,17.3 [11.1-24.6],Oceania,17.3
+20156,Solomon Islands,Female,2015,26.5 [19.4-34.3],Oceania,26.5
+20157,Solomon Islands,Both sexes,2016,22.5 [17.5-27.9],Oceania,22.5
+20158,Solomon Islands,Male,2016,17.9 [11.5-25.5],Oceania,17.9
+20159,Solomon Islands,Female,2016,27.1 [19.8-35.2],Oceania,27.1
+22050,Tonga,Both sexes,1975,19.9 [13.3-27.2],Oceania,19.9
+22051,Tonga,Male,1975,13.4 [6.4-23.3],Oceania,13.4
+22052,Tonga,Female,1975,26.5 [16.1-38.6],Oceania,26.5
+22053,Tonga,Both sexes,1976,20.4 [14.0-27.6],Oceania,20.4
+22054,Tonga,Male,1976,13.8 [6.9-23.5],Oceania,13.8
+22055,Tonga,Female,1976,27.1 [17.1-38.9],Oceania,27.1
+22056,Tonga,Both sexes,1977,21.0 [14.6-28.0],Oceania,21.0
+22057,Tonga,Male,1977,14.3 [7.3-23.8],Oceania,14.3
+22058,Tonga,Female,1977,27.8 [18.0-39.2],Oceania,27.8
+22059,Tonga,Both sexes,1978,21.6 [15.3-28.5],Oceania,21.6
+22060,Tonga,Male,1978,14.7 [7.8-24.1],Oceania,14.7
+22061,Tonga,Female,1978,28.5 [18.9-39.6],Oceania,28.5
+22062,Tonga,Both sexes,1979,22.2 [16.0-29.0],Oceania,22.2
+22063,Tonga,Male,1979,15.2 [8.3-24.5],Oceania,15.2
+22064,Tonga,Female,1979,29.3 [19.8-40.0],Oceania,29.3
+22065,Tonga,Both sexes,1980,22.9 [16.8-29.4],Oceania,22.9
+22066,Tonga,Male,1980,15.7 [8.8-24.9],Oceania,15.7
+22067,Tonga,Female,1980,30.0 [20.6-40.5],Oceania,30.0
+22068,Tonga,Both sexes,1981,23.6 [17.6-30.1],Oceania,23.6
+22069,Tonga,Male,1981,16.3 [9.4-25.3],Oceania,16.3
+22070,Tonga,Female,1981,30.7 [21.5-41.0],Oceania,30.7
+22071,Tonga,Both sexes,1982,24.3 [18.2-30.7],Oceania,24.3
+22072,Tonga,Male,1982,16.9 [9.9-25.8],Oceania,16.9
+22073,Tonga,Female,1982,31.5 [22.4-41.5],Oceania,31.5
+22074,Tonga,Both sexes,1983,25.0 [19.0-31.3],Oceania,25.0
+22075,Tonga,Male,1983,17.4 [10.5-26.3],Oceania,17.4
+22076,Tonga,Female,1983,32.3 [23.3-42.1],Oceania,32.3
+22077,Tonga,Both sexes,1984,25.8 [19.8-32.0],Oceania,25.8
+22078,Tonga,Male,1984,18.0 [11.1-26.8],Oceania,18.0
+22079,Tonga,Female,1984,33.0 [24.1-42.8],Oceania,33.0
+22080,Tonga,Both sexes,1985,26.5 [20.6-32.7],Oceania,26.5
+22081,Tonga,Male,1985,18.7 [11.7-27.4],Oceania,18.7
+22082,Tonga,Female,1985,33.8 [25.0-43.4],Oceania,33.8
+22083,Tonga,Both sexes,1986,27.2 [21.4-33.4],Oceania,27.2
+22084,Tonga,Male,1986,19.3 [12.3-27.9],Oceania,19.3
+22085,Tonga,Female,1986,34.6 [25.8-43.9],Oceania,34.6
+22086,Tonga,Both sexes,1987,28.0 [22.1-34.1],Oceania,28.0
+22087,Tonga,Male,1987,20.0 [12.9-28.5],Oceania,20.0
+22088,Tonga,Female,1987,35.4 [26.7-44.6],Oceania,35.4
+22089,Tonga,Both sexes,1988,28.7 [22.9-34.7],Oceania,28.7
+22090,Tonga,Male,1988,20.6 [13.5-29.1],Oceania,20.6
+22091,Tonga,Female,1988,36.1 [27.6-45.2],Oceania,36.1
+22092,Tonga,Both sexes,1989,29.3 [23.6-35.4],Oceania,29.3
+22093,Tonga,Male,1989,21.3 [14.1-29.8],Oceania,21.3
+22094,Tonga,Female,1989,36.9 [28.4-45.9],Oceania,36.9
+22095,Tonga,Both sexes,1990,30.0 [24.4-36.0],Oceania,30.0
+22096,Tonga,Male,1990,21.9 [14.7-30.3],Oceania,21.9
+22097,Tonga,Female,1990,37.6 [29.3-46.6],Oceania,37.6
+22098,Tonga,Both sexes,1991,30.7 [25.1-36.6],Oceania,30.7
+22099,Tonga,Male,1991,22.6 [15.4-30.9],Oceania,22.6
+22100,Tonga,Female,1991,38.4 [30.1-47.2],Oceania,38.4
+22101,Tonga,Both sexes,1992,31.5 [25.9-37.3],Oceania,31.5
+22102,Tonga,Male,1992,23.3 [16.0-31.6],Oceania,23.3
+22103,Tonga,Female,1992,39.1 [30.9-47.8],Oceania,39.1
+22104,Tonga,Both sexes,1993,32.2 [26.6-37.9],Oceania,32.2
+22105,Tonga,Male,1993,24.0 [16.7-32.2],Oceania,24.0
+22106,Tonga,Female,1993,39.8 [31.6-48.4],Oceania,39.8
+22107,Tonga,Both sexes,1994,32.9 [27.4-38.6],Oceania,32.9
+22108,Tonga,Male,1994,24.7 [17.3-32.8],Oceania,24.7
+22109,Tonga,Female,1994,40.5 [32.5-49.1],Oceania,40.5
+22110,Tonga,Both sexes,1995,33.6 [28.1-39.3],Oceania,33.6
+22111,Tonga,Male,1995,25.4 [18.0-33.4],Oceania,25.4
+22112,Tonga,Female,1995,41.2 [33.2-49.7],Oceania,41.2
+22113,Tonga,Both sexes,1996,34.2 [28.9-39.9],Oceania,34.2
+22114,Tonga,Male,1996,26.1 [18.8-34.0],Oceania,26.1
+22115,Tonga,Female,1996,41.9 [34.0-50.2],Oceania,41.9
+22116,Tonga,Both sexes,1997,34.9 [29.6-40.5],Oceania,34.9
+22117,Tonga,Male,1997,26.8 [19.5-34.6],Oceania,26.8
+22118,Tonga,Female,1997,42.6 [34.8-50.7],Oceania,42.6
+22119,Tonga,Both sexes,1998,35.6 [30.3-41.1],Oceania,35.6
+22120,Tonga,Male,1998,27.5 [20.2-35.3],Oceania,27.5
+22121,Tonga,Female,1998,43.3 [35.5-51.2],Oceania,43.3
+22122,Tonga,Both sexes,1999,36.3 [31.1-41.7],Oceania,36.3
+22123,Tonga,Male,1999,28.2 [20.9-36.0],Oceania,28.2
+22124,Tonga,Female,1999,44.0 [36.3-51.8],Oceania,44.0
+22125,Tonga,Both sexes,2000,37.0 [31.8-42.3],Oceania,37.0
+22126,Tonga,Male,2000,29.0 [21.7-36.7],Oceania,29.0
+22127,Tonga,Female,2000,44.7 [37.0-52.3],Oceania,44.7
+22128,Tonga,Both sexes,2001,37.7 [32.5-43.0],Oceania,37.7
+22129,Tonga,Male,2001,29.7 [22.5-37.4],Oceania,29.7
+22130,Tonga,Female,2001,45.3 [37.7-52.7],Oceania,45.3
+22131,Tonga,Both sexes,2002,38.4 [33.3-43.6],Oceania,38.4
+22132,Tonga,Male,2002,30.4 [23.2-38.2],Oceania,30.4
+22133,Tonga,Female,2002,46.0 [38.5-53.3],Oceania,46.0
+22134,Tonga,Both sexes,2003,39.1 [34.0-44.3],Oceania,39.1
+22135,Tonga,Male,2003,31.2 [23.9-38.9],Oceania,31.2
+22136,Tonga,Female,2003,46.6 [39.3-53.9],Oceania,46.6
+22137,Tonga,Both sexes,2004,39.9 [34.8-45.0],Oceania,39.9
+22138,Tonga,Male,2004,32.0 [24.6-39.7],Oceania,32.0
+22139,Tonga,Female,2004,47.3 [40.0-54.5],Oceania,47.3
+22140,Tonga,Both sexes,2005,40.6 [35.5-45.7],Oceania,40.6
+22141,Tonga,Male,2005,32.7 [25.4-40.4],Oceania,32.7
+22142,Tonga,Female,2005,47.9 [40.7-55.1],Oceania,47.9
+22143,Tonga,Both sexes,2006,41.3 [36.1-46.4],Oceania,41.3
+22144,Tonga,Male,2006,33.5 [26.0-41.2],Oceania,33.5
+22145,Tonga,Female,2006,48.5 [41.3-55.7],Oceania,48.5
+22146,Tonga,Both sexes,2007,42.0 [36.7-47.1],Oceania,42.0
+22147,Tonga,Male,2007,34.3 [26.8-41.9],Oceania,34.3
+22148,Tonga,Female,2007,49.2 [41.9-56.3],Oceania,49.2
+22149,Tonga,Both sexes,2008,42.7 [37.3-47.8],Oceania,42.7
+22150,Tonga,Male,2008,35.0 [27.6-42.8],Oceania,35.0
+22151,Tonga,Female,2008,49.8 [42.6-56.8],Oceania,49.8
+22152,Tonga,Both sexes,2009,43.4 [37.9-48.5],Oceania,43.4
+22153,Tonga,Male,2009,35.8 [28.3-43.7],Oceania,35.8
+22154,Tonga,Female,2009,50.4 [43.1-57.5],Oceania,50.4
+22155,Tonga,Both sexes,2010,44.1 [38.5-49.2],Oceania,44.1
+22156,Tonga,Male,2010,36.6 [28.9-44.5],Oceania,36.6
+22157,Tonga,Female,2010,51.0 [43.7-58.2],Oceania,51.0
+22158,Tonga,Both sexes,2011,44.7 [39.1-50.0],Oceania,44.7
+22159,Tonga,Male,2011,37.4 [29.6-45.3],Oceania,37.4
+22160,Tonga,Female,2011,51.6 [44.2-58.7],Oceania,51.6
+22161,Tonga,Both sexes,2012,45.4 [39.8-50.8],Oceania,45.4
+22162,Tonga,Male,2012,38.2 [30.1-46.3],Oceania,38.2
+22163,Tonga,Female,2012,52.2 [44.7-59.4],Oceania,52.2
+22164,Tonga,Both sexes,2013,46.1 [40.3-51.6],Oceania,46.1
+22165,Tonga,Male,2013,39.0 [30.7-47.3],Oceania,39.0
+22166,Tonga,Female,2013,52.8 [45.1-60.1],Oceania,52.8
+22167,Tonga,Both sexes,2014,46.8 [40.8-52.3],Oceania,46.8
+22168,Tonga,Male,2014,39.8 [31.2-48.4],Oceania,39.8
+22169,Tonga,Female,2014,53.4 [45.5-60.8],Oceania,53.4
+22170,Tonga,Both sexes,2015,47.5 [41.3-53.2],Oceania,47.5
+22171,Tonga,Male,2015,40.6 [31.7-49.5],Oceania,40.6
+22172,Tonga,Female,2015,53.9 [45.9-61.6],Oceania,53.9
+22173,Tonga,Both sexes,2016,48.2 [41.8-54.0],Oceania,48.2
+22174,Tonga,Male,2016,41.4 [32.2-50.5],Oceania,41.4
+22175,Tonga,Female,2016,54.5 [46.3-62.3],Oceania,54.5
+22680,Tuvalu,Both sexes,1975,17.9 [11.8-24.8],Oceania,17.9
+22681,Tuvalu,Male,1975,12.4 [5.8-21.4],Oceania,12.4
+22682,Tuvalu,Female,1975,23.5 [14.0-34.7],Oceania,23.5
+22683,Tuvalu,Both sexes,1976,18.6 [12.6-25.5],Oceania,18.6
+22684,Tuvalu,Male,1976,13.0 [6.3-21.8],Oceania,13.0
+22685,Tuvalu,Female,1976,24.4 [15.0-35.3],Oceania,24.4
+22686,Tuvalu,Both sexes,1977,19.4 [13.3-26.1],Oceania,19.4
+22687,Tuvalu,Male,1977,13.6 [6.9-22.3],Oceania,13.6
+22688,Tuvalu,Female,1977,25.3 [16.0-36.1],Oceania,25.3
+22689,Tuvalu,Both sexes,1978,20.1 [14.1-26.7],Oceania,20.1
+22690,Tuvalu,Male,1978,14.2 [7.5-22.8],Oceania,14.2
+22691,Tuvalu,Female,1978,26.1 [16.9-36.7],Oceania,26.1
+22692,Tuvalu,Both sexes,1979,20.9 [14.9-27.4],Oceania,20.9
+22693,Tuvalu,Male,1979,14.9 [8.1-23.4],Oceania,14.9
+22694,Tuvalu,Female,1979,27.0 [17.9-37.5],Oceania,27.0
+22695,Tuvalu,Both sexes,1980,21.7 [15.7-28.1],Oceania,21.7
+22696,Tuvalu,Male,1980,15.5 [8.7-24.1],Oceania,15.5
+22697,Tuvalu,Female,1980,28.0 [18.7-38.2],Oceania,28.0
+22698,Tuvalu,Both sexes,1981,22.5 [16.6-28.8],Oceania,22.5
+22699,Tuvalu,Male,1981,16.3 [9.4-24.8],Oceania,16.3
+22700,Tuvalu,Female,1981,28.9 [19.7-39.1],Oceania,28.9
+22701,Tuvalu,Both sexes,1982,23.3 [17.4-29.6],Oceania,23.3
+22702,Tuvalu,Male,1982,17.0 [10.1-25.6],Oceania,17.0
+22703,Tuvalu,Female,1982,29.8 [20.8-39.8],Oceania,29.8
+22704,Tuvalu,Both sexes,1983,24.2 [18.3-30.4],Oceania,24.2
+22705,Tuvalu,Male,1983,17.8 [10.7-26.4],Oceania,17.8
+22706,Tuvalu,Female,1983,30.8 [21.8-40.6],Oceania,30.8
+22707,Tuvalu,Both sexes,1984,25.0 [19.1-31.2],Oceania,25.0
+22708,Tuvalu,Male,1984,18.5 [11.4-27.2],Oceania,18.5
+22709,Tuvalu,Female,1984,31.7 [22.8-41.5],Oceania,31.7
+22710,Tuvalu,Both sexes,1985,25.9 [20.0-32.1],Oceania,25.9
+22711,Tuvalu,Male,1985,19.4 [12.1-28.0],Oceania,19.4
+22712,Tuvalu,Female,1985,32.7 [23.8-42.3],Oceania,32.7
+22713,Tuvalu,Both sexes,1986,26.8 [20.9-33.0],Oceania,26.8
+22714,Tuvalu,Male,1986,20.2 [12.9-28.9],Oceania,20.2
+22715,Tuvalu,Female,1986,33.6 [24.8-43.1],Oceania,33.6
+22716,Tuvalu,Both sexes,1987,27.8 [21.9-33.9],Oceania,27.8
+22717,Tuvalu,Male,1987,21.1 [13.7-29.8],Oceania,21.1
+22718,Tuvalu,Female,1987,34.6 [25.8-44.1],Oceania,34.6
+22719,Tuvalu,Both sexes,1988,28.8 [22.9-34.7],Oceania,28.8
+22720,Tuvalu,Male,1988,22.0 [14.6-30.6],Oceania,22.0
+22721,Tuvalu,Female,1988,35.6 [26.9-44.9],Oceania,35.6
+22722,Tuvalu,Both sexes,1989,29.7 [23.9-35.7],Oceania,29.7
+22723,Tuvalu,Male,1989,23.0 [15.5-31.7],Oceania,23.0
+22724,Tuvalu,Female,1989,36.6 [27.9-45.9],Oceania,36.6
+22725,Tuvalu,Both sexes,1990,30.7 [24.9-36.7],Oceania,30.7
+22726,Tuvalu,Male,1990,24.0 [16.3-32.7],Oceania,24.0
+22727,Tuvalu,Female,1990,37.7 [29.0-46.8],Oceania,37.7
+22728,Tuvalu,Both sexes,1991,31.7 [25.9-37.8],Oceania,31.7
+22729,Tuvalu,Male,1991,24.9 [17.2-33.7],Oceania,24.9
+22730,Tuvalu,Female,1991,38.6 [30.0-47.7],Oceania,38.6
+22731,Tuvalu,Both sexes,1992,32.7 [26.8-38.6],Oceania,32.7
+22732,Tuvalu,Male,1992,25.9 [18.1-34.6],Oceania,25.9
+22733,Tuvalu,Female,1992,39.6 [31.0-48.6],Oceania,39.6
+22734,Tuvalu,Both sexes,1993,33.6 [27.7-39.5],Oceania,33.6
+22735,Tuvalu,Male,1993,26.8 [19.1-35.6],Oceania,26.8
+22736,Tuvalu,Female,1993,40.5 [31.9-49.3],Oceania,40.5
+22737,Tuvalu,Both sexes,1994,34.5 [28.6-40.4],Oceania,34.5
+22738,Tuvalu,Male,1994,27.8 [19.9-36.6],Oceania,27.8
+22739,Tuvalu,Female,1994,41.4 [32.8-50.0],Oceania,41.4
+22740,Tuvalu,Both sexes,1995,35.4 [29.5-41.3],Oceania,35.4
+22741,Tuvalu,Male,1995,28.7 [20.8-37.5],Oceania,28.7
+22742,Tuvalu,Female,1995,42.2 [33.7-50.7],Oceania,42.2
+22743,Tuvalu,Both sexes,1996,36.2 [30.3-42.2],Oceania,36.2
+22744,Tuvalu,Male,1996,29.6 [21.6-38.3],Oceania,29.6
+22745,Tuvalu,Female,1996,43.0 [34.6-51.4],Oceania,43.0
+22746,Tuvalu,Both sexes,1997,37.0 [31.2-43.0],Oceania,37.0
+22747,Tuvalu,Male,1997,30.4 [22.5-39.2],Oceania,30.4
+22748,Tuvalu,Female,1997,43.7 [35.4-52.0],Oceania,43.7
+22749,Tuvalu,Both sexes,1998,37.8 [32.0-43.7],Oceania,37.8
+22750,Tuvalu,Male,1998,31.2 [23.2-40.0],Oceania,31.2
+22751,Tuvalu,Female,1998,44.5 [36.2-52.7],Oceania,44.5
+22752,Tuvalu,Both sexes,1999,38.5 [32.7-44.4],Oceania,38.5
+22753,Tuvalu,Male,1999,32.1 [24.0-40.7],Oceania,32.1
+22754,Tuvalu,Female,1999,45.1 [36.9-53.3],Oceania,45.1
+22755,Tuvalu,Both sexes,2000,39.3 [33.5-45.2],Oceania,39.3
+22756,Tuvalu,Male,2000,32.9 [24.9-41.5],Oceania,32.9
+22757,Tuvalu,Female,2000,45.8 [37.7-53.9],Oceania,45.8
+22758,Tuvalu,Both sexes,2001,40.0 [34.2-45.9],Oceania,40.0
+22759,Tuvalu,Male,2001,33.7 [25.7-42.3],Oceania,33.7
+22760,Tuvalu,Female,2001,46.5 [38.4-54.6],Oceania,46.5
+22761,Tuvalu,Both sexes,2002,40.8 [35.0-46.5],Oceania,40.8
+22762,Tuvalu,Male,2002,34.5 [26.5-43.1],Oceania,34.5
+22763,Tuvalu,Female,2002,47.2 [39.0-55.1],Oceania,47.2
+22764,Tuvalu,Both sexes,2003,41.5 [35.7-47.3],Oceania,41.5
+22765,Tuvalu,Male,2003,35.4 [27.4-43.9],Oceania,35.4
+22766,Tuvalu,Female,2003,47.8 [39.6-55.8],Oceania,47.8
+22767,Tuvalu,Both sexes,2004,42.3 [36.5-48.0],Oceania,42.3
+22768,Tuvalu,Male,2004,36.3 [28.3-44.7],Oceania,36.3
+22769,Tuvalu,Female,2004,48.5 [40.3-56.3],Oceania,48.5
+22770,Tuvalu,Both sexes,2005,43.1 [37.2-48.8],Oceania,43.1
+22771,Tuvalu,Male,2005,37.1 [29.1-45.4],Oceania,37.1
+22772,Tuvalu,Female,2005,49.2 [41.0-57.0],Oceania,49.2
+22773,Tuvalu,Both sexes,2006,43.9 [38.0-49.6],Oceania,43.9
+22774,Tuvalu,Male,2006,38.0 [30.0-46.3],Oceania,38.0
+22775,Tuvalu,Female,2006,49.8 [41.7-57.6],Oceania,49.8
+22776,Tuvalu,Both sexes,2007,44.7 [38.7-50.3],Oceania,44.7
+22777,Tuvalu,Male,2007,38.9 [31.0-47.3],Oceania,38.9
+22778,Tuvalu,Female,2007,50.5 [42.4-58.2],Oceania,50.5
+22779,Tuvalu,Both sexes,2008,45.5 [39.6-51.1],Oceania,45.5
+22780,Tuvalu,Male,2008,39.8 [31.8-48.3],Oceania,39.8
+22781,Tuvalu,Female,2008,51.2 [43.1-58.9],Oceania,51.2
+22782,Tuvalu,Both sexes,2009,46.2 [40.4-52.0],Oceania,46.2
+22783,Tuvalu,Male,2009,40.7 [32.6-49.2],Oceania,40.7
+22784,Tuvalu,Female,2009,51.8 [43.7-59.7],Oceania,51.8
+22785,Tuvalu,Both sexes,2010,47.0 [41.1-52.9],Oceania,47.0
+22786,Tuvalu,Male,2010,41.7 [33.5-50.2],Oceania,41.7
+22787,Tuvalu,Female,2010,52.5 [44.4-60.3],Oceania,52.5
+22788,Tuvalu,Both sexes,2011,47.8 [41.8-53.7],Oceania,47.8
+22789,Tuvalu,Male,2011,42.6 [34.3-51.2],Oceania,42.6
+22790,Tuvalu,Female,2011,53.2 [44.9-61.0],Oceania,53.2
+22791,Tuvalu,Both sexes,2012,48.6 [42.4-54.5],Oceania,48.6
+22792,Tuvalu,Male,2012,43.5 [35.1-52.3],Oceania,43.5
+22793,Tuvalu,Female,2012,53.8 [45.5-61.7],Oceania,53.8
+22794,Tuvalu,Both sexes,2013,49.4 [43.1-55.4],Oceania,49.4
+22795,Tuvalu,Male,2013,44.4 [35.8-53.3],Oceania,44.4
+22796,Tuvalu,Female,2013,54.4 [46.0-62.4],Oceania,54.4
+22797,Tuvalu,Both sexes,2014,50.1 [43.8-56.2],Oceania,50.1
+22798,Tuvalu,Male,2014,45.3 [36.5-54.3],Oceania,45.3
+22799,Tuvalu,Female,2014,55.0 [46.5-63.1],Oceania,55.0
+22800,Tuvalu,Both sexes,2015,50.9 [44.4-57.0],Oceania,50.9
+22801,Tuvalu,Male,2015,46.2 [37.1-55.4],Oceania,46.2
+22802,Tuvalu,Female,2015,55.6 [46.9-63.8],Oceania,55.6
+22803,Tuvalu,Both sexes,2016,51.6 [45.0-57.9],Oceania,51.6
+22804,Tuvalu,Male,2016,47.0 [37.7-56.4],Oceania,47.0
+22805,Tuvalu,Female,2016,56.2 [47.3-64.4],Oceania,56.2
+23814,Vanuatu,Both sexes,1975,5.6 [2.7-9.8],Oceania,5.6
+23815,Vanuatu,Male,1975,3.7 [1.0-8.6],Oceania,3.7
+23816,Vanuatu,Female,1975,8.1 [3.2-15.5],Oceania,8.1
+23817,Vanuatu,Both sexes,1976,5.8 [2.9-10.0],Oceania,5.8
+23818,Vanuatu,Male,1976,3.8 [1.1-8.8],Oceania,3.8
+23819,Vanuatu,Female,1976,8.4 [3.5-15.8],Oceania,8.4
+23820,Vanuatu,Both sexes,1977,6.1 [3.1-10.2],Oceania,6.1
+23821,Vanuatu,Male,1977,4.0 [1.2-9.0],Oceania,4.0
+23822,Vanuatu,Female,1977,8.7 [3.8-16.0],Oceania,8.7
+23823,Vanuatu,Both sexes,1978,6.3 [3.4-10.5],Oceania,6.3
+23824,Vanuatu,Male,1978,4.2 [1.4-9.2],Oceania,4.2
+23825,Vanuatu,Female,1978,9.1 [4.1-16.3],Oceania,9.1
+23826,Vanuatu,Both sexes,1979,6.6 [3.6-10.7],Oceania,6.6
+23827,Vanuatu,Male,1979,4.4 [1.5-9.4],Oceania,4.4
+23828,Vanuatu,Female,1979,9.5 [4.5-16.6],Oceania,9.5
+23829,Vanuatu,Both sexes,1980,6.9 [3.9-11.0],Oceania,6.9
+23830,Vanuatu,Male,1980,4.6 [1.6-9.5],Oceania,4.6
+23831,Vanuatu,Female,1980,9.8 [4.8-16.9],Oceania,9.8
+23832,Vanuatu,Both sexes,1981,7.2 [4.2-11.4],Oceania,7.2
+23833,Vanuatu,Male,1981,4.8 [1.7-9.8],Oceania,4.8
+23834,Vanuatu,Female,1981,10.2 [5.1-17.3],Oceania,10.2
+23835,Vanuatu,Both sexes,1982,7.6 [4.4-11.7],Oceania,7.6
+23836,Vanuatu,Male,1982,5.0 [1.9-10.1],Oceania,5.0
+23837,Vanuatu,Female,1982,10.7 [5.5-17.7],Oceania,10.7
+23838,Vanuatu,Both sexes,1983,7.9 [4.7-12.1],Oceania,7.9
+23839,Vanuatu,Male,1983,5.3 [2.0-10.3],Oceania,5.3
+23840,Vanuatu,Female,1983,11.1 [5.9-18.2],Oceania,11.1
+23841,Vanuatu,Both sexes,1984,8.3 [5.1-12.5],Oceania,8.3
+23842,Vanuatu,Male,1984,5.5 [2.2-10.7],Oceania,5.5
+23843,Vanuatu,Female,1984,11.6 [6.3-18.6],Oceania,11.6
+23844,Vanuatu,Both sexes,1985,8.7 [5.4-12.9],Oceania,8.7
+23845,Vanuatu,Male,1985,5.8 [2.3-11.0],Oceania,5.8
+23846,Vanuatu,Female,1985,12.0 [6.7-18.9],Oceania,12.0
+23847,Vanuatu,Both sexes,1986,9.1 [5.7-13.3],Oceania,9.1
+23848,Vanuatu,Male,1986,6.1 [2.5-11.4],Oceania,6.1
+23849,Vanuatu,Female,1986,12.5 [7.1-19.4],Oceania,12.5
+23850,Vanuatu,Both sexes,1987,9.5 [6.1-13.7],Oceania,9.5
+23851,Vanuatu,Male,1987,6.4 [2.7-11.8],Oceania,6.4
+23852,Vanuatu,Female,1987,13.0 [7.5-19.8],Oceania,13.0
+23853,Vanuatu,Both sexes,1988,9.9 [6.5-14.1],Oceania,9.9
+23854,Vanuatu,Male,1988,6.7 [2.9-12.2],Oceania,6.7
+23855,Vanuatu,Female,1988,13.5 [7.9-20.3],Oceania,13.5
+23856,Vanuatu,Both sexes,1989,10.4 [6.9-14.6],Oceania,10.4
+23857,Vanuatu,Male,1989,7.1 [3.2-12.6],Oceania,7.1
+23858,Vanuatu,Female,1989,14.1 [8.4-20.8],Oceania,14.1
+23859,Vanuatu,Both sexes,1990,10.8 [7.3-15.1],Oceania,10.8
+23860,Vanuatu,Male,1990,7.4 [3.4-13.0],Oceania,7.4
+23861,Vanuatu,Female,1990,14.6 [8.9-21.4],Oceania,14.6
+23862,Vanuatu,Both sexes,1991,11.3 [7.7-15.7],Oceania,11.3
+23863,Vanuatu,Male,1991,7.8 [3.6-13.5],Oceania,7.8
+23864,Vanuatu,Female,1991,15.2 [9.4-21.9],Oceania,15.2
+23865,Vanuatu,Both sexes,1992,11.7 [8.1-16.1],Oceania,11.7
+23866,Vanuatu,Male,1992,8.1 [3.9-13.9],Oceania,8.1
+23867,Vanuatu,Female,1992,15.7 [9.9-22.5],Oceania,15.7
+23868,Vanuatu,Both sexes,1993,12.2 [8.5-16.6],Oceania,12.2
+23869,Vanuatu,Male,1993,8.5 [4.1-14.3],Oceania,8.5
+23870,Vanuatu,Female,1993,16.3 [10.5-23.1],Oceania,16.3
+23871,Vanuatu,Both sexes,1994,12.6 [8.9-17.1],Oceania,12.6
+23872,Vanuatu,Male,1994,8.9 [4.4-14.8],Oceania,8.9
+23873,Vanuatu,Female,1994,16.8 [11.0-23.6],Oceania,16.8
+23874,Vanuatu,Both sexes,1995,13.1 [9.4-17.6],Oceania,13.1
+23875,Vanuatu,Male,1995,9.2 [4.7-15.2],Oceania,9.2
+23876,Vanuatu,Female,1995,17.4 [11.5-24.1],Oceania,17.4
+23877,Vanuatu,Both sexes,1996,13.6 [9.8-18.1],Oceania,13.6
+23878,Vanuatu,Male,1996,9.6 [5.0-15.7],Oceania,9.6
+23879,Vanuatu,Female,1996,17.9 [12.1-24.6],Oceania,17.9
+23880,Vanuatu,Both sexes,1997,14.1 [10.3-18.6],Oceania,14.1
+23881,Vanuatu,Male,1997,10.0 [5.3-16.2],Oceania,10.0
+23882,Vanuatu,Female,1997,18.5 [12.7-25.2],Oceania,18.5
+23883,Vanuatu,Both sexes,1998,14.6 [10.7-19.1],Oceania,14.6
+23884,Vanuatu,Male,1998,10.5 [5.6-16.7],Oceania,10.5
+23885,Vanuatu,Female,1998,19.1 [13.3-25.7],Oceania,19.1
+23886,Vanuatu,Both sexes,1999,15.1 [11.2-19.6],Oceania,15.1
+23887,Vanuatu,Male,1999,10.9 [6.0-17.2],Oceania,10.9
+23888,Vanuatu,Female,1999,19.7 [13.8-26.3],Oceania,19.7
+23889,Vanuatu,Both sexes,2000,15.6 [11.7-20.2],Oceania,15.6
+23890,Vanuatu,Male,2000,11.3 [6.3-17.7],Oceania,11.3
+23891,Vanuatu,Female,2000,20.2 [14.3-26.9],Oceania,20.2
+23892,Vanuatu,Both sexes,2001,16.2 [12.2-20.7],Oceania,16.2
+23893,Vanuatu,Male,2001,11.8 [6.7-18.1],Oceania,11.8
+23894,Vanuatu,Female,2001,20.8 [14.8-27.5],Oceania,20.8
+23895,Vanuatu,Both sexes,2002,16.7 [12.7-21.2],Oceania,16.7
+23896,Vanuatu,Male,2002,12.3 [7.1-18.7],Oceania,12.3
+23897,Vanuatu,Female,2002,21.4 [15.4-28.1],Oceania,21.4
+23898,Vanuatu,Both sexes,2003,17.3 [13.2-21.8],Oceania,17.3
+23899,Vanuatu,Male,2003,12.7 [7.5-19.2],Oceania,12.7
+23900,Vanuatu,Female,2003,22.0 [16.0-28.7],Oceania,22.0
+23901,Vanuatu,Both sexes,2004,17.8 [13.7-22.4],Oceania,17.8
+23902,Vanuatu,Male,2004,13.2 [7.9-19.8],Oceania,13.2
+23903,Vanuatu,Female,2004,22.6 [16.5-29.4],Oceania,22.6
+23904,Vanuatu,Both sexes,2005,18.4 [14.3-23.0],Oceania,18.4
+23905,Vanuatu,Male,2005,13.7 [8.3-20.3],Oceania,13.7
+23906,Vanuatu,Female,2005,23.2 [17.0-30.1],Oceania,23.2
+23907,Vanuatu,Both sexes,2006,19.0 [14.8-23.6],Oceania,19.0
+23908,Vanuatu,Male,2006,14.2 [8.7-20.9],Oceania,14.2
+23909,Vanuatu,Female,2006,23.8 [17.6-30.9],Oceania,23.8
+23910,Vanuatu,Both sexes,2007,19.5 [15.3-24.3],Oceania,19.5
+23911,Vanuatu,Male,2007,14.8 [9.0-21.5],Oceania,14.8
+23912,Vanuatu,Female,2007,24.4 [18.1-31.6],Oceania,24.4
+23913,Vanuatu,Both sexes,2008,20.1 [15.8-25.0],Oceania,20.1
+23914,Vanuatu,Male,2008,15.3 [9.5-22.2],Oceania,15.3
+23915,Vanuatu,Female,2008,25.0 [18.7-32.2],Oceania,25.0
+23916,Vanuatu,Both sexes,2009,20.7 [16.3-25.6],Oceania,20.7
+23917,Vanuatu,Male,2009,15.9 [9.9-22.8],Oceania,15.9
+23918,Vanuatu,Female,2009,25.7 [19.1-33.0],Oceania,25.7
+23919,Vanuatu,Both sexes,2010,21.3 [16.8-26.3],Oceania,21.3
+23920,Vanuatu,Male,2010,16.4 [10.3-23.5],Oceania,16.4
+23921,Vanuatu,Female,2010,26.3 [19.6-33.8],Oceania,26.3
+23922,Vanuatu,Both sexes,2011,22.0 [17.2-27.0],Oceania,22.0
+23923,Vanuatu,Male,2011,17.0 [10.8-24.2],Oceania,17.0
+23924,Vanuatu,Female,2011,26.9 [20.1-34.5],Oceania,26.9
+23925,Vanuatu,Both sexes,2012,22.6 [17.8-27.7],Oceania,22.6
+23926,Vanuatu,Male,2012,17.6 [11.3-25.0],Oceania,17.6
+23927,Vanuatu,Female,2012,27.5 [20.5-35.4],Oceania,27.5
+23928,Vanuatu,Both sexes,2013,23.2 [18.2-28.5],Oceania,23.2
+23929,Vanuatu,Male,2013,18.2 [11.7-25.8],Oceania,18.2
+23930,Vanuatu,Female,2013,28.2 [20.9-36.2],Oceania,28.2
+23931,Vanuatu,Both sexes,2014,23.9 [18.7-29.3],Oceania,23.9
+23932,Vanuatu,Male,2014,18.9 [12.1-26.7],Oceania,18.9
+23933,Vanuatu,Female,2014,28.8 [21.3-37.1],Oceania,28.8
+23934,Vanuatu,Both sexes,2015,24.5 [19.1-30.1],Oceania,24.5
+23935,Vanuatu,Male,2015,19.5 [12.5-27.7],Oceania,19.5
+23936,Vanuatu,Female,2015,29.4 [21.7-37.9],Oceania,29.4
+23937,Vanuatu,Both sexes,2016,25.2 [19.6-31.0],Oceania,25.2
+23938,Vanuatu,Male,2016,20.2 [12.9-28.6],Oceania,20.2
+23939,Vanuatu,Female,2016,30.1 [22.1-38.8],Oceania,30.1

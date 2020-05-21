@@ -1,0 +1,127 @@
+Sex,Year,Obesity (%),Region,BMI
+Both sexes,1975,10.1 [6.3-15.0],Balkans,10.1
+Male,1975,7.2 [3.3-13.4],Balkans,7.2
+Female,1975,12.9 [6.9-21.0],Balkans,12.9
+Both sexes,1976,10.5 [6.6-15.3],Balkans,10.5
+Male,1976,7.6 [3.5-13.7],Balkans,7.6
+Female,1976,13.3 [7.3-21.3],Balkans,13.3
+Both sexes,1977,10.9 [7.1-15.6],Balkans,10.9
+Male,1977,8.0 [3.9-13.9],Balkans,8.0
+Female,1977,13.7 [7.7-21.6],Balkans,13.7
+Both sexes,1978,11.3 [7.4-16.0],Balkans,11.3
+Male,1978,8.4 [4.2-14.2],Balkans,8.4
+Female,1978,14.1 [8.2-21.8],Balkans,14.1
+Both sexes,1979,11.7 [7.8-16.3],Balkans,11.7
+Male,1979,8.7 [4.5-14.5],Balkans,8.7
+Female,1979,14.4 [8.6-21.9],Balkans,14.4
+Both sexes,1980,12.0 [8.2-16.6],Balkans,12.0
+Male,1980,9.1 [4.8-14.9],Balkans,9.1
+Female,1980,14.8 [9.0-22.1],Balkans,14.8
+Both sexes,1981,12.4 [8.6-17.0],Balkans,12.4
+Male,1981,9.5 [5.2-15.2],Balkans,9.5
+Female,1981,15.2 [9.4-22.3],Balkans,15.2
+Both sexes,1982,12.8 [9.0-17.3],Balkans,12.8
+Male,1982,9.9 [5.5-15.6],Balkans,9.9
+Female,1982,15.5 [9.8-22.6],Balkans,15.5
+Both sexes,1983,13.1 [9.4-17.6],Balkans,13.1
+Male,1983,10.3 [5.9-15.9],Balkans,10.3
+Female,1983,15.8 [10.1-22.7],Balkans,15.8
+Both sexes,1984,13.5 [9.7-17.9],Balkans,13.5
+Male,1984,10.7 [6.2-16.3],Balkans,10.7
+Female,1984,16.1 [10.4-22.9],Balkans,16.1
+Both sexes,1985,13.8 [10.0-18.2],Balkans,13.8
+Male,1985,11.1 [6.4-16.7],Balkans,11.1
+Female,1985,16.4 [10.6-23.2],Balkans,16.4
+Both sexes,1986,14.2 [10.4-18.5],Balkans,14.2
+Male,1986,11.5 [6.8-17.1],Balkans,11.5
+Female,1986,16.7 [10.9-23.4],Balkans,16.7
+Both sexes,1987,14.5 [10.7-18.9],Balkans,14.5
+Male,1987,11.9 [7.1-17.5],Balkans,11.9
+Female,1987,16.9 [11.2-23.6],Balkans,16.9
+Both sexes,1988,14.8 [11.0-19.2],Balkans,14.8
+Male,1988,12.2 [7.5-17.9],Balkans,12.2
+Female,1988,17.2 [11.4-23.8],Balkans,17.2
+Both sexes,1989,15.1 [11.3-19.4],Balkans,15.1
+Male,1989,12.6 [7.8-18.3],Balkans,12.6
+Female,1989,17.4 [11.7-24.0],Balkans,17.4
+Both sexes,1990,15.4 [11.6-19.7],Balkans,15.4
+Male,1990,13.0 [8.2-18.8],Balkans,13.0
+Female,1990,17.6 [11.9-24.2],Balkans,17.6
+Both sexes,1991,15.7 [11.9-20.0],Balkans,15.7
+Male,1991,13.4 [8.5-19.1],Balkans,13.4
+Female,1991,17.9 [12.1-24.4],Balkans,17.9
+Both sexes,1992,16.0 [12.2-20.4],Balkans,16.0
+Male,1992,13.8 [8.9-19.5],Balkans,13.8
+Female,1992,18.1 [12.4-24.6],Balkans,18.1
+Both sexes,1993,16.3 [12.5-20.7],Balkans,16.3
+Male,1993,14.2 [9.2-20.0],Balkans,14.2
+Female,1993,18.3 [12.6-24.8],Balkans,18.3
+Both sexes,1994,16.7 [12.8-21.0],Balkans,16.7
+Male,1994,14.6 [9.6-20.4],Balkans,14.6
+Female,1994,18.5 [12.9-25.0],Balkans,18.5
+Both sexes,1995,17.0 [13.1-21.3],Balkans,17.0
+Male,1995,15.0 [9.9-20.8],Balkans,15.0
+Female,1995,18.7 [13.1-25.2],Balkans,18.7
+Both sexes,1996,17.3 [13.4-21.6],Balkans,17.3
+Male,1996,15.4 [10.2-21.3],Balkans,15.4
+Female,1996,19.0 [13.2-25.4],Balkans,19.0
+Both sexes,1997,17.6 [13.6-21.9],Balkans,17.6
+Male,1997,15.8 [10.6-21.8],Balkans,15.8
+Female,1997,19.2 [13.4-25.6],Balkans,19.2
+Both sexes,1998,17.9 [13.9-22.3],Balkans,17.9
+Male,1998,16.3 [11.0-22.2],Balkans,16.3
+Female,1998,19.4 [13.6-25.7],Balkans,19.4
+Both sexes,1999,18.2 [14.2-22.6],Balkans,18.2
+Male,1999,16.7 [11.3-22.7],Balkans,16.7
+Female,1999,19.6 [13.8-25.9],Balkans,19.6
+Both sexes,2000,18.6 [14.6-22.9],Balkans,18.6
+Male,2000,17.1 [11.7-23.2],Balkans,17.1
+Female,2000,19.8 [14.1-26.1],Balkans,19.8
+Both sexes,2001,18.9 [14.9-23.3],Balkans,18.9
+Male,2001,17.6 [12.1-23.7],Balkans,17.6
+Female,2001,20.0 [14.3-26.3],Balkans,20.0
+Both sexes,2002,19.3 [15.2-23.7],Balkans,19.3
+Male,2002,18.1 [12.5-24.2],Balkans,18.1
+Female,2002,20.3 [14.6-26.4],Balkans,20.3
+Both sexes,2003,19.6 [15.5-24.0],Balkans,19.6
+Male,2003,18.5 [12.9-24.7],Balkans,18.5
+Female,2003,20.5 [14.7-26.6],Balkans,20.5
+Both sexes,2004,20.0 [15.9-24.4],Balkans,20.0
+Male,2004,19.0 [13.4-25.2],Balkans,19.0
+Female,2004,20.8 [14.9-26.9],Balkans,20.8
+Both sexes,2005,20.4 [16.3-24.9],Balkans,20.4
+Male,2005,19.5 [13.8-25.8],Balkans,19.5
+Female,2005,21.0 [15.1-27.2],Balkans,21.0
+Both sexes,2006,20.8 [16.6-25.2],Balkans,20.8
+Male,2006,20.0 [14.3-26.5],Balkans,20.0
+Female,2006,21.3 [15.4-27.5],Balkans,21.3
+Both sexes,2007,21.2 [17.0-25.6],Balkans,21.2
+Male,2007,20.5 [14.7-27.0],Balkans,20.5
+Female,2007,21.6 [15.6-27.9],Balkans,21.6
+Both sexes,2008,21.6 [17.4-26.1],Balkans,21.6
+Male,2008,21.1 [15.2-27.7],Balkans,21.1
+Female,2008,21.9 [15.9-28.3],Balkans,21.9
+Both sexes,2009,22.0 [17.6-26.6],Balkans,22.0
+Male,2009,21.6 [15.6-28.3],Balkans,21.6
+Female,2009,22.2 [16.0-28.6],Balkans,22.2
+Both sexes,2010,22.4 [18.0-27.0],Balkans,22.4
+Male,2010,22.1 [16.0-29.0],Balkans,22.1
+Female,2010,22.5 [16.3-29.1],Balkans,22.5
+Both sexes,2011,22.8 [18.3-27.5],Balkans,22.8
+Male,2011,22.7 [16.4-29.6],Balkans,22.7
+Female,2011,22.8 [16.4-29.6],Balkans,22.8
+Both sexes,2012,23.2 [18.6-28.1],Balkans,23.2
+Male,2012,23.2 [16.8-30.3],Balkans,23.2
+Female,2012,23.1 [16.5-30.1],Balkans,23.1
+Both sexes,2013,23.7 [18.9-28.6],Balkans,23.7
+Male,2013,23.8 [17.2-31.0],Balkans,23.8
+Female,2013,23.4 [16.7-30.6],Balkans,23.4
+Both sexes,2014,24.1 [19.1-29.2],Balkans,24.1
+Male,2014,24.4 [17.6-31.7],Balkans,24.4
+Female,2014,23.7 [16.9-31.2],Balkans,23.7
+Both sexes,2015,24.5 [19.4-29.8],Balkans,24.5
+Male,2015,24.9 [17.9-32.5],Balkans,24.9
+Female,2015,24.0 [17.1-31.8],Balkans,24.0
+Both sexes,2016,25.0 [19.7-30.5],Balkans,25.0
+Male,2016,25.5 [18.2-33.3],Balkans,25.5
+Female,2016,24.3 [17.2-32.4],Balkans,24.3

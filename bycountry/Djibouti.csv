@@ -1,0 +1,127 @@
+Sex,Year,Obesity (%),Region,BMI
+Both sexes,1975,4.0 [2.0-7.0],East Africa,4.0
+Male,1975,1.5 [0.4-4.0],East Africa,1.5
+Female,1975,6.4 [2.7-11.7],East Africa,6.4
+Both sexes,1976,4.3 [2.2-7.2],East Africa,4.3
+Male,1976,1.6 [0.5-4.1],East Africa,1.6
+Female,1976,6.7 [2.9-12.0],East Africa,6.7
+Both sexes,1977,4.5 [2.3-7.5],East Africa,4.5
+Male,1977,1.8 [0.6-4.3],East Africa,1.8
+Female,1977,7.0 [3.2-12.4],East Africa,7.0
+Both sexes,1978,4.7 [2.5-7.7],East Africa,4.7
+Male,1978,1.9 [0.6-4.5],East Africa,1.9
+Female,1978,7.3 [3.4-12.8],East Africa,7.3
+Both sexes,1979,4.9 [2.7-7.9],East Africa,4.9
+Male,1979,2.0 [0.7-4.7],East Africa,2.0
+Female,1979,7.6 [3.7-13.1],East Africa,7.6
+Both sexes,1980,5.2 [2.9-8.2],East Africa,5.2
+Male,1980,2.2 [0.8-4.9],East Africa,2.2
+Female,1980,7.9 [3.9-13.5],East Africa,7.9
+Both sexes,1981,5.4 [3.1-8.4],East Africa,5.4
+Male,1981,2.3 [0.8-5.1],East Africa,2.3
+Female,1981,8.3 [4.2-13.7],East Africa,8.3
+Both sexes,1982,5.6 [3.3-8.7],East Africa,5.6
+Male,1982,2.4 [0.9-5.3],East Africa,2.4
+Female,1982,8.6 [4.4-14.2],East Africa,8.6
+Both sexes,1983,5.8 [3.4-8.9],East Africa,5.8
+Male,1983,2.6 [1.0-5.4],East Africa,2.6
+Female,1983,8.9 [4.7-14.5],East Africa,8.9
+Both sexes,1984,6.1 [3.6-9.2],East Africa,6.1
+Male,1984,2.7 [1.1-5.6],East Africa,2.7
+Female,1984,9.2 [5.0-14.8],East Africa,9.2
+Both sexes,1985,6.3 [3.8-9.4],East Africa,6.3
+Male,1985,2.9 [1.2-5.8],East Africa,2.9
+Female,1985,9.5 [5.2-15.0],East Africa,9.5
+Both sexes,1986,6.5 [4.0-9.7],East Africa,6.5
+Male,1986,3.0 [1.2-6.0],East Africa,3.0
+Female,1986,9.8 [5.5-15.3],East Africa,9.8
+Both sexes,1987,6.7 [4.2-9.9],East Africa,6.7
+Male,1987,3.2 [1.3-6.2],East Africa,3.2
+Female,1987,10.1 [5.7-15.6],East Africa,10.1
+Both sexes,1988,6.9 [4.4-10.1],East Africa,6.9
+Male,1988,3.3 [1.4-6.5],East Africa,3.3
+Female,1988,10.3 [5.9-15.9],East Africa,10.3
+Both sexes,1989,7.2 [4.5-10.3],East Africa,7.2
+Male,1989,3.5 [1.5-6.6],East Africa,3.5
+Female,1989,10.6 [6.1-16.2],East Africa,10.6
+Both sexes,1990,7.4 [4.7-10.5],East Africa,7.4
+Male,1990,3.6 [1.6-6.8],East Africa,3.6
+Female,1990,10.9 [6.3-16.5],East Africa,10.9
+Both sexes,1991,7.6 [4.9-10.8],East Africa,7.6
+Male,1991,3.8 [1.7-7.1],East Africa,3.8
+Female,1991,11.1 [6.5-16.7],East Africa,11.1
+Both sexes,1992,7.8 [5.1-11.0],East Africa,7.8
+Male,1992,3.9 [1.8-7.3],East Africa,3.9
+Female,1992,11.4 [6.7-16.9],East Africa,11.4
+Both sexes,1993,7.9 [5.2-11.2],East Africa,7.9
+Male,1993,4.1 [1.9-7.5],East Africa,4.1
+Female,1993,11.6 [7.0-17.2],East Africa,11.6
+Both sexes,1994,8.1 [5.4-11.4],East Africa,8.1
+Male,1994,4.2 [2.0-7.7],East Africa,4.2
+Female,1994,11.8 [7.2-17.4],East Africa,11.8
+Both sexes,1995,8.3 [5.6-11.6],East Africa,8.3
+Male,1995,4.4 [2.0-7.9],East Africa,4.4
+Female,1995,12.1 [7.4-17.7],East Africa,12.1
+Both sexes,1996,8.5 [5.8-11.8],East Africa,8.5
+Male,1996,4.5 [2.2-8.0],East Africa,4.5
+Female,1996,12.3 [7.6-17.9],East Africa,12.3
+Both sexes,1997,8.7 [5.9-12.0],East Africa,8.7
+Male,1997,4.7 [2.3-8.3],East Africa,4.7
+Female,1997,12.6 [7.8-18.2],East Africa,12.6
+Both sexes,1998,8.9 [6.1-12.2],East Africa,8.9
+Male,1998,4.9 [2.4-8.5],East Africa,4.9
+Female,1998,12.8 [8.0-18.5],East Africa,12.8
+Both sexes,1999,9.1 [6.3-12.4],East Africa,9.1
+Male,1999,5.0 [2.5-8.7],East Africa,5.0
+Female,1999,13.1 [8.3-18.8],East Africa,13.1
+Both sexes,2000,9.3 [6.5-12.7],East Africa,9.3
+Male,2000,5.2 [2.5-8.9],East Africa,5.2
+Female,2000,13.3 [8.5-19.1],East Africa,13.3
+Both sexes,2001,9.6 [6.7-12.9],East Africa,9.6
+Male,2001,5.4 [2.6-9.1],East Africa,5.4
+Female,2001,13.6 [8.7-19.4],East Africa,13.6
+Both sexes,2002,9.8 [6.9-13.2],East Africa,9.8
+Male,2002,5.5 [2.7-9.4],East Africa,5.5
+Female,2002,13.9 [9.0-19.7],East Africa,13.9
+Both sexes,2003,10.0 [7.1-13.5],East Africa,10.0
+Male,2003,5.7 [2.9-9.6],East Africa,5.7
+Female,2003,14.1 [9.2-20.1],East Africa,14.1
+Both sexes,2004,10.2 [7.3-13.8],East Africa,10.2
+Male,2004,5.9 [3.0-9.9],East Africa,5.9
+Female,2004,14.4 [9.5-20.5],East Africa,14.4
+Both sexes,2005,10.5 [7.5-14.1],East Africa,10.5
+Male,2005,6.1 [3.1-10.2],East Africa,6.1
+Female,2005,14.7 [9.7-20.8],East Africa,14.7
+Both sexes,2006,10.7 [7.7-14.3],East Africa,10.7
+Male,2006,6.3 [3.2-10.4],East Africa,6.3
+Female,2006,15.0 [10.0-21.1],East Africa,15.0
+Both sexes,2007,11.0 [7.9-14.7],East Africa,11.0
+Male,2007,6.5 [3.4-10.7],East Africa,6.5
+Female,2007,15.3 [10.2-21.5],East Africa,15.3
+Both sexes,2008,11.2 [8.1-14.9],East Africa,11.2
+Male,2008,6.7 [3.5-11.0],East Africa,6.7
+Female,2008,15.6 [10.4-21.9],East Africa,15.6
+Both sexes,2009,11.5 [8.3-15.3],East Africa,11.5
+Male,2009,6.9 [3.6-11.4],East Africa,6.9
+Female,2009,15.9 [10.6-22.3],East Africa,15.9
+Both sexes,2010,11.8 [8.5-15.7],East Africa,11.8
+Male,2010,7.1 [3.7-11.7],East Africa,7.1
+Female,2010,16.3 [10.8-22.8],East Africa,16.3
+Both sexes,2011,12.0 [8.6-16.0],East Africa,12.0
+Male,2011,7.3 [3.8-12.0],East Africa,7.3
+Female,2011,16.6 [11.1-23.3],East Africa,16.6
+Both sexes,2012,12.3 [8.8-16.5],East Africa,12.3
+Male,2012,7.6 [3.9-12.4],East Africa,7.6
+Female,2012,16.9 [11.3-23.8],East Africa,16.9
+Both sexes,2013,12.6 [9.0-16.9],East Africa,12.6
+Male,2013,7.8 [4.0-12.9],East Africa,7.8
+Female,2013,17.3 [11.5-24.3],East Africa,17.3
+Both sexes,2014,12.9 [9.2-17.3],East Africa,12.9
+Male,2014,8.1 [4.1-13.5],East Africa,8.1
+Female,2014,17.6 [11.7-24.8],East Africa,17.6
+Both sexes,2015,13.2 [9.4-17.8],East Africa,13.2
+Male,2015,8.3 [4.2-14.0],East Africa,8.3
+Female,2015,18.0 [11.8-25.4],East Africa,18.0
+Both sexes,2016,13.5 [9.5-18.3],East Africa,13.5
+Male,2016,8.6 [4.3-14.5],East Africa,8.6
+Female,2016,18.3 [12.0-26.0],East Africa,18.3

@@ -1,0 +1,127 @@
+Sex,Year,Obesity (%),Region,BMI
+Both sexes,1975,3.0 [1.5-5.1],Southern Africa,3.0
+Male,1975,1.1 [0.3-2.6],Southern Africa,1.1
+Female,1975,4.6 [2.1-8.4],Southern Africa,4.6
+Both sexes,1976,3.1 [1.6-5.2],Southern Africa,3.1
+Male,1976,1.1 [0.4-2.7],Southern Africa,1.1
+Female,1976,4.8 [2.3-8.6],Southern Africa,4.8
+Both sexes,1977,3.2 [1.8-5.3],Southern Africa,3.2
+Male,1977,1.2 [0.4-2.8],Southern Africa,1.2
+Female,1977,4.9 [2.4-8.6],Southern Africa,4.9
+Both sexes,1978,3.3 [1.9-5.4],Southern Africa,3.3
+Male,1978,1.3 [0.5-2.8],Southern Africa,1.3
+Female,1978,5.1 [2.6-8.8],Southern Africa,5.1
+Both sexes,1979,3.4 [2.0-5.5],Southern Africa,3.4
+Male,1979,1.3 [0.5-2.9],Southern Africa,1.3
+Female,1979,5.3 [2.7-8.8],Southern Africa,5.3
+Both sexes,1980,3.5 [2.1-5.5],Southern Africa,3.5
+Male,1980,1.4 [0.5-2.9],Southern Africa,1.4
+Female,1980,5.4 [2.9-8.9],Southern Africa,5.4
+Both sexes,1981,3.6 [2.2-5.6],Southern Africa,3.6
+Male,1981,1.4 [0.6-3.0],Southern Africa,1.4
+Female,1981,5.6 [3.1-9.0],Southern Africa,5.6
+Both sexes,1982,3.8 [2.3-5.6],Southern Africa,3.8
+Male,1982,1.5 [0.6-3.0],Southern Africa,1.5
+Female,1982,5.7 [3.2-9.1],Southern Africa,5.7
+Both sexes,1983,3.9 [2.4-5.8],Southern Africa,3.9
+Male,1983,1.6 [0.7-3.1],Southern Africa,1.6
+Female,1983,5.9 [3.4-9.3],Southern Africa,5.9
+Both sexes,1984,4.0 [2.5-5.9],Southern Africa,4.0
+Male,1984,1.6 [0.7-3.2],Southern Africa,1.6
+Female,1984,6.1 [3.5-9.4],Southern Africa,6.1
+Both sexes,1985,4.1 [2.6-6.0],Southern Africa,4.1
+Male,1985,1.7 [0.8-3.2],Southern Africa,1.7
+Female,1985,6.3 [3.7-9.6],Southern Africa,6.3
+Both sexes,1986,4.3 [2.8-6.2],Southern Africa,4.3
+Male,1986,1.8 [0.8-3.3],Southern Africa,1.8
+Female,1986,6.5 [3.9-9.8],Southern Africa,6.5
+Both sexes,1987,4.4 [2.9-6.3],Southern Africa,4.4
+Male,1987,1.9 [0.9-3.4],Southern Africa,1.9
+Female,1987,6.7 [4.1-10.1],Southern Africa,6.7
+Both sexes,1988,4.6 [3.1-6.5],Southern Africa,4.6
+Male,1988,2.0 [0.9-3.6],Southern Africa,2.0
+Female,1988,6.9 [4.3-10.3],Southern Africa,6.9
+Both sexes,1989,4.8 [3.2-6.7],Southern Africa,4.8
+Male,1989,2.1 [1.0-3.7],Southern Africa,2.1
+Female,1989,7.2 [4.5-10.6],Southern Africa,7.2
+Both sexes,1990,4.9 [3.3-6.9],Southern Africa,4.9
+Male,1990,2.2 [1.1-3.9],Southern Africa,2.2
+Female,1990,7.4 [4.8-10.9],Southern Africa,7.4
+Both sexes,1991,5.1 [3.5-7.1],Southern Africa,5.1
+Male,1991,2.3 [1.1-4.0],Southern Africa,2.3
+Female,1991,7.7 [5.0-11.2],Southern Africa,7.7
+Both sexes,1992,5.3 [3.7-7.3],Southern Africa,5.3
+Male,1992,2.4 [1.2-4.2],Southern Africa,2.4
+Female,1992,8.0 [5.2-11.5],Southern Africa,8.0
+Both sexes,1993,5.5 [3.8-7.6],Southern Africa,5.5
+Male,1993,2.5 [1.3-4.3],Southern Africa,2.5
+Female,1993,8.2 [5.4-11.8],Southern Africa,8.2
+Both sexes,1994,5.7 [4.0-7.8],Southern Africa,5.7
+Male,1994,2.6 [1.4-4.5],Southern Africa,2.6
+Female,1994,8.5 [5.7-12.1],Southern Africa,8.5
+Both sexes,1995,5.9 [4.2-8.0],Southern Africa,5.9
+Male,1995,2.7 [1.4-4.6],Southern Africa,2.7
+Female,1995,8.7 [5.9-12.4],Southern Africa,8.7
+Both sexes,1996,6.1 [4.3-8.2],Southern Africa,6.1
+Male,1996,2.8 [1.5-4.8],Southern Africa,2.8
+Female,1996,9.0 [6.1-12.7],Southern Africa,9.0
+Both sexes,1997,6.2 [4.5-8.4],Southern Africa,6.2
+Male,1997,2.9 [1.6-4.9],Southern Africa,2.9
+Female,1997,9.3 [6.3-12.9],Southern Africa,9.3
+Both sexes,1998,6.4 [4.7-8.6],Southern Africa,6.4
+Male,1998,3.0 [1.6-5.1],Southern Africa,3.0
+Female,1998,9.5 [6.5-13.3],Southern Africa,9.5
+Both sexes,1999,6.6 [4.8-8.8],Southern Africa,6.6
+Male,1999,3.2 [1.7-5.2],Southern Africa,3.2
+Female,1999,9.8 [6.7-13.6],Southern Africa,9.8
+Both sexes,2000,6.8 [5.0-9.0],Southern Africa,6.8
+Male,2000,3.3 [1.8-5.4],Southern Africa,3.3
+Female,2000,10.1 [7.0-13.9],Southern Africa,10.1
+Both sexes,2001,7.0 [5.1-9.3],Southern Africa,7.0
+Male,2001,3.4 [1.9-5.6],Southern Africa,3.4
+Female,2001,10.4 [7.2-14.2],Southern Africa,10.4
+Both sexes,2002,7.2 [5.3-9.5],Southern Africa,7.2
+Male,2002,3.5 [1.9-5.8],Southern Africa,3.5
+Female,2002,10.7 [7.4-14.6],Southern Africa,10.7
+Both sexes,2003,7.5 [5.5-9.8],Southern Africa,7.5
+Male,2003,3.6 [2.0-6.0],Southern Africa,3.6
+Female,2003,11.0 [7.7-14.9],Southern Africa,11.0
+Both sexes,2004,7.7 [5.7-10.0],Southern Africa,7.7
+Male,2004,3.8 [2.1-6.1],Southern Africa,3.8
+Female,2004,11.3 [8.0-15.3],Southern Africa,11.3
+Both sexes,2005,7.9 [5.8-10.3],Southern Africa,7.9
+Male,2005,3.9 [2.2-6.4],Southern Africa,3.9
+Female,2005,11.6 [8.2-15.6],Southern Africa,11.6
+Both sexes,2006,8.1 [6.0-10.5],Southern Africa,8.1
+Male,2006,4.0 [2.3-6.5],Southern Africa,4.0
+Female,2006,11.9 [8.4-16.1],Southern Africa,11.9
+Both sexes,2007,8.3 [6.2-10.8],Southern Africa,8.3
+Male,2007,4.1 [2.3-6.8],Southern Africa,4.1
+Female,2007,12.3 [8.7-16.5],Southern Africa,12.3
+Both sexes,2008,8.6 [6.4-11.1],Southern Africa,8.6
+Male,2008,4.3 [2.4-6.9],Southern Africa,4.3
+Female,2008,12.6 [9.0-17.0],Southern Africa,12.6
+Both sexes,2009,8.8 [6.6-11.4],Southern Africa,8.8
+Male,2009,4.4 [2.5-7.1],Southern Africa,4.4
+Female,2009,12.9 [9.2-17.4],Southern Africa,12.9
+Both sexes,2010,9.1 [6.8-11.8],Southern Africa,9.1
+Male,2010,4.6 [2.6-7.4],Southern Africa,4.6
+Female,2010,13.3 [9.5-17.9],Southern Africa,13.3
+Both sexes,2011,9.3 [7.0-12.1],Southern Africa,9.3
+Male,2011,4.7 [2.6-7.7],Southern Africa,4.7
+Female,2011,13.7 [9.7-18.5],Southern Africa,13.7
+Both sexes,2012,9.6 [7.2-12.5],Southern Africa,9.6
+Male,2012,4.9 [2.7-8.0],Southern Africa,4.9
+Female,2012,14.0 [10.0-19.0],Southern Africa,14.0
+Both sexes,2013,9.9 [7.3-12.9],Southern Africa,9.9
+Male,2013,5.0 [2.8-8.3],Southern Africa,5.0
+Female,2013,14.4 [10.2-19.7],Southern Africa,14.4
+Both sexes,2014,10.2 [7.5-13.4],Southern Africa,10.2
+Male,2014,5.2 [2.8-8.7],Southern Africa,5.2
+Female,2014,14.8 [10.4-20.4],Southern Africa,14.8
+Both sexes,2015,10.5 [7.7-13.8],Southern Africa,10.5
+Male,2015,5.4 [2.9-9.0],Southern Africa,5.4
+Female,2015,15.2 [10.6-21.1],Southern Africa,15.2
+Both sexes,2016,10.8 [7.9-14.4],Southern Africa,10.8
+Male,2016,5.6 [2.9-9.4],Southern Africa,5.6
+Female,2016,15.7 [10.8-21.8],Southern Africa,15.7

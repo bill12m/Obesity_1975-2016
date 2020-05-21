@@ -1,0 +1,127 @@
+Sex,Year,Obesity (%),Region,BMI
+Both sexes,1975,11.2 [7.5-15.7],South America,11.2
+Male,1975,9.0 [4.6-15.2],South America,9.0
+Female,1975,13.2 [7.7-20.1],South America,13.2
+Both sexes,1976,11.5 [7.8-15.8],South America,11.5
+Male,1976,9.3 [4.9-15.3],South America,9.3
+Female,1976,13.5 [8.1-20.2],South America,13.5
+Both sexes,1977,11.8 [8.2-16.0],South America,11.8
+Male,1977,9.6 [5.2-15.4],South America,9.6
+Female,1977,13.8 [8.6-20.3],South America,13.8
+Both sexes,1978,12.1 [8.6-16.3],South America,12.1
+Male,1978,9.9 [5.6-15.6],South America,9.9
+Female,1978,14.1 [9.0-20.5],South America,14.1
+Both sexes,1979,12.5 [8.9-16.5],South America,12.5
+Male,1979,10.3 [5.9-15.9],South America,10.3
+Female,1979,14.4 [9.4-20.6],South America,14.4
+Both sexes,1980,12.8 [9.3-16.8],South America,12.8
+Male,1980,10.6 [6.3-16.1],South America,10.6
+Female,1980,14.7 [9.8-20.8],South America,14.7
+Both sexes,1981,13.1 [9.7-17.1],South America,13.1
+Male,1981,11.0 [6.6-16.5],South America,11.0
+Female,1981,15.1 [10.2-21.0],South America,15.1
+Both sexes,1982,13.5 [10.0-17.4],South America,13.5
+Male,1982,11.3 [7.0-16.8],South America,11.3
+Female,1982,15.4 [10.5-21.3],South America,15.4
+Both sexes,1983,13.8 [10.5-17.7],South America,13.8
+Male,1983,11.7 [7.3-17.2],South America,11.7
+Female,1983,15.7 [10.9-21.5],South America,15.7
+Both sexes,1984,14.2 [10.9-18.0],South America,14.2
+Male,1984,12.1 [7.7-17.5],South America,12.1
+Female,1984,16.1 [11.3-21.8],South America,16.1
+Both sexes,1985,14.6 [11.3-18.3],South America,14.6
+Male,1985,12.5 [8.0-17.9],South America,12.5
+Female,1985,16.4 [11.6-22.1],South America,16.4
+Both sexes,1986,15.0 [11.6-18.7],South America,15.0
+Male,1986,12.9 [8.4-18.3],South America,12.9
+Female,1986,16.8 [12.1-22.4],South America,16.8
+Both sexes,1987,15.4 [12.0-19.1],South America,15.4
+Male,1987,13.3 [8.8-18.7],South America,13.3
+Female,1987,17.2 [12.5-22.6],South America,17.2
+Both sexes,1988,15.8 [12.4-19.5],South America,15.8
+Male,1988,13.7 [9.2-19.1],South America,13.7
+Female,1988,17.5 [12.9-22.9],South America,17.5
+Both sexes,1989,16.2 [12.8-19.9],South America,16.2
+Male,1989,14.2 [9.6-19.6],South America,14.2
+Female,1989,17.9 [13.3-23.3],South America,17.9
+Both sexes,1990,16.6 [13.2-20.2],South America,16.6
+Male,1990,14.6 [10.0-20.0],South America,14.6
+Female,1990,18.3 [13.7-23.7],South America,18.3
+Both sexes,1991,17.0 [13.6-20.7],South America,17.0
+Male,1991,15.0 [10.4-20.5],South America,15.0
+Female,1991,18.7 [14.1-24.0],South America,18.7
+Both sexes,1992,17.4 [14.0-21.1],South America,17.4
+Male,1992,15.5 [10.7-20.9],South America,15.5
+Female,1992,19.1 [14.5-24.3],South America,19.1
+Both sexes,1993,17.8 [14.4-21.6],South America,17.8
+Male,1993,15.9 [11.2-21.3],South America,15.9
+Female,1993,19.5 [14.9-24.7],South America,19.5
+Both sexes,1994,18.2 [14.8-22.0],South America,18.2
+Male,1994,16.4 [11.6-21.8],South America,16.4
+Female,1994,19.8 [15.3-25.0],South America,19.8
+Both sexes,1995,18.6 [15.3-22.4],South America,18.6
+Male,1995,16.8 [12.0-22.2],South America,16.8
+Female,1995,20.2 [15.7-25.4],South America,20.2
+Both sexes,1996,19.1 [15.7-22.8],South America,19.1
+Male,1996,17.3 [12.5-22.6],South America,17.3
+Female,1996,20.6 [16.0-25.7],South America,20.6
+Both sexes,1997,19.5 [16.1-23.2],South America,19.5
+Male,1997,17.7 [12.9-23.0],South America,17.7
+Female,1997,21.0 [16.4-26.1],South America,21.0
+Both sexes,1998,19.9 [16.5-23.6],South America,19.9
+Male,1998,18.2 [13.4-23.5],South America,18.2
+Female,1998,21.4 [16.9-26.5],South America,21.4
+Both sexes,1999,20.3 [17.0-23.9],South America,20.3
+Male,1999,18.6 [13.8-24.0],South America,18.6
+Female,1999,21.8 [17.2-26.9],South America,21.8
+Both sexes,2000,20.7 [17.4-24.3],South America,20.7
+Male,2000,19.1 [14.2-24.5],South America,19.1
+Female,2000,22.1 [17.5-27.2],South America,22.1
+Both sexes,2001,21.2 [17.8-24.8],South America,21.2
+Male,2001,19.6 [14.7-24.9],South America,19.6
+Female,2001,22.5 [18.0-27.7],South America,22.5
+Both sexes,2002,21.6 [18.3-25.2],South America,21.6
+Male,2002,20.0 [15.1-25.4],South America,20.0
+Female,2002,22.9 [18.3-28.1],South America,22.9
+Both sexes,2003,22.1 [18.7-25.7],South America,22.1
+Male,2003,20.5 [15.6-25.9],South America,20.5
+Female,2003,23.3 [18.7-28.5],South America,23.3
+Both sexes,2004,22.5 [19.1-26.2],South America,22.5
+Male,2004,21.0 [16.1-26.3],South America,21.0
+Female,2004,23.7 [19.1-28.9],South America,23.7
+Both sexes,2005,23.0 [19.5-26.7],South America,23.0
+Male,2005,21.5 [16.6-26.9],South America,21.5
+Female,2005,24.2 [19.4-29.3],South America,24.2
+Both sexes,2006,23.4 [19.9-27.2],South America,23.4
+Male,2006,22.0 [17.0-27.5],South America,22.0
+Female,2006,24.6 [19.9-29.7],South America,24.6
+Both sexes,2007,23.9 [20.3-27.7],South America,23.9
+Male,2007,22.5 [17.5-28.2],South America,22.5
+Female,2007,25.0 [20.2-30.2],South America,25.0
+Both sexes,2008,24.4 [20.7-28.3],South America,24.4
+Male,2008,23.0 [17.9-28.8],South America,23.0
+Female,2008,25.4 [20.6-30.7],South America,25.4
+Both sexes,2009,24.8 [21.1-28.8],South America,24.8
+Male,2009,23.6 [18.3-29.4],South America,23.6
+Female,2009,25.9 [21.0-31.2],South America,25.9
+Both sexes,2010,25.3 [21.4-29.4],South America,25.3
+Male,2010,24.1 [18.7-30.1],South America,24.1
+Female,2010,26.3 [21.3-31.8],South America,26.3
+Both sexes,2011,25.8 [21.9-30.1],South America,25.8
+Male,2011,24.6 [19.1-30.7],South America,24.6
+Female,2011,26.7 [21.5-32.4],South America,26.7
+Both sexes,2012,26.3 [22.2-30.7],South America,26.3
+Male,2012,25.1 [19.4-31.5],South America,25.1
+Female,2012,27.2 [21.8-33.0],South America,27.2
+Both sexes,2013,26.8 [22.6-31.3],South America,26.8
+Male,2013,25.7 [19.7-32.3],South America,25.7
+Female,2013,27.6 [22.0-33.7],South America,27.6
+Both sexes,2014,27.3 [22.9-32.0],South America,27.3
+Male,2014,26.2 [20.0-33.1],South America,26.2
+Female,2014,28.1 [22.1-34.4],South America,28.1
+Both sexes,2015,27.8 [23.2-32.7],South America,27.8
+Male,2015,26.8 [20.2-34.1],South America,26.8
+Female,2015,28.5 [22.3-35.1],South America,28.5
+Both sexes,2016,28.3 [23.4-33.5],South America,28.3
+Male,2016,27.3 [20.5-35.0],South America,27.3
+Female,2016,29.0 [22.5-36.0],South America,29.0

@@ -1,0 +1,127 @@
+Sex,Year,Obesity (%),Region,BMI
+Both sexes,1975,6.5 [4.0-9.8],Central Asia,6.5
+Male,1975,2.8 [1.2-5.3],Central Asia,2.8
+Female,1975,10.4 [5.6-16.8],Central Asia,10.4
+Both sexes,1976,6.8 [4.3-10.0],Central Asia,6.8
+Male,1976,3.0 [1.3-5.5],Central Asia,3.0
+Female,1976,10.8 [6.1-17.1],Central Asia,10.8
+Both sexes,1977,7.1 [4.6-10.2],Central Asia,7.1
+Male,1977,3.1 [1.5-5.7],Central Asia,3.1
+Female,1977,11.3 [6.6-17.2],Central Asia,11.3
+Both sexes,1978,7.4 [5.0-10.5],Central Asia,7.4
+Male,1978,3.3 [1.7-5.9],Central Asia,3.3
+Female,1978,11.7 [7.2-17.5],Central Asia,11.7
+Both sexes,1979,7.8 [5.4-10.7],Central Asia,7.8
+Male,1979,3.6 [1.9-6.1],Central Asia,3.6
+Female,1979,12.2 [7.7-17.8],Central Asia,12.2
+Both sexes,1980,8.1 [5.7-11.0],Central Asia,8.1
+Male,1980,3.8 [2.1-6.3],Central Asia,3.8
+Female,1980,12.7 [8.2-18.2],Central Asia,12.7
+Both sexes,1981,8.5 [6.1-11.3],Central Asia,8.5
+Male,1981,4.0 [2.3-6.5],Central Asia,4.0
+Female,1981,13.2 [8.8-18.4],Central Asia,13.2
+Both sexes,1982,8.8 [6.5-11.6],Central Asia,8.8
+Male,1982,4.2 [2.5-6.7],Central Asia,4.2
+Female,1982,13.6 [9.3-18.7],Central Asia,13.6
+Both sexes,1983,9.2 [6.9-11.9],Central Asia,9.2
+Male,1983,4.5 [2.7-6.9],Central Asia,4.5
+Female,1983,14.1 [9.9-19.1],Central Asia,14.1
+Both sexes,1984,9.6 [7.3-12.2],Central Asia,9.6
+Male,1984,4.8 [3.0-7.2],Central Asia,4.8
+Female,1984,14.6 [10.4-19.4],Central Asia,14.6
+Both sexes,1985,10.0 [7.7-12.5],Central Asia,10.0
+Male,1985,5.0 [3.2-7.4],Central Asia,5.0
+Female,1985,15.1 [11.0-19.8],Central Asia,15.1
+Both sexes,1986,10.4 [8.1-12.9],Central Asia,10.4
+Male,1986,5.3 [3.4-7.7],Central Asia,5.3
+Female,1986,15.6 [11.5-20.2],Central Asia,15.6
+Both sexes,1987,10.7 [8.5-13.2],Central Asia,10.7
+Male,1987,5.6 [3.7-7.9],Central Asia,5.6
+Female,1987,16.1 [12.1-20.6],Central Asia,16.1
+Both sexes,1988,11.1 [8.9-13.5],Central Asia,11.1
+Male,1988,5.9 [4.0-8.2],Central Asia,5.9
+Female,1988,16.6 [12.6-20.9],Central Asia,16.6
+Both sexes,1989,11.5 [9.4-13.9],Central Asia,11.5
+Male,1989,6.2 [4.3-8.5],Central Asia,6.2
+Female,1989,17.1 [13.2-21.4],Central Asia,17.1
+Both sexes,1990,11.9 [9.8-14.2],Central Asia,11.9
+Male,1990,6.5 [4.5-8.8],Central Asia,6.5
+Female,1990,17.6 [13.7-21.8],Central Asia,17.6
+Both sexes,1991,12.3 [10.2-14.6],Central Asia,12.3
+Male,1991,6.8 [4.8-9.1],Central Asia,6.8
+Female,1991,18.1 [14.3-22.2],Central Asia,18.1
+Both sexes,1992,12.7 [10.7-15.0],Central Asia,12.7
+Male,1992,7.1 [5.1-9.5],Central Asia,7.1
+Female,1992,18.6 [14.9-22.6],Central Asia,18.6
+Both sexes,1993,13.2 [11.1-15.4],Central Asia,13.2
+Male,1993,7.5 [5.5-9.8],Central Asia,7.5
+Female,1993,19.1 [15.5-23.0],Central Asia,19.1
+Both sexes,1994,13.6 [11.6-15.8],Central Asia,13.6
+Male,1994,7.9 [5.8-10.2],Central Asia,7.9
+Female,1994,19.6 [16.1-23.4],Central Asia,19.6
+Both sexes,1995,14.1 [12.1-16.2],Central Asia,14.1
+Male,1995,8.2 [6.2-10.6],Central Asia,8.2
+Female,1995,20.2 [16.7-23.8],Central Asia,20.2
+Both sexes,1996,14.6 [12.6-16.7],Central Asia,14.6
+Male,1996,8.6 [6.6-11.0],Central Asia,8.6
+Female,1996,20.7 [17.3-24.4],Central Asia,20.7
+Both sexes,1997,15.1 [13.1-17.1],Central Asia,15.1
+Male,1997,9.0 [7.0-11.4],Central Asia,9.0
+Female,1997,21.3 [17.9-24.8],Central Asia,21.3
+Both sexes,1998,15.6 [13.6-17.6],Central Asia,15.6
+Male,1998,9.5 [7.4-11.8],Central Asia,9.5
+Female,1998,21.8 [18.6-25.3],Central Asia,21.8
+Both sexes,1999,16.1 [14.2-18.1],Central Asia,16.1
+Male,1999,9.9 [7.8-12.2],Central Asia,9.9
+Female,1999,22.4 [19.2-25.8],Central Asia,22.4
+Both sexes,2000,16.6 [14.7-18.6],Central Asia,16.6
+Male,2000,10.3 [8.3-12.7],Central Asia,10.3
+Female,2000,23.0 [19.9-26.3],Central Asia,23.0
+Both sexes,2001,17.1 [15.2-19.0],Central Asia,17.1
+Male,2001,10.8 [8.8-13.1],Central Asia,10.8
+Female,2001,23.5 [20.5-26.8],Central Asia,23.5
+Both sexes,2002,17.6 [15.7-19.4],Central Asia,17.6
+Male,2002,11.3 [9.2-13.6],Central Asia,11.3
+Female,2002,24.1 [21.1-27.3],Central Asia,24.1
+Both sexes,2003,18.0 [16.2-19.9],Central Asia,18.0
+Male,2003,11.8 [9.7-14.0],Central Asia,11.8
+Female,2003,24.7 [21.7-27.8],Central Asia,24.7
+Both sexes,2004,18.6 [16.8-20.4],Central Asia,18.6
+Male,2004,12.3 [10.2-14.5],Central Asia,12.3
+Female,2004,25.3 [22.3-28.3],Central Asia,25.3
+Both sexes,2005,19.1 [17.3-21.0],Central Asia,19.1
+Male,2005,12.8 [10.7-15.1],Central Asia,12.8
+Female,2005,25.8 [22.9-28.8],Central Asia,25.8
+Both sexes,2006,19.7 [17.9-21.6],Central Asia,19.7
+Male,2006,13.3 [11.2-15.6],Central Asia,13.3
+Female,2006,26.4 [23.5-29.4],Central Asia,26.4
+Both sexes,2007,20.3 [18.4-22.2],Central Asia,20.3
+Male,2007,13.8 [11.7-16.2],Central Asia,13.8
+Female,2007,27.0 [24.0-30.1],Central Asia,27.0
+Both sexes,2008,20.9 [19.0-22.8],Central Asia,20.9
+Male,2008,14.4 [12.2-16.8],Central Asia,14.4
+Female,2008,27.6 [24.5-30.7],Central Asia,27.6
+Both sexes,2009,21.5 [19.5-23.6],Central Asia,21.5
+Male,2009,14.9 [12.6-17.5],Central Asia,14.9
+Female,2009,28.2 [25.0-31.4],Central Asia,28.2
+Both sexes,2010,22.1 [20.0-24.3],Central Asia,22.1
+Male,2010,15.5 [13.0-18.3],Central Asia,15.5
+Female,2010,28.7 [25.4-32.1],Central Asia,28.7
+Both sexes,2011,22.7 [20.5-25.0],Central Asia,22.7
+Male,2011,16.1 [13.4-19.1],Central Asia,16.1
+Female,2011,29.3 [25.8-32.9],Central Asia,29.3
+Both sexes,2012,23.3 [21.0-25.8],Central Asia,23.3
+Male,2012,16.7 [13.8-19.9],Central Asia,16.7
+Female,2012,29.9 [26.2-33.7],Central Asia,29.9
+Both sexes,2013,24.0 [21.4-26.6],Central Asia,24.0
+Male,2013,17.3 [14.1-20.8],Central Asia,17.3
+Female,2013,30.5 [26.4-34.6],Central Asia,30.5
+Both sexes,2014,24.6 [21.8-27.5],Central Asia,24.6
+Male,2014,18.0 [14.4-21.7],Central Asia,18.0
+Female,2014,31.1 [26.7-35.5],Central Asia,31.1
+Both sexes,2015,25.2 [22.2-28.4],Central Asia,25.2
+Male,2015,18.6 [14.8-22.7],Central Asia,18.6
+Female,2015,31.7 [27.0-36.4],Central Asia,31.7
+Both sexes,2016,25.8 [22.6-29.3],Central Asia,25.8
+Male,2016,19.3 [15.0-23.8],Central Asia,19.3
+Female,2016,32.2 [27.2-37.4],Central Asia,32.2

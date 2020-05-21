@@ -1,0 +1,127 @@
+Sex,Year,Obesity (%),Region,BMI
+Both sexes,1975,18.9 [12.4-26.3],Oceania,18.9
+Male,1975,13.6 [6.2-23.8],Oceania,13.6
+Female,1975,24.4 [14.3-36.0],Oceania,24.4
+Both sexes,1976,19.6 [13.1-26.8],Oceania,19.6
+Male,1976,14.1 [6.7-24.1],Oceania,14.1
+Female,1976,25.2 [15.2-36.5],Oceania,25.2
+Both sexes,1977,20.2 [13.9-27.4],Oceania,20.2
+Male,1977,14.7 [7.2-24.6],Oceania,14.7
+Female,1977,26.0 [16.1-37.0],Oceania,26.0
+Both sexes,1978,21.0 [14.7-28.0],Oceania,21.0
+Male,1978,15.2 [7.7-25.1],Oceania,15.2
+Female,1978,26.8 [17.1-37.6],Oceania,26.8
+Both sexes,1979,21.7 [15.5-28.7],Oceania,21.7
+Male,1979,15.9 [8.3-25.5],Oceania,15.9
+Female,1979,27.7 [18.0-38.1],Oceania,27.7
+Both sexes,1980,22.5 [16.3-29.4],Oceania,22.5
+Male,1980,16.5 [8.9-26.1],Oceania,16.5
+Female,1980,28.6 [19.0-38.8],Oceania,28.6
+Both sexes,1981,23.3 [17.2-30.1],Oceania,23.3
+Male,1981,17.2 [9.5-26.6],Oceania,17.2
+Female,1981,29.5 [20.1-39.5],Oceania,29.5
+Both sexes,1982,24.1 [18.0-30.9],Oceania,24.1
+Male,1982,17.9 [10.1-27.3],Oceania,17.9
+Female,1982,30.4 [21.1-40.2],Oceania,30.4
+Both sexes,1983,24.9 [18.9-31.6],Oceania,24.9
+Male,1983,18.6 [10.8-28.1],Oceania,18.6
+Female,1983,31.3 [22.1-40.9],Oceania,31.3
+Both sexes,1984,25.8 [19.7-32.4],Oceania,25.8
+Male,1984,19.4 [11.5-28.8],Oceania,19.4
+Female,1984,32.3 [23.2-41.6],Oceania,32.3
+Both sexes,1985,26.6 [20.6-33.1],Oceania,26.6
+Male,1985,20.2 [12.2-29.5],Oceania,20.2
+Female,1985,33.2 [24.3-42.4],Oceania,33.2
+Both sexes,1986,27.4 [21.5-33.9],Oceania,27.4
+Male,1986,20.9 [12.9-30.2],Oceania,20.9
+Female,1986,34.1 [25.3-43.2],Oceania,34.1
+Both sexes,1987,28.2 [22.4-34.6],Oceania,28.2
+Male,1987,21.7 [13.7-30.8],Oceania,21.7
+Female,1987,35.0 [26.3-43.9],Oceania,35.0
+Both sexes,1988,29.0 [23.1-35.3],Oceania,29.0
+Male,1988,22.4 [14.4-31.5],Oceania,22.4
+Female,1988,35.8 [27.2-44.6],Oceania,35.8
+Both sexes,1989,29.7 [23.8-36.0],Oceania,29.7
+Male,1989,23.1 [15.0-32.2],Oceania,23.1
+Female,1989,36.5 [28.1-45.3],Oceania,36.5
+Both sexes,1990,30.5 [24.5-36.6],Oceania,30.5
+Male,1990,23.8 [15.6-32.9],Oceania,23.8
+Female,1990,37.3 [29.0-46.0],Oceania,37.3
+Both sexes,1991,31.2 [25.3-37.3],Oceania,31.2
+Male,1991,24.4 [16.3-33.4],Oceania,24.4
+Female,1991,38.0 [29.7-46.6],Oceania,38.0
+Both sexes,1992,31.8 [26.0-37.9],Oceania,31.8
+Male,1992,25.1 [17.0-34.1],Oceania,25.1
+Female,1992,38.7 [30.5-47.2],Oceania,38.7
+Both sexes,1993,32.5 [26.7-38.6],Oceania,32.5
+Male,1993,25.8 [17.7-34.8],Oceania,25.8
+Female,1993,39.4 [31.2-47.7],Oceania,39.4
+Both sexes,1994,33.2 [27.4-39.2],Oceania,33.2
+Male,1994,26.5 [18.3-35.3],Oceania,26.5
+Female,1994,40.0 [31.9-48.3],Oceania,40.0
+Both sexes,1995,33.9 [28.1-39.8],Oceania,33.9
+Male,1995,27.2 [19.0-35.9],Oceania,27.2
+Female,1995,40.7 [32.6-48.9],Oceania,40.7
+Both sexes,1996,34.6 [28.8-40.5],Oceania,34.6
+Male,1996,27.9 [19.7-36.6],Oceania,27.9
+Female,1996,41.4 [33.4-49.5],Oceania,41.4
+Both sexes,1997,35.3 [29.6-41.1],Oceania,35.3
+Male,1997,28.6 [20.5-37.3],Oceania,28.6
+Female,1997,42.1 [34.1-50.1],Oceania,42.1
+Both sexes,1998,36.0 [30.3-41.7],Oceania,36.0
+Male,1998,29.4 [21.2-38.1],Oceania,29.4
+Female,1998,42.8 [34.8-50.7],Oceania,42.8
+Both sexes,1999,36.7 [31.1-42.4],Oceania,36.7
+Male,1999,30.1 [21.9-38.8],Oceania,30.1
+Female,1999,43.5 [35.6-51.3],Oceania,43.5
+Both sexes,2000,37.5 [31.9-43.1],Oceania,37.5
+Male,2000,30.9 [22.7-39.5],Oceania,30.9
+Female,2000,44.2 [36.4-51.9],Oceania,44.2
+Both sexes,2001,38.2 [32.7-43.8],Oceania,38.2
+Male,2001,31.7 [23.5-40.2],Oceania,31.7
+Female,2001,44.9 [37.1-52.5],Oceania,44.9
+Both sexes,2002,39.0 [33.5-44.6],Oceania,39.0
+Male,2002,32.5 [24.4-41.1],Oceania,32.5
+Female,2002,45.6 [37.8-53.1],Oceania,45.6
+Both sexes,2003,39.7 [34.2-45.3],Oceania,39.7
+Male,2003,33.3 [25.2-41.8],Oceania,33.3
+Female,2003,46.3 [38.5-53.7],Oceania,46.3
+Both sexes,2004,40.5 [35.0-46.0],Oceania,40.5
+Male,2004,34.2 [26.0-42.5],Oceania,34.2
+Female,2004,47.0 [39.3-54.4],Oceania,47.0
+Both sexes,2005,41.3 [35.7-46.7],Oceania,41.3
+Male,2005,35.0 [26.8-43.4],Oceania,35.0
+Female,2005,47.7 [40.1-55.0],Oceania,47.7
+Both sexes,2006,42.1 [36.5-47.5],Oceania,42.1
+Male,2006,35.8 [27.8-44.2],Oceania,35.8
+Female,2006,48.4 [40.9-55.7],Oceania,48.4
+Both sexes,2007,42.8 [37.2-48.3],Oceania,42.8
+Male,2007,36.7 [28.6-45.1],Oceania,36.7
+Female,2007,49.1 [41.5-56.4],Oceania,49.1
+Both sexes,2008,43.6 [38.1-49.0],Oceania,43.6
+Male,2008,37.6 [29.5-46.0],Oceania,37.6
+Female,2008,49.8 [42.2-57.1],Oceania,49.8
+Both sexes,2009,44.4 [38.8-49.8],Oceania,44.4
+Male,2009,38.5 [30.3-46.9],Oceania,38.5
+Female,2009,50.4 [42.9-57.9],Oceania,50.4
+Both sexes,2010,45.2 [39.6-50.6],Oceania,45.2
+Male,2010,39.4 [31.1-47.8],Oceania,39.4
+Female,2010,51.1 [43.6-58.5],Oceania,51.1
+Both sexes,2011,46.0 [40.4-51.4],Oceania,46.0
+Male,2011,40.3 [31.9-48.8],Oceania,40.3
+Female,2011,51.8 [44.3-59.2],Oceania,51.8
+Both sexes,2012,46.8 [41.0-52.2],Oceania,46.8
+Male,2012,41.2 [32.7-49.6],Oceania,41.2
+Female,2012,52.5 [44.8-59.9],Oceania,52.5
+Both sexes,2013,47.6 [41.7-53.2],Oceania,47.6
+Male,2013,42.1 [33.5-50.7],Oceania,42.1
+Female,2013,53.2 [45.3-60.7],Oceania,53.2
+Both sexes,2014,48.4 [42.4-54.0],Oceania,48.4
+Male,2014,43.0 [34.2-51.8],Oceania,43.0
+Female,2014,53.8 [45.9-61.5],Oceania,53.8
+Both sexes,2015,49.2 [43.1-54.9],Oceania,49.2
+Male,2015,43.9 [34.9-52.9],Oceania,43.9
+Female,2015,54.5 [46.3-62.4],Oceania,54.5
+Both sexes,2016,50.0 [43.7-55.8],Oceania,50.0
+Male,2016,44.8 [35.6-54.0],Oceania,44.8
+Female,2016,55.1 [46.9-63.2],Oceania,55.1

@@ -1,0 +1,127 @@
+Sex,Year,Obesity (%),Region,BMI
+Both sexes,1975,15.8 [11.0-21.8],Middle East,15.8
+Male,1975,11.3 [5.9-18.6],Middle East,11.3
+Female,1975,26.2 [17.3-36.3],Middle East,26.2
+Both sexes,1976,16.1 [11.4-21.9],Middle East,16.1
+Male,1976,11.6 [6.2-18.7],Middle East,11.6
+Female,1976,26.5 [17.9-36.3],Middle East,26.5
+Both sexes,1977,16.5 [11.9-22.1],Middle East,16.5
+Male,1977,11.9 [6.6-18.8],Middle East,11.9
+Female,1977,26.8 [18.4-36.2],Middle East,26.8
+Both sexes,1978,16.9 [12.3-22.3],Middle East,16.9
+Male,1978,12.2 [6.9-19.1],Middle East,12.2
+Female,1978,27.1 [19.0-36.2],Middle East,27.1
+Both sexes,1979,17.3 [12.8-22.6],Middle East,17.3
+Male,1979,12.5 [7.2-19.2],Middle East,12.5
+Female,1979,27.4 [19.6-36.3],Middle East,27.4
+Both sexes,1980,17.6 [13.2-22.7],Middle East,17.6
+Male,1980,12.9 [7.6-19.4],Middle East,12.9
+Female,1980,27.8 [20.1-36.4],Middle East,27.8
+Both sexes,1981,17.8 [13.4-22.9],Middle East,17.8
+Male,1981,13.2 [8.0-19.6],Middle East,13.2
+Female,1981,28.1 [20.5-36.4],Middle East,28.1
+Both sexes,1982,18.0 [13.7-23.0],Middle East,18.0
+Male,1982,13.6 [8.4-19.9],Middle East,13.6
+Female,1982,28.4 [21.0-36.4],Middle East,28.4
+Both sexes,1983,18.2 [13.9-23.2],Middle East,18.2
+Male,1983,13.9 [8.7-20.2],Middle East,13.9
+Female,1983,28.7 [21.5-36.6],Middle East,28.7
+Both sexes,1984,18.5 [14.2-23.4],Middle East,18.5
+Male,1984,14.3 [9.1-20.5],Middle East,14.3
+Female,1984,29.0 [22.0-36.8],Middle East,29.0
+Both sexes,1985,18.8 [14.6-23.7],Middle East,18.8
+Male,1985,14.7 [9.5-20.8],Middle East,14.7
+Female,1985,29.4 [22.4-37.0],Middle East,29.4
+Both sexes,1986,19.1 [14.9-24.1],Middle East,19.1
+Male,1986,15.1 [9.9-21.2],Middle East,15.1
+Female,1986,29.8 [22.8-37.2],Middle East,29.8
+Both sexes,1987,19.5 [15.2-24.4],Middle East,19.5
+Male,1987,15.5 [10.3-21.7],Middle East,15.5
+Female,1987,30.1 [23.3-37.4],Middle East,30.1
+Both sexes,1988,19.9 [15.6-24.8],Middle East,19.9
+Male,1988,15.9 [10.7-22.2],Middle East,15.9
+Female,1988,30.6 [23.8-37.7],Middle East,30.6
+Both sexes,1989,20.3 [16.1-25.3],Middle East,20.3
+Male,1989,16.4 [11.2-22.6],Middle East,16.4
+Female,1989,31.0 [24.2-38.0],Middle East,31.0
+Both sexes,1990,20.8 [16.6-25.7],Middle East,20.8
+Male,1990,16.9 [11.6-23.1],Middle East,16.9
+Female,1990,31.4 [24.7-38.5],Middle East,31.4
+Both sexes,1991,21.3 [17.1-26.3],Middle East,21.3
+Male,1991,17.4 [12.1-23.6],Middle East,17.4
+Female,1991,31.9 [25.2-38.9],Middle East,31.9
+Both sexes,1992,21.9 [17.6-26.8],Middle East,21.9
+Male,1992,17.9 [12.6-24.1],Middle East,17.9
+Female,1992,32.4 [25.8-39.2],Middle East,32.4
+Both sexes,1993,22.4 [18.1-27.4],Middle East,22.4
+Male,1993,18.5 [13.1-24.7],Middle East,18.5
+Female,1993,32.8 [26.2-39.6],Middle East,32.8
+Both sexes,1994,23.0 [18.7-27.9],Middle East,23.0
+Male,1994,19.0 [13.6-25.2],Middle East,19.0
+Female,1994,33.3 [26.7-40.0],Middle East,33.3
+Both sexes,1995,23.6 [19.2-28.4],Middle East,23.6
+Male,1995,19.6 [14.1-25.8],Middle East,19.6
+Female,1995,33.8 [27.2-40.4],Middle East,33.8
+Both sexes,1996,24.1 [19.8-29.0],Middle East,24.1
+Male,1996,20.1 [14.6-26.4],Middle East,20.1
+Female,1996,34.2 [27.7-40.8],Middle East,34.2
+Both sexes,1997,24.7 [20.3-29.5],Middle East,24.7
+Male,1997,20.6 [15.1-26.9],Middle East,20.6
+Female,1997,34.7 [28.1-41.2],Middle East,34.7
+Both sexes,1998,25.2 [20.8-30.0],Middle East,25.2
+Male,1998,21.2 [15.6-27.4],Middle East,21.2
+Female,1998,35.1 [28.6-41.5],Middle East,35.1
+Both sexes,1999,25.7 [21.4-30.5],Middle East,25.7
+Male,1999,21.7 [16.1-27.9],Middle East,21.7
+Female,1999,35.5 [29.1-41.9],Middle East,35.5
+Both sexes,2000,26.2 [21.9-31.0],Middle East,26.2
+Male,2000,22.3 [16.7-28.4],Middle East,22.3
+Female,2000,36.0 [29.6-42.3],Middle East,36.0
+Both sexes,2001,26.8 [22.4-31.6],Middle East,26.8
+Male,2001,22.9 [17.3-29.0],Middle East,22.9
+Female,2001,36.4 [30.1-42.7],Middle East,36.4
+Both sexes,2002,27.4 [23.0-32.1],Middle East,27.4
+Male,2002,23.4 [17.8-29.6],Middle East,23.4
+Female,2002,36.8 [30.5-43.1],Middle East,36.8
+Both sexes,2003,27.9 [23.5-32.7],Middle East,27.9
+Male,2003,24.0 [18.4-30.1],Middle East,24.0
+Female,2003,37.2 [31.0-43.5],Middle East,37.2
+Both sexes,2004,28.3 [23.9-33.1],Middle East,28.3
+Male,2004,24.6 [19.0-30.7],Middle East,24.6
+Female,2004,37.7 [31.5-43.8],Middle East,37.7
+Both sexes,2005,28.7 [24.3-33.6],Middle East,28.7
+Male,2005,25.2 [19.6-31.3],Middle East,25.2
+Female,2005,38.1 [31.9-44.2],Middle East,38.1
+Both sexes,2006,29.1 [24.6-34.0],Middle East,29.1
+Male,2006,25.8 [20.1-31.9],Middle East,25.8
+Female,2006,38.5 [32.3-44.6],Middle East,38.5
+Both sexes,2007,29.5 [24.9-34.5],Middle East,29.5
+Male,2007,26.4 [20.6-32.5],Middle East,26.4
+Female,2007,39.0 [32.7-45.2],Middle East,39.0
+Both sexes,2008,30.0 [25.3-35.0],Middle East,30.0
+Male,2008,27.0 [21.2-33.3],Middle East,27.0
+Female,2008,39.4 [33.2-45.7],Middle East,39.4
+Both sexes,2009,30.5 [25.7-35.6],Middle East,30.5
+Male,2009,27.7 [21.8-34.0],Middle East,27.7
+Female,2009,39.9 [33.6-46.2],Middle East,39.9
+Both sexes,2010,31.1 [26.2-36.3],Middle East,31.1
+Male,2010,28.3 [22.3-34.8],Middle East,28.3
+Female,2010,40.3 [33.9-46.7],Middle East,40.3
+Both sexes,2011,31.8 [26.8-37.0],Middle East,31.8
+Male,2011,29.0 [22.8-35.5],Middle East,29.0
+Female,2011,40.8 [34.2-47.2],Middle East,40.8
+Both sexes,2012,32.4 [27.3-37.7],Middle East,32.4
+Male,2012,29.7 [23.3-36.4],Middle East,29.7
+Female,2012,41.3 [34.5-47.8],Middle East,41.3
+Both sexes,2013,33.1 [27.9-38.6],Middle East,33.1
+Male,2013,30.4 [23.8-37.3],Middle East,30.4
+Female,2013,41.7 [34.8-48.4],Middle East,41.7
+Both sexes,2014,33.8 [28.4-39.5],Middle East,33.8
+Male,2014,31.1 [24.3-38.2],Middle East,31.1
+Female,2014,42.2 [35.0-49.0],Middle East,42.2
+Both sexes,2015,34.5 [28.9-40.3],Middle East,34.5
+Male,2015,31.8 [24.7-39.1],Middle East,31.8
+Female,2015,42.6 [35.2-49.8],Middle East,42.6
+Both sexes,2016,35.1 [29.3-41.2],Middle East,35.1
+Male,2016,32.5 [25.0-40.2],Middle East,32.5
+Female,2016,43.1 [35.4-50.5],Middle East,43.1

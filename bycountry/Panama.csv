@@ -1,0 +1,127 @@
+Sex,Year,Obesity (%),Region,BMI
+Both sexes,1975,6.0 [3.4-9.5],Central America,6.0
+Male,1975,3.2 [1.1-6.7],Central America,3.2
+Female,1975,8.9 [4.3-15.1],Central America,8.9
+Both sexes,1976,6.2 [3.6-9.6],Central America,6.2
+Male,1976,3.3 [1.2-6.8],Central America,3.3
+Female,1976,9.2 [4.6-15.3],Central America,9.2
+Both sexes,1977,6.4 [3.8-9.8],Central America,6.4
+Male,1977,3.5 [1.4-7.0],Central America,3.5
+Female,1977,9.5 [4.9-15.5],Central America,9.5
+Both sexes,1978,6.7 [4.1-10.0],Central America,6.7
+Male,1978,3.7 [1.5-7.1],Central America,3.7
+Female,1978,9.7 [5.1-15.8],Central America,9.7
+Both sexes,1979,6.9 [4.3-10.2],Central America,6.9
+Male,1979,3.8 [1.7-7.3],Central America,3.8
+Female,1979,10.0 [5.4-16.1],Central America,10.0
+Both sexes,1980,7.1 [4.5-10.5],Central America,7.1
+Male,1980,4.0 [1.8-7.5],Central America,4.0
+Female,1980,10.4 [5.7-16.3],Central America,10.4
+Both sexes,1981,7.4 [4.8-10.7],Central America,7.4
+Male,1981,4.2 [1.9-7.8],Central America,4.2
+Female,1981,10.7 [6.0-16.6],Central America,10.7
+Both sexes,1982,7.7 [5.0-11.0],Central America,7.7
+Male,1982,4.4 [2.1-8.0],Central America,4.4
+Female,1982,11.0 [6.3-16.9],Central America,11.0
+Both sexes,1983,7.9 [5.3-11.3],Central America,7.9
+Male,1983,4.6 [2.2-8.3],Central America,4.6
+Female,1983,11.3 [6.7-17.2],Central America,11.3
+Both sexes,1984,8.2 [5.5-11.6],Central America,8.2
+Male,1984,4.8 [2.4-8.5],Central America,4.8
+Female,1984,11.7 [7.0-17.5],Central America,11.7
+Both sexes,1985,8.5 [5.8-11.9],Central America,8.5
+Male,1985,5.1 [2.6-8.8],Central America,5.1
+Female,1985,12.0 [7.4-17.8],Central America,12.0
+Both sexes,1986,8.8 [6.1-12.2],Central America,8.8
+Male,1986,5.3 [2.8-9.1],Central America,5.3
+Female,1986,12.4 [7.7-18.2],Central America,12.4
+Both sexes,1987,9.2 [6.4-12.5],Central America,9.2
+Male,1987,5.6 [2.9-9.4],Central America,5.6
+Female,1987,12.8 [8.1-18.6],Central America,12.8
+Both sexes,1988,9.5 [6.7-12.8],Central America,9.5
+Male,1988,5.8 [3.1-9.7],Central America,5.8
+Female,1988,13.2 [8.4-18.9],Central America,13.2
+Both sexes,1989,9.8 [7.0-13.2],Central America,9.8
+Male,1989,6.1 [3.3-10.0],Central America,6.1
+Female,1989,13.6 [8.8-19.3],Central America,13.6
+Both sexes,1990,10.2 [7.3-13.6],Central America,10.2
+Male,1990,6.4 [3.5-10.4],Central America,6.4
+Female,1990,14.0 [9.1-19.7],Central America,14.0
+Both sexes,1991,10.5 [7.6-13.9],Central America,10.5
+Male,1991,6.7 [3.8-10.7],Central America,6.7
+Female,1991,14.4 [9.5-20.1],Central America,14.4
+Both sexes,1992,10.9 [7.9-14.4],Central America,10.9
+Male,1992,7.0 [4.0-11.1],Central America,7.0
+Female,1992,14.8 [9.9-20.6],Central America,14.8
+Both sexes,1993,11.3 [8.3-14.8],Central America,11.3
+Male,1993,7.3 [4.3-11.6],Central America,7.3
+Female,1993,15.3 [10.4-21.1],Central America,15.3
+Both sexes,1994,11.8 [8.7-15.2],Central America,11.8
+Male,1994,7.7 [4.5-11.9],Central America,7.7
+Female,1994,15.8 [10.8-21.6],Central America,15.8
+Both sexes,1995,12.2 [9.1-15.7],Central America,12.2
+Male,1995,8.1 [4.9-12.4],Central America,8.1
+Female,1995,16.3 [11.3-22.2],Central America,16.3
+Both sexes,1996,12.7 [9.5-16.2],Central America,12.7
+Male,1996,8.5 [5.1-12.9],Central America,8.5
+Female,1996,16.9 [11.8-22.6],Central America,16.9
+Both sexes,1997,13.2 [10.0-16.7],Central America,13.2
+Male,1997,8.9 [5.5-13.4],Central America,8.9
+Female,1997,17.4 [12.2-23.2],Central America,17.4
+Both sexes,1998,13.7 [10.5-17.3],Central America,13.7
+Male,1998,9.4 [5.8-13.9],Central America,9.4
+Female,1998,18.0 [12.8-23.7],Central America,18.0
+Both sexes,1999,14.2 [10.9-17.8],Central America,14.2
+Male,1999,9.8 [6.2-14.4],Central America,9.8
+Female,1999,18.6 [13.3-24.4],Central America,18.6
+Both sexes,2000,14.7 [11.4-18.4],Central America,14.7
+Male,2000,10.3 [6.6-14.9],Central America,10.3
+Female,2000,19.1 [13.8-24.9],Central America,19.1
+Both sexes,2001,15.2 [11.9-18.9],Central America,15.2
+Male,2001,10.7 [7.0-15.4],Central America,10.7
+Female,2001,19.7 [14.4-25.4],Central America,19.7
+Both sexes,2002,15.7 [12.4-19.4],Central America,15.7
+Male,2002,11.2 [7.4-15.9],Central America,11.2
+Female,2002,20.2 [15.0-26.0],Central America,20.2
+Both sexes,2003,16.2 [12.8-20.0],Central America,16.2
+Male,2003,11.6 [7.7-16.4],Central America,11.6
+Female,2003,20.8 [15.5-26.6],Central America,20.8
+Both sexes,2004,16.7 [13.3-20.5],Central America,16.7
+Male,2004,12.1 [8.1-16.9],Central America,12.1
+Female,2004,21.3 [15.9-27.0],Central America,21.3
+Both sexes,2005,17.2 [13.8-20.9],Central America,17.2
+Male,2005,12.5 [8.5-17.4],Central America,12.5
+Female,2005,21.8 [16.5-27.6],Central America,21.8
+Both sexes,2006,17.7 [14.2-21.4],Central America,17.7
+Male,2006,13.0 [8.8-18.0],Central America,13.0
+Female,2006,22.3 [16.9-28.2],Central America,22.3
+Both sexes,2007,18.2 [14.6-22.0],Central America,18.2
+Male,2007,13.4 [9.2-18.6],Central America,13.4
+Female,2007,22.9 [17.4-28.7],Central America,22.9
+Both sexes,2008,18.6 [15.0-22.5],Central America,18.6
+Male,2008,13.9 [9.5-19.0],Central America,13.9
+Female,2008,23.4 [17.8-29.3],Central America,23.4
+Both sexes,2009,19.1 [15.4-23.1],Central America,19.1
+Male,2009,14.3 [9.9-19.6],Central America,14.3
+Female,2009,23.9 [18.2-29.9],Central America,23.9
+Both sexes,2010,19.6 [15.8-23.6],Central America,19.6
+Male,2010,14.8 [10.3-20.2],Central America,14.8
+Female,2010,24.4 [18.6-30.6],Central America,24.4
+Both sexes,2011,20.1 [16.2-24.2],Central America,20.1
+Male,2011,15.3 [10.6-20.9],Central America,15.3
+Female,2011,24.9 [19.0-31.2],Central America,24.9
+Both sexes,2012,20.6 [16.6-24.9],Central America,20.6
+Male,2012,15.7 [10.9-21.6],Central America,15.7
+Female,2012,25.4 [19.4-31.9],Central America,25.4
+Both sexes,2013,21.1 [17.0-25.5],Central America,21.1
+Male,2013,16.2 [11.2-22.2],Central America,16.2
+Female,2013,26.0 [19.8-32.6],Central America,26.0
+Both sexes,2014,21.6 [17.4-26.2],Central America,21.6
+Male,2014,16.7 [11.5-23.0],Central America,16.7
+Female,2014,26.5 [20.2-33.3],Central America,26.5
+Both sexes,2015,22.2 [17.8-26.9],Central America,22.2
+Male,2015,17.3 [11.7-23.8],Central America,17.3
+Female,2015,27.1 [20.5-34.1],Central America,27.1
+Both sexes,2016,22.7 [18.2-27.6],Central America,22.7
+Male,2016,17.8 [12.0-24.6],Central America,17.8
+Female,2016,27.6 [20.8-34.9],Central America,27.6

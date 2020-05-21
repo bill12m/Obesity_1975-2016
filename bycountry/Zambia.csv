@@ -1,0 +1,127 @@
+Sex,Year,Obesity (%),Region,BMI
+Both sexes,1975,1.5 [0.7-3.0],Southern Africa,1.5
+Male,1975,0.5 [0.1-1.4],Southern Africa,0.5
+Female,1975,2.5 [1.0-5.1],Southern Africa,2.5
+Both sexes,1976,1.6 [0.7-3.1],Southern Africa,1.6
+Male,1976,0.5 [0.1-1.4],Southern Africa,0.5
+Female,1976,2.7 [1.1-5.3],Southern Africa,2.7
+Both sexes,1977,1.7 [0.8-3.2],Southern Africa,1.7
+Male,1977,0.5 [0.1-1.5],Southern Africa,0.5
+Female,1977,2.9 [1.2-5.4],Southern Africa,2.9
+Both sexes,1978,1.9 [0.9-3.3],Southern Africa,1.9
+Male,1978,0.6 [0.2-1.5],Southern Africa,0.6
+Female,1978,3.0 [1.3-5.6],Southern Africa,3.0
+Both sexes,1979,2.0 [1.0-3.4],Southern Africa,2.0
+Male,1979,0.6 [0.2-1.6],Southern Africa,0.6
+Female,1979,3.2 [1.5-5.8],Southern Africa,3.2
+Both sexes,1980,2.1 [1.1-3.5],Southern Africa,2.1
+Male,1980,0.7 [0.2-1.7],Southern Africa,0.7
+Female,1980,3.4 [1.6-6.0],Southern Africa,3.4
+Both sexes,1981,2.2 [1.2-3.6],Southern Africa,2.2
+Male,1981,0.7 [0.2-1.8],Southern Africa,0.7
+Female,1981,3.6 [1.8-6.2],Southern Africa,3.6
+Both sexes,1982,2.3 [1.3-3.8],Southern Africa,2.3
+Male,1982,0.8 [0.2-1.9],Southern Africa,0.8
+Female,1982,3.8 [1.9-6.4],Southern Africa,3.8
+Both sexes,1983,2.5 [1.4-3.9],Southern Africa,2.5
+Male,1983,0.8 [0.3-1.9],Southern Africa,0.8
+Female,1983,4.0 [2.1-6.6],Southern Africa,4.0
+Both sexes,1984,2.6 [1.5-4.0],Southern Africa,2.6
+Male,1984,0.9 [0.3-2.0],Southern Africa,0.9
+Female,1984,4.1 [2.2-6.8],Southern Africa,4.1
+Both sexes,1985,2.7 [1.6-4.1],Southern Africa,2.7
+Male,1985,0.9 [0.3-2.1],Southern Africa,0.9
+Female,1985,4.3 [2.4-7.0],Southern Africa,4.3
+Both sexes,1986,2.8 [1.7-4.3],Southern Africa,2.8
+Male,1986,1.0 [0.3-2.1],Southern Africa,1.0
+Female,1986,4.5 [2.5-7.1],Southern Africa,4.5
+Both sexes,1987,2.9 [1.8-4.4],Southern Africa,2.9
+Male,1987,1.0 [0.4-2.2],Southern Africa,1.0
+Female,1987,4.6 [2.6-7.3],Southern Africa,4.6
+Both sexes,1988,3.0 [1.9-4.5],Southern Africa,3.0
+Male,1988,1.1 [0.4-2.3],Southern Africa,1.1
+Female,1988,4.8 [2.8-7.5],Southern Africa,4.8
+Both sexes,1989,3.1 [2.0-4.6],Southern Africa,3.1
+Male,1989,1.1 [0.4-2.3],Southern Africa,1.1
+Female,1989,4.9 [2.9-7.6],Southern Africa,4.9
+Both sexes,1990,3.2 [2.0-4.7],Southern Africa,3.2
+Male,1990,1.2 [0.4-2.4],Southern Africa,1.2
+Female,1990,5.1 [3.0-7.8],Southern Africa,5.1
+Both sexes,1991,3.3 [2.1-4.8],Southern Africa,3.3
+Male,1991,1.2 [0.5-2.4],Southern Africa,1.2
+Female,1991,5.3 [3.2-7.9],Southern Africa,5.3
+Both sexes,1992,3.4 [2.2-4.9],Southern Africa,3.4
+Male,1992,1.3 [0.5-2.5],Southern Africa,1.3
+Female,1992,5.4 [3.3-8.1],Southern Africa,5.4
+Both sexes,1993,3.5 [2.3-5.0],Southern Africa,3.5
+Male,1993,1.3 [0.5-2.6],Southern Africa,1.3
+Female,1993,5.6 [3.5-8.2],Southern Africa,5.6
+Both sexes,1994,3.6 [2.4-5.1],Southern Africa,3.6
+Male,1994,1.3 [0.5-2.6],Southern Africa,1.3
+Female,1994,5.7 [3.6-8.4],Southern Africa,5.7
+Both sexes,1995,3.7 [2.5-5.2],Southern Africa,3.7
+Male,1995,1.4 [0.6-2.7],Southern Africa,1.4
+Female,1995,5.9 [3.7-8.6],Southern Africa,5.9
+Both sexes,1996,3.8 [2.6-5.3],Southern Africa,3.8
+Male,1996,1.4 [0.6-2.8],Southern Africa,1.4
+Female,1996,6.0 [3.9-8.7],Southern Africa,6.0
+Both sexes,1997,3.9 [2.7-5.4],Southern Africa,3.9
+Male,1997,1.5 [0.6-2.8],Southern Africa,1.5
+Female,1997,6.2 [4.0-8.9],Southern Africa,6.2
+Both sexes,1998,4.0 [2.8-5.5],Southern Africa,4.0
+Male,1998,1.5 [0.7-2.9],Southern Africa,1.5
+Female,1998,6.4 [4.2-9.1],Southern Africa,6.4
+Both sexes,1999,4.1 [2.9-5.6],Southern Africa,4.1
+Male,1999,1.6 [0.7-2.9],Southern Africa,1.6
+Female,1999,6.5 [4.3-9.3],Southern Africa,6.5
+Both sexes,2000,4.2 [3.0-5.8],Southern Africa,4.2
+Male,2000,1.6 [0.7-3.0],Southern Africa,1.6
+Female,2000,6.7 [4.5-9.5],Southern Africa,6.7
+Both sexes,2001,4.4 [3.1-5.9],Southern Africa,4.4
+Male,2001,1.7 [0.8-3.1],Southern Africa,1.7
+Female,2001,6.9 [4.7-9.7],Southern Africa,6.9
+Both sexes,2002,4.5 [3.2-6.1],Southern Africa,4.5
+Male,2002,1.8 [0.8-3.2],Southern Africa,1.8
+Female,2002,7.2 [4.9-10.0],Southern Africa,7.2
+Both sexes,2003,4.7 [3.4-6.3],Southern Africa,4.7
+Male,2003,1.8 [0.8-3.3],Southern Africa,1.8
+Female,2003,7.4 [5.1-10.3],Southern Africa,7.4
+Both sexes,2004,4.9 [3.5-6.5],Southern Africa,4.9
+Male,2004,1.9 [0.9-3.5],Southern Africa,1.9
+Female,2004,7.7 [5.3-10.6],Southern Africa,7.7
+Both sexes,2005,5.1 [3.7-6.7],Southern Africa,5.1
+Male,2005,2.0 [0.9-3.6],Southern Africa,2.0
+Female,2005,8.0 [5.6-10.9],Southern Africa,8.0
+Both sexes,2006,5.3 [3.8-6.9],Southern Africa,5.3
+Male,2006,2.1 [1.0-3.8],Southern Africa,2.1
+Female,2006,8.3 [5.8-11.3],Southern Africa,8.3
+Both sexes,2007,5.5 [4.0-7.2],Southern Africa,5.5
+Male,2007,2.2 [1.1-3.9],Southern Africa,2.2
+Female,2007,8.7 [6.1-11.8],Southern Africa,8.7
+Both sexes,2008,5.7 [4.2-7.6],Southern Africa,5.7
+Male,2008,2.3 [1.1-4.1],Southern Africa,2.3
+Female,2008,9.0 [6.3-12.2],Southern Africa,9.0
+Both sexes,2009,6.0 [4.4-7.9],Southern Africa,6.0
+Male,2009,2.5 [1.2-4.3],Southern Africa,2.5
+Female,2009,9.4 [6.6-12.7],Southern Africa,9.4
+Both sexes,2010,6.3 [4.6-8.2],Southern Africa,6.3
+Male,2010,2.6 [1.2-4.6],Southern Africa,2.6
+Female,2010,9.8 [6.9-13.3],Southern Africa,9.8
+Both sexes,2011,6.5 [4.8-8.6],Southern Africa,6.5
+Male,2011,2.7 [1.3-4.8],Southern Africa,2.7
+Female,2011,10.2 [7.1-13.8],Southern Africa,10.2
+Both sexes,2012,6.8 [5.0-8.9],Southern Africa,6.8
+Male,2012,2.9 [1.4-5.1],Southern Africa,2.9
+Female,2012,10.6 [7.4-14.4],Southern Africa,10.6
+Both sexes,2013,7.1 [5.2-9.4],Southern Africa,7.1
+Male,2013,3.0 [1.5-5.4],Southern Africa,3.0
+Female,2013,11.1 [7.6-15.0],Southern Africa,11.1
+Both sexes,2014,7.4 [5.4-9.8],Southern Africa,7.4
+Male,2014,3.2 [1.5-5.7],Southern Africa,3.2
+Female,2014,11.5 [7.9-15.7],Southern Africa,11.5
+Both sexes,2015,7.7 [5.6-10.2],Southern Africa,7.7
+Male,2015,3.4 [1.6-6.1],Southern Africa,3.4
+Female,2015,12.0 [8.2-16.4],Southern Africa,12.0
+Both sexes,2016,8.1 [5.8-10.7],Southern Africa,8.1
+Male,2016,3.6 [1.7-6.5],Southern Africa,3.6
+Female,2016,12.4 [8.5-17.1],Southern Africa,12.4

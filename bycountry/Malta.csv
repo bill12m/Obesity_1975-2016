@@ -1,0 +1,127 @@
+Sex,Year,Obesity (%),Region,BMI
+Both sexes,1975,15.6 [11.0-21.0],Southern Europe,15.6
+Male,1975,11.7 [6.3-18.7],Southern Europe,11.7
+Female,1975,19.0 [12.0-27.4],Southern Europe,19.0
+Both sexes,1976,15.9 [11.3-21.1],Southern Europe,15.9
+Male,1976,11.9 [6.6-18.8],Southern Europe,11.9
+Female,1976,19.2 [12.3-27.3],Southern Europe,19.2
+Both sexes,1977,16.1 [11.7-21.2],Southern Europe,16.1
+Male,1977,12.2 [7.0-19.0],Southern Europe,12.2
+Female,1977,19.4 [12.6-27.1],Southern Europe,19.4
+Both sexes,1978,16.3 [12.0-21.3],Southern Europe,16.3
+Male,1978,12.5 [7.3-19.2],Southern Europe,12.5
+Female,1978,19.6 [13.0-27.1],Southern Europe,19.6
+Both sexes,1979,16.6 [12.3-21.5],Southern Europe,16.6
+Male,1979,12.8 [7.6-19.4],Southern Europe,12.8
+Female,1979,19.8 [13.2-27.2],Southern Europe,19.8
+Both sexes,1980,16.8 [12.6-21.6],Southern Europe,16.8
+Male,1980,13.1 [8.0-19.5],Southern Europe,13.1
+Female,1980,20.0 [13.5-27.2],Southern Europe,20.0
+Both sexes,1981,17.1 [12.9-21.8],Southern Europe,17.1
+Male,1981,13.5 [8.3-19.7],Southern Europe,13.5
+Female,1981,20.2 [13.8-27.3],Southern Europe,20.2
+Both sexes,1982,17.3 [13.2-22.0],Southern Europe,17.3
+Male,1982,13.8 [8.6-20.1],Southern Europe,13.8
+Female,1982,20.4 [14.1-27.4],Southern Europe,20.4
+Both sexes,1983,17.6 [13.5-22.3],Southern Europe,17.6
+Male,1983,14.1 [9.0-20.4],Southern Europe,14.1
+Female,1983,20.6 [14.5-27.6],Southern Europe,20.6
+Both sexes,1984,17.8 [13.8-22.5],Southern Europe,17.8
+Male,1984,14.5 [9.3-20.7],Southern Europe,14.5
+Female,1984,20.8 [14.7-27.6],Southern Europe,20.8
+Both sexes,1985,18.1 [14.0-22.7],Southern Europe,18.1
+Male,1985,14.8 [9.6-21.0],Southern Europe,14.8
+Female,1985,21.0 [15.0-27.9],Southern Europe,21.0
+Both sexes,1986,18.4 [14.4-23.0],Southern Europe,18.4
+Male,1986,15.2 [10.0-21.3],Southern Europe,15.2
+Female,1986,21.2 [15.3-28.0],Southern Europe,21.2
+Both sexes,1987,18.7 [14.7-23.2],Southern Europe,18.7
+Male,1987,15.5 [10.3-21.7],Southern Europe,15.5
+Female,1987,21.4 [15.5-28.2],Southern Europe,21.4
+Both sexes,1988,19.0 [15.0-23.6],Southern Europe,19.0
+Male,1988,15.9 [10.7-22.2],Southern Europe,15.9
+Female,1988,21.7 [15.8-28.4],Southern Europe,21.7
+Both sexes,1989,19.3 [15.3-23.9],Southern Europe,19.3
+Male,1989,16.3 [11.0-22.5],Southern Europe,16.3
+Female,1989,21.9 [15.9-28.6],Southern Europe,21.9
+Both sexes,1990,19.6 [15.6-24.2],Southern Europe,19.6
+Male,1990,16.7 [11.3-23.0],Southern Europe,16.7
+Female,1990,22.2 [16.3-28.8],Southern Europe,22.2
+Both sexes,1991,19.9 [15.9-24.6],Southern Europe,19.9
+Male,1991,17.1 [11.7-23.4],Southern Europe,17.1
+Female,1991,22.4 [16.4-29.0],Southern Europe,22.4
+Both sexes,1992,20.3 [16.2-24.9],Southern Europe,20.3
+Male,1992,17.6 [12.0-23.8],Southern Europe,17.6
+Female,1992,22.7 [16.7-29.3],Southern Europe,22.7
+Both sexes,1993,20.6 [16.5-25.3],Southern Europe,20.6
+Male,1993,18.0 [12.4-24.3],Southern Europe,18.0
+Female,1993,22.9 [17.0-29.6],Southern Europe,22.9
+Both sexes,1994,20.9 [16.8-25.5],Southern Europe,20.9
+Male,1994,18.4 [12.8-24.8],Southern Europe,18.4
+Female,1994,23.2 [17.2-29.8],Southern Europe,23.2
+Both sexes,1995,21.3 [17.1-25.9],Southern Europe,21.3
+Male,1995,18.9 [13.2-25.2],Southern Europe,18.9
+Female,1995,23.5 [17.4-30.1],Southern Europe,23.5
+Both sexes,1996,21.6 [17.4-26.2],Southern Europe,21.6
+Male,1996,19.3 [13.6-25.7],Southern Europe,19.3
+Female,1996,23.7 [17.7-30.4],Southern Europe,23.7
+Both sexes,1997,22.0 [17.8-26.6],Southern Europe,22.0
+Male,1997,19.8 [14.0-26.2],Southern Europe,19.8
+Female,1997,24.0 [18.0-30.7],Southern Europe,24.0
+Both sexes,1998,22.4 [18.1-26.9],Southern Europe,22.4
+Male,1998,20.3 [14.4-26.7],Southern Europe,20.3
+Female,1998,24.3 [18.2-30.8],Southern Europe,24.3
+Both sexes,1999,22.7 [18.4-27.4],Southern Europe,22.7
+Male,1999,20.7 [14.9-27.2],Southern Europe,20.7
+Female,1999,24.6 [18.4-31.1],Southern Europe,24.6
+Both sexes,2000,23.1 [18.8-27.7],Southern Europe,23.1
+Male,2000,21.2 [15.3-27.7],Southern Europe,21.2
+Female,2000,24.8 [18.6-31.4],Southern Europe,24.8
+Both sexes,2001,23.5 [19.2-28.1],Southern Europe,23.5
+Male,2001,21.7 [15.8-28.2],Southern Europe,21.7
+Female,2001,25.1 [18.9-31.6],Southern Europe,25.1
+Both sexes,2002,23.9 [19.5-28.5],Southern Europe,23.9
+Male,2002,22.2 [16.2-28.8],Southern Europe,22.2
+Female,2002,25.4 [19.2-31.9],Southern Europe,25.4
+Both sexes,2003,24.2 [19.8-28.9],Southern Europe,24.2
+Male,2003,22.7 [16.7-29.3],Southern Europe,22.7
+Female,2003,25.6 [19.5-32.2],Southern Europe,25.6
+Both sexes,2004,24.6 [20.2-29.3],Southern Europe,24.6
+Male,2004,23.2 [17.1-29.9],Southern Europe,23.2
+Female,2004,25.9 [19.8-32.5],Southern Europe,25.9
+Both sexes,2005,25.0 [20.5-29.7],Southern Europe,25.0
+Male,2005,23.7 [17.6-30.4],Southern Europe,23.7
+Female,2005,26.2 [19.9-32.8],Southern Europe,26.2
+Both sexes,2006,25.3 [20.8-30.0],Southern Europe,25.3
+Male,2006,24.2 [17.9-31.0],Southern Europe,24.2
+Female,2006,26.4 [20.1-33.1],Southern Europe,26.4
+Both sexes,2007,25.7 [21.1-30.5],Southern Europe,25.7
+Male,2007,24.7 [18.4-31.6],Southern Europe,24.7
+Female,2007,26.6 [20.2-33.4],Southern Europe,26.6
+Both sexes,2008,26.1 [21.4-30.9],Southern Europe,26.1
+Male,2008,25.2 [18.9-32.1],Southern Europe,25.2
+Female,2008,26.9 [20.3-33.7],Southern Europe,26.9
+Both sexes,2009,26.4 [21.7-31.3],Southern Europe,26.4
+Male,2009,25.7 [19.3-32.7],Southern Europe,25.7
+Female,2009,27.1 [20.3-34.1],Southern Europe,27.1
+Both sexes,2010,26.8 [21.9-31.8],Southern Europe,26.8
+Male,2010,26.2 [19.6-33.3],Southern Europe,26.2
+Female,2010,27.3 [20.4-34.4],Southern Europe,27.3
+Both sexes,2011,27.1 [22.2-32.2],Southern Europe,27.1
+Male,2011,26.7 [19.9-34.0],Southern Europe,26.7
+Female,2011,27.5 [20.4-34.8],Southern Europe,27.5
+Both sexes,2012,27.5 [22.6-32.7],Southern Europe,27.5
+Male,2012,27.1 [20.3-34.5],Southern Europe,27.1
+Female,2012,27.7 [20.6-35.2],Southern Europe,27.7
+Both sexes,2013,27.8 [22.8-33.2],Southern Europe,27.8
+Male,2013,27.6 [20.6-35.2],Southern Europe,27.6
+Female,2013,27.9 [20.6-35.6],Southern Europe,27.9
+Both sexes,2014,28.2 [22.9-33.7],Southern Europe,28.2
+Male,2014,28.1 [20.9-36.0],Southern Europe,28.1
+Female,2014,28.1 [20.6-36.0],Southern Europe,28.1
+Both sexes,2015,28.5 [23.1-34.2],Southern Europe,28.5
+Male,2015,28.6 [21.1-36.7],Southern Europe,28.6
+Female,2015,28.3 [20.7-36.5],Southern Europe,28.3
+Both sexes,2016,28.9 [23.3-34.7],Southern Europe,28.9
+Male,2016,29.2 [21.3-37.5],Southern Europe,29.2
+Female,2016,28.5 [20.6-36.9],Southern Europe,28.5

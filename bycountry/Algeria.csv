@@ -1,0 +1,127 @@
+Sex,Year,Obesity (%),Region,BMI
+Both sexes,1975,6.9 [3.9-10.9],North Africa,6.9
+Male,1975,2.8 [1.0-6.0],North Africa,2.8
+Female,1975,10.7 [5.5-18.0],North Africa,10.7
+Both sexes,1976,7.2 [4.1-11.1],North Africa,7.2
+Male,1976,2.9 [1.1-6.1],North Africa,2.9
+Female,1976,11.1 [5.8-18.2],North Africa,11.1
+Both sexes,1977,7.4 [4.3-11.3],North Africa,7.4
+Male,1977,3.1 [1.2-6.2],North Africa,3.1
+Female,1977,11.4 [6.2-18.4],North Africa,11.4
+Both sexes,1978,7.7 [4.6-11.4],North Africa,7.7
+Male,1978,3.2 [1.3-6.4],North Africa,3.2
+Female,1978,11.8 [6.5-18.6],North Africa,11.8
+Both sexes,1979,8.0 [4.9-11.7],North Africa,8.0
+Male,1979,3.4 [1.4-6.6],North Africa,3.4
+Female,1979,12.2 [6.9-18.9],North Africa,12.2
+Both sexes,1980,8.3 [5.2-12.0],North Africa,8.3
+Male,1980,3.6 [1.6-6.7],North Africa,3.6
+Female,1980,12.7 [7.3-19.3],North Africa,12.7
+Both sexes,1981,8.6 [5.5-12.3],North Africa,8.6
+Male,1981,3.8 [1.7-7.0],North Africa,3.8
+Female,1981,13.1 [7.8-19.7],North Africa,13.1
+Both sexes,1982,9.0 [5.9-12.6],North Africa,9.0
+Male,1982,4.0 [1.9-7.2],North Africa,4.0
+Female,1982,13.6 [8.2-20.1],North Africa,13.6
+Both sexes,1983,9.4 [6.2-12.9],North Africa,9.4
+Male,1983,4.3 [2.0-7.5],North Africa,4.3
+Female,1983,14.1 [8.8-20.5],North Africa,14.1
+Both sexes,1984,9.7 [6.6-13.3],North Africa,9.7
+Male,1984,4.5 [2.2-7.8],North Africa,4.5
+Female,1984,14.6 [9.3-21.0],North Africa,14.6
+Both sexes,1985,10.2 [7.0-13.7],North Africa,10.2
+Male,1985,4.8 [2.4-8.1],North Africa,4.8
+Female,1985,15.2 [9.8-21.4],North Africa,15.2
+Both sexes,1986,10.6 [7.4-14.1],North Africa,10.6
+Male,1986,5.1 [2.6-8.5],North Africa,5.1
+Female,1986,15.7 [10.4-21.8],North Africa,15.7
+Both sexes,1987,11.0 [7.8-14.6],North Africa,11.0
+Male,1987,5.4 [2.8-8.9],North Africa,5.4
+Female,1987,16.3 [10.9-22.4],North Africa,16.3
+Both sexes,1988,11.5 [8.2-15.0],North Africa,11.5
+Male,1988,5.7 [3.0-9.2],North Africa,5.7
+Female,1988,16.9 [11.4-23.0],North Africa,16.9
+Both sexes,1989,11.9 [8.7-15.4],North Africa,11.9
+Male,1989,6.0 [3.2-9.6],North Africa,6.0
+Female,1989,17.5 [12.0-23.5],North Africa,17.5
+Both sexes,1990,12.4 [9.1-15.9],North Africa,12.4
+Male,1990,6.3 [3.5-10.0],North Africa,6.3
+Female,1990,18.1 [12.5-24.0],North Africa,18.1
+Both sexes,1991,12.8 [9.6-16.3],North Africa,12.8
+Male,1991,6.7 [3.7-10.4],North Africa,6.7
+Female,1991,18.7 [13.1-24.5],North Africa,18.7
+Both sexes,1992,13.3 [10.0-16.8],North Africa,13.3
+Male,1992,7.0 [4.0-10.8],North Africa,7.0
+Female,1992,19.3 [13.7-25.2],North Africa,19.3
+Both sexes,1993,13.8 [10.5-17.3],North Africa,13.8
+Male,1993,7.4 [4.3-11.3],North Africa,7.4
+Female,1993,19.9 [14.3-25.8],North Africa,19.9
+Both sexes,1994,14.3 [10.9-17.8],North Africa,14.3
+Male,1994,7.8 [4.6-11.8],North Africa,7.8
+Female,1994,20.5 [14.9-26.4],North Africa,20.5
+Both sexes,1995,14.8 [11.4-18.3],North Africa,14.8
+Male,1995,8.2 [4.8-12.3],North Africa,8.2
+Female,1995,21.1 [15.5-27.0],North Africa,21.1
+Both sexes,1996,15.3 [11.9-18.8],North Africa,15.3
+Male,1996,8.6 [5.1-12.8],North Africa,8.6
+Female,1996,21.7 [16.1-27.7],North Africa,21.7
+Both sexes,1997,15.8 [12.4-19.4],North Africa,15.8
+Male,1997,9.0 [5.5-13.3],North Africa,9.0
+Female,1997,22.4 [16.7-28.3],North Africa,22.4
+Both sexes,1998,16.3 [12.8-19.9],North Africa,16.3
+Male,1998,9.4 [5.8-13.8],North Africa,9.4
+Female,1998,23.0 [17.4-28.9],North Africa,23.0
+Both sexes,1999,16.8 [13.4-20.5],North Africa,16.8
+Male,1999,9.9 [6.2-14.3],North Africa,9.9
+Female,1999,23.6 [18.0-29.6],North Africa,23.6
+Both sexes,2000,17.4 [13.8-21.1],North Africa,17.4
+Male,2000,10.3 [6.6-14.8],North Africa,10.3
+Female,2000,24.2 [18.7-30.2],North Africa,24.2
+Both sexes,2001,17.9 [14.4-21.6],North Africa,17.9
+Male,2001,10.8 [6.9-15.4],North Africa,10.8
+Female,2001,24.9 [19.3-30.9],North Africa,24.9
+Both sexes,2002,18.5 [14.9-22.2],North Africa,18.5
+Male,2002,11.3 [7.4-16.0],North Africa,11.3
+Female,2002,25.5 [19.9-31.6],North Africa,25.5
+Both sexes,2003,19.1 [15.5-22.8],North Africa,19.1
+Male,2003,11.8 [7.8-16.6],North Africa,11.8
+Female,2003,26.2 [20.5-32.2],North Africa,26.2
+Both sexes,2004,19.6 [16.0-23.4],North Africa,19.6
+Male,2004,12.3 [8.2-17.2],North Africa,12.3
+Female,2004,26.8 [21.2-32.9],North Africa,26.8
+Both sexes,2005,20.2 [16.5-24.1],North Africa,20.2
+Male,2005,12.9 [8.6-17.8],North Africa,12.9
+Female,2005,27.5 [21.8-33.5],North Africa,27.5
+Both sexes,2006,20.8 [17.1-24.7],North Africa,20.8
+Male,2006,13.4 [9.1-18.4],North Africa,13.4
+Female,2006,28.2 [22.5-34.1],North Africa,28.2
+Both sexes,2007,21.4 [17.6-25.4],North Africa,21.4
+Male,2007,14.0 [9.5-19.1],North Africa,14.0
+Female,2007,28.8 [23.1-34.8],North Africa,28.8
+Both sexes,2008,22.0 [18.2-26.1],North Africa,22.0
+Male,2008,14.6 [10.0-19.8],North Africa,14.6
+Female,2008,29.5 [23.7-35.6],North Africa,29.5
+Both sexes,2009,22.7 [18.8-26.8],North Africa,22.7
+Male,2009,15.2 [10.5-20.5],North Africa,15.2
+Female,2009,30.2 [24.3-36.4],North Africa,30.2
+Both sexes,2010,23.3 [19.3-27.6],North Africa,23.3
+Male,2010,15.8 [11.0-21.4],North Africa,15.8
+Female,2010,30.9 [24.9-37.3],North Africa,30.9
+Both sexes,2011,24.0 [19.9-28.4],North Africa,24.0
+Male,2011,16.5 [11.4-22.3],North Africa,16.5
+Female,2011,31.5 [25.4-38.2],North Africa,31.5
+Both sexes,2012,24.7 [20.4-29.2],North Africa,24.7
+Male,2012,17.1 [11.9-23.2],North Africa,17.1
+Female,2012,32.2 [25.9-39.0],North Africa,32.2
+Both sexes,2013,25.3 [20.9-30.1],North Africa,25.3
+Male,2013,17.8 [12.3-24.1],North Africa,17.8
+Female,2013,32.9 [26.4-39.8],North Africa,32.9
+Both sexes,2014,26.0 [21.4-30.9],North Africa,26.0
+Male,2014,18.5 [12.7-25.0],North Africa,18.5
+Female,2014,33.6 [26.7-40.7],North Africa,33.6
+Both sexes,2015,26.7 [21.9-31.8],North Africa,26.7
+Male,2015,19.2 [13.2-26.1],North Africa,19.2
+Female,2015,34.2 [27.1-41.7],North Africa,34.2
+Both sexes,2016,27.4 [22.5-32.7],North Africa,27.4
+Male,2016,19.9 [13.6-27.1],North Africa,19.9
+Female,2016,34.9 [27.6-42.7],North Africa,34.9
