@@ -5,17 +5,29 @@ import seaborn as sns
 
 sp.call('clear', shell = True)
 
-continents = ['europe', 'asia', 'north_america', 'south_america', 'africa', 'oceania']
+data_clean = pd.read_csv('data_clean.csv')
+multi_index = pd.MultiIndex.from_frame(data_clean[['Continent','Country','Region']])
+data_clean = data_clean.set_index(multi_index)
+data_clean = data_clean.drop(columns = ['Continent', 'Country', 'Region'])
 
-#Plot each continent's change in BMI by gender
-for continent in continents:
-    continent_df = pd.read_csv('bycontinent/'+str(continent)+'.csv')
-    del(continent_df['Unnamed: 0'])
-    #Remove 'Both sexes' from the gender column
-    continent_df = continent_df.where(
-        continent_df['Sex'] != 'Both sexes').dropna()
-    
-    sns.set_palette('Paired')
-    g = sns.relplot(kind = 'line', data = continent_df,
-                    x = 'Year', y = 'BMI',
-                    hue = 'Sex')
+eastern_europe = data_clean.xs('Eastern Europe', level = 2).reset_index()
+#eastern_europe['Region'] = eastern_europe['Country']
+
+central_europe = ['Austria', 'Czechia', 'Hungary', 'Poland', 'Slovakia', 'Central Europe']
+baltics = ['Estonia', 'Latvia', 'Lithuania', 'Baltics']
+caucuses = ['Armenia', 'Azerbaijan', 'Georgia', 'Caucuses']
+slavic_europe = ['Belarus', 'Republic of Moldova', 'Romania', 'Russian Federation', 'Ukraine', 'Slavic Europe']
+list_of_lists = [eastern_europe, central_europe, baltics, caucuses, slavic_europe]
+
+for index in eastern_europe.index:
+    for region in list_of_lists:
+        for country in region:
+            if eastern_europe.at[index,'Country'] == country:
+                eastern_europe.at[index,'Region'] = region[-1]
+
+del(index, region)
+regions = eastern_europe['Region'].unique()
+for region in regions:
+    df_region = eastern_europe['Region'] == region
+    g = sns.relplot(data = df_region, kind = 'line',
+                   x = 'Year', y = 'BMI', hue = 'Country')    
